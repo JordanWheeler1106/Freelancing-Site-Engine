@@ -1,0 +1,9 @@
+.widget.widget_archive > select,
+.widget.widget_categories > select {
+  width: 100%;
+  height: 35px;
+  border: 1px solid rgba(140, 151, 178, 0.4);
+  border-radius: 3px;
+  color: #8b97b1;
+  padding-left: 10px;
+}

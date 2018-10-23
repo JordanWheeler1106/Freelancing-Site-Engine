@@ -1,0 +1,4668 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ClassfiedEngine v1.6.2\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"POT-Creation-Date: 2015-05-21 08:44+0700\n"
+"PO-Revision-Date: 2015-06-17 10:24+0700\n"
+"Last-Translator: dakachi <david87dang@gmail.com>\n"
+"Language-Team: Engine Themes <contact@enginethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: E:\\product-release\\freelanceengine"
+"\\freelanceengine\n"
+
+msgid " %s's Profile "
+msgstr " %s's Профиль "
+
+msgid " Comments"
+msgstr "Комментарии"
+
+msgid ""
+" Enabling this will make the video on the header automatically repeated."
+msgstr ""
+" Применяя эту функцию, видео в шапке будет автоматически проигрываться снова."
+
+msgid " Profiles listing page Slug"
+msgstr "Profiles listing page Slug"
+
+msgid " Select the best one(s) "
+msgstr "выберите лучший/ие"
+
+msgid " Skills (max is 5)"
+msgstr "Перечислите (максимум 5)"
+
+msgid ""
+" The payment is pending for review. For more information, contact PayPal "
+"Customer Service."
+msgstr ""
+"Оплата задержана для проверки. Для дополнительной информации свяжитесь с "
+"PaypalCthdbcjv поддержки клиентов"
+
+msgid " You must login to accept bid."
+msgstr "Вы должны войти, чтобы принять предложение."
+
+msgid " by "
+msgstr "им"
+
+msgid " site info, admin email"
+msgstr " информация о сайте, email администратора"
+
+msgid "$"
+msgstr "$"
+
+msgid "% Comments on this article"
+msgstr "% комментариев"
+
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+msgid "%d <span class=\"text-normal\">Comments</span>"
+msgstr "%d <span class=\"text-normal\">Комментарии</span>"
+
+msgid "%d Comment"
+msgstr "%d комментариев"
+
+msgid "%d Comments"
+msgstr "%d комментариев"
+
+msgid "%d points"
+msgstr "%d баллов"
+
+msgid "%d review"
+msgstr "%d отзыв"
+
+msgid "%d reviews"
+msgstr "%d отзывов"
+
+msgid "%d views"
+msgstr "%d просмотров"
+
+msgid "%d year"
+msgstr "%d год"
+
+msgid "%d years"
+msgstr "%d лет"
+
+msgid "%s <span class=\"text-normal\">bids</span>"
+msgstr "%s <span class=\"text-normal\">заявок</span>"
+
+msgid "%s Bidders"
+msgstr "%s предложений"
+
+msgid "%s Profile"
+msgstr "%s Профиль"
+
+msgid "%s Profiles "
+msgstr "%s Профилей"
+
+msgid "%s Projects for you"
+msgstr "%s Проектов для вас"
+
+msgid "%s ago"
+msgstr "%s назад"
+
+msgid "%s bid for project \"%s\""
+msgstr "%s предложений к проекту \"%s\""
+
+msgid "%s bid for your project %s"
+msgstr "%s сделал предложение к проекту %s"
+
+msgid "%s color has been updated"
+msgstr "%s цвет был обновлен"
+
+msgid "%s day"
+msgstr "%s дня"
+
+msgid "%s days"
+msgstr "%s дней"
+
+msgid "%s for %d days"
+msgstr "%s за %d дней"
+
+msgid "%s has finish project. You will receive payment after you review him."
+msgstr ""
+"%s закончили проект. Вы получите оплату после того, как разместите отзыв о "
+"нем."
+
+msgid "%s has reviewed on %s"
+msgstr "%s было просмотрено %s"
+
+msgid "%s have a new invite from %s"
+msgstr "%s у вас приглашение к %s"
+
+msgid "%s hour"
+msgstr "%s час"
+
+msgid "%s hours"
+msgstr "%s часов"
+
+msgid "%s icon has been updated"
+msgstr "%s иконка была обновлена"
+
+msgid "%s invited you to join project %s"
+msgstr "%s пригласил вас на проект %s"
+
+msgid "%s left"
+msgstr "%s влево"
+
+msgid "%s min"
+msgstr "%s мин"
+
+msgid "%s mins"
+msgstr "%s минут"
+
+msgid "%s month"
+msgstr "%s месяц"
+
+msgid "%s months"
+msgstr "%s месяцев"
+
+msgid "%s overview"
+msgstr "%s Обзоров"
+
+msgid "%s reviewed project %s"
+msgstr "%s оставил отзыв о проекте %s"
+
+msgid "%s sent you a message on %s workspace"
+msgstr "%s отправил вам сообщение в %s"
+
+msgid "%s week"
+msgstr "%s недели"
+
+msgid "%s weeks"
+msgstr "%s недель"
+
+msgid "%s year"
+msgstr "%s года"
+
+msgid "%s years"
+msgstr "%s лет"
+
+msgid "%s you worked on was completed by %s"
+msgstr "%s было завершено %s"
+
+msgid "%s's report"
+msgstr "%s's отчетов"
+
+msgid "%s(%s) for %d days"
+msgstr "(%s)%s за %d дней"
+
+msgid "%s/h"
+msgstr "%s/час"
+
+msgid "&larr; Older Comments"
+msgstr "&larr; Ранние комментарии"
+
+msgid "&nbsp;&nbsp;|&nbsp;&nbsp; Reply "
+msgstr "&nbsp;&nbsp;|&nbsp;&nbsp; Ответить "
+
+msgid "(%d item)"
+msgstr "(%d элементов)"
+
+msgid "(%d items)"
+msgstr "(%d элементов)"
+
+msgid "(%s) Porfolios"
+msgstr "(%s) Портфолий"
+
+msgid "(%s)%s for %d days"
+msgstr "(%s)%s за %d дней"
+
+msgid "0 <span class=\"text-normal\">Comments</span>"
+msgstr "0 <span class=\"text-normal\">Комментариев</span>"
+
+msgid "0 <span class=\"text-normal\">bids</span>"
+msgstr "0 <span class=\"text-normal\">заявок</span>"
+
+msgid "0 Comment on this article"
+msgstr "0 комментариев к этой статье"
+
+msgid "0 Comments"
+msgstr "0 Комментариев"
+
+msgid "0 Comments on this article"
+msgstr "0 комментариев"
+
+msgid "1 <span class=\"text-normal\">Comment</span>"
+msgstr "1 <span class=\"text-normal\">Комментарий</span>"
+
+msgid "1 <span class=\"text-normal\">bid</span>"
+msgstr "1 <span class=\"text-normal\">заявка</span>"
+
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+msgid "1 Comment on this article"
+msgstr "1 комментарий"
+
+msgid "2 weeks Overview"
+msgstr "за последние 2 недели"
+
+msgid "2Checkout"
+msgstr "2Checkout"
+
+msgid "2Checkout mode"
+msgstr "2Checkout режимы"
+
+msgid "3 Months Overview"
+msgstr "за последние 3 месяца"
+
+msgid ""
+"<p>Hi,</p><p> Have a new post on your site. You can review it here: %s </p>"
+msgstr ""
+"<p>Привет,</p><p> у вас новое объявление на сайте, просмотреть его можете "
+"тут: %s </p>"
+
+msgid "<p>You have purchased successfull package: %s.</p> %s "
+msgstr "<p>Вы успешно заплатили за пакет: %s.</p> %s "
+
+msgid "<p>Your listing has been submitted to our website.</p> %s "
+msgstr "<p>Ваша заявка была добавлена на сайт.</p> %s "
+
+msgid "<span class=\"number\">%d</span> bid"
+msgstr "<span class=\"number\">%d</span> предложение"
+
+msgid "<span class=\"number\">%d</span> bids"
+msgstr "<span class=\"number\">%d</span> предложений"
+
+msgid "<span class=\"number\">%d</span>Comment"
+msgstr "<span class=\"number\">%d</span>комментарий"
+
+msgid "<span class=\"number\">%d</span>Comments"
+msgstr "<span class=\"number\">%d</span>комментариев"
+
+msgid "<span class=\"number\">%s</span> Bids"
+msgstr "<span class=\"number\">%s</span> предложений"
+
+msgid "<span class=\"number\">1</span> Bid"
+msgstr "<span class=\"number\">1</span> предложение"
+
+msgid "<span class=\"number-blue\">%d</span> Bid"
+msgstr "<span class=\"number-blue\">%d</span> заявка"
+
+msgid "<span class=\"number-blue\">%d</span> Bids"
+msgstr "<span class=\"number-blue\">%d</span> заявок"
+
+msgid ""
+"A couple of news & event posts have been added for your review. You can "
+"delete it or add your own posts here."
+msgstr ""
+"Несколько новостей и объявлений были добавлены для просмотра. Вы можете "
+"удалить их или добавить свои посты здесь."
+
+msgid "ABOUT %s"
+msgstr "О %s"
+
+msgid "ABOUT EMPLOYER"
+msgstr "О ЗАКАЗЧИКЕ"
+
+msgid "ACTIVE"
+msgstr "АКТИВНЫЕ"
+
+msgid "ADD FILES"
+msgstr "ДОБАВИТЬ ФАЙЛЫ"
+
+msgid "ARCHIVED"
+msgstr "АРХИВИРОВАННЫЕ"
+
+msgid "About"
+msgstr "О вас"
+
+msgid "About You"
+msgstr "О вас"
+
+msgid "About you"
+msgstr "О вас"
+
+msgid "Accept"
+msgstr "Принять"
+
+msgid "Accept Bid"
+msgstr "Принять заявку"
+
+msgid "Accept bid fail"
+msgstr "Предложение перебито"
+
+msgid "Accepted"
+msgstr "Принятый"
+
+msgid "Account Details"
+msgstr "Детали аккаунта"
+
+msgid "Activate"
+msgstr "Активировать"
+
+msgid "Activate Link"
+msgstr "Активная ссылка"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add New"
+msgstr "Добавить новый"
+
+msgid "Add New Bid"
+msgstr "Добавить новое предложение"
+
+msgid "Add New Bid plan"
+msgstr "Добавить новый тип предложения"
+
+msgid "Add New Pack"
+msgstr "Добавить новый тарифный план"
+
+msgid "Add New Project Category"
+msgstr "Добавить новую категорию для проекта"
+
+msgid "Add New Project Type"
+msgstr "Добавить новый тип проекта"
+
+msgid "Add New Skill "
+msgstr "Добавить новую профессию"
+
+msgid "Add New Testimonial"
+msgstr "Добавить новую рекомендацию"
+
+msgid "Add New country "
+msgstr "Добавить новый город"
+
+msgid "Add New notification"
+msgstr "Добавить новое уведомление"
+
+msgid "Add New portfolio"
+msgstr "Добавить новое Портфолио"
+
+msgid "Add New profile"
+msgstr "Добавить новый профиль"
+
+msgid "Add New project"
+msgstr "Добавить новый проект"
+
+msgid "Add a category"
+msgstr "Добавить категорию"
+
+msgid "Add a new language"
+msgstr "Добавить новый язык"
+
+msgid "Add badge"
+msgstr "Добавить значок"
+
+msgid "Add item"
+msgstr "Добавить пункт"
+
+msgid "Add item for your Portfolio"
+msgstr "Добавить пунк для вашего Портфолио"
+
+msgid "Add language"
+msgstr "Добавить язык"
+
+msgid ""
+"Add new categories or modify the sample data to match your directory "
+"business."
+msgstr "Добавить новые категории или изменить тестовые данные на выши."
+
+msgid ""
+"Add new locations or modify the sample data to match your directory business."
+msgstr "Добавить месторасположение или изменить тестовые данные на ваши."
+
+msgid "Add new place types or modify the sample ones to suit your site style."
+msgstr "Добавить новый типы или измените данные для отображения вашего сайта."
+
+msgid "Add or remove Project Categories"
+msgstr "Добавить или удалить категорию проекта"
+
+msgid "Add or remove Project Types"
+msgstr "Добавить или удалить тип проектов"
+
+msgid "Add or remove country"
+msgstr "Добавить или удалить город"
+
+msgid "Add or remove skill"
+msgstr "Добавить или удалить профессию"
+
+msgid ""
+"Add or remove widgets in sidebars throughout the site to best suit your need."
+msgstr "Добавить или удалить виджеты в боковой панели."
+
+msgid "Add sub tax for this tax"
+msgstr "Добавить налог на этот налог"
+
+msgid "Add you work"
+msgstr "Добавить работу"
+
+msgid "Add your work"
+msgstr "Добавить работу"
+
+msgid "Adding new language successfully."
+msgstr "Добавление нового языка успешно выполнено."
+
+msgid "Admin Execute Payment Mail"
+msgstr "Письмо об выполненом платеже"
+
+msgid "Admin Executed The Payment"
+msgstr "Администратор выполнил платеж"
+
+msgid "Admin New Report Mail"
+msgstr "Новый отчет Администратору"
+
+msgid "Admin Refund Payment"
+msgstr "Сообщение от Администратора о возвращеном платеже"
+
+msgid "Admin Refunded The Payment"
+msgstr "Администратор возвратил платеж"
+
+msgid "Administration"
+msgstr "Администрация"
+
+msgid "Advanced"
+msgstr "Расширенный"
+
+msgid "Agree"
+msgstr "Согласен"
+
+msgid "Align"
+msgstr "Выравнивание"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All Bid plans"
+msgstr "Все типы предложений"
+
+msgid "All Orders"
+msgstr "Все заказы"
+
+msgid "All Packs"
+msgstr "Все тарифные планы"
+
+msgid "All Project Categories"
+msgstr "Все категории проектов"
+
+msgid "All Project Types"
+msgstr "Все типы проектов"
+
+msgid "All Skills"
+msgstr "Все профессии"
+
+msgid "All Testimonials"
+msgstr "Все рекомендации"
+
+msgid "All Users"
+msgstr "Все пользователи"
+
+msgid "All categories"
+msgstr "Все категории"
+
+msgid "All countries"
+msgstr "Все города"
+
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации завершены."
+
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+msgid "All locations"
+msgstr "Все районы"
+
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Вы плагины установлены и активированый успешно. %1$s"
+
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и активированы. %s"
+
+msgid "All skills"
+msgstr "Весь опыт работы"
+
+msgid "All types"
+msgstr "Все типы"
+
+msgid "Allows you to customize some example settings for DirectoryEngine."
+msgstr "Позволяет настроить некоторые параметры, например, для Системы."
+
+msgid "Already added."
+msgstr "Уже добавлено."
+
+msgid "Already have an account?"
+msgstr "Уже зарегистрированы?"
+
+msgid "American Dollar"
+msgstr "Американский доллар"
+
+msgid "An error has occurred!"
+msgstr "Ошибка!"
+
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка во время установки %1$s: <strong>%2$s</strong>."
+
+msgid "An unknown error has occurred. Please try again later."
+msgstr "Неизвестная ошибка. Пожалуйста попробуйте еще раз позже."
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Approve"
+msgstr "Утверждено"
+
+msgid "Apr"
+msgstr "Апр"
+
+msgid "April"
+msgstr "Апрель"
+
+msgid "Archive"
+msgstr "Архив"
+
+msgid "Archive Mail Template"
+msgstr "Шаблон письма об Архиве"
+
+msgid "Are you sure to archive this?"
+msgstr "Вы уверены что хотите переместить в архив это?"
+
+msgid "Are you sure you want to delete this?"
+msgstr "Вы уверены, что хотите удалить это?"
+
+msgid "Assign to a author:"
+msgstr "Написать автору:"
+
+msgid "Attach file"
+msgstr "Прикрепить файл"
+
+msgid "Attachment"
+msgstr "Прикрепленый файл"
+
+msgid "Attachment:"
+msgstr "Прикрепленные файлы:"
+
+msgid "Attention"
+msgstr "Внимание"
+
+msgid "Aug"
+msgstr "Авг"
+
+msgid "August"
+msgstr "Август"
+
+msgid "Australian Dollar"
+msgstr "Австралийский доллар"
+
+msgid "Authentication Mail Template"
+msgstr "Сообщение для Идентификация почты"
+
+msgid "Author's Posts"
+msgstr "Автор объявления"
+
+msgid "Availability"
+msgstr "Наличие"
+
+msgid "Available for hire?"
+msgstr "Свободен для наема?"
+
+msgid "Avg Bid (%s)"
+msgstr "Среднее предложение (%s)"
+
+msgid "Avg Bids(%s)"
+msgstr "Средняя цена (%s)"
+
+msgid "Awww! Why quit?"
+msgstr "Ойй! Вы уходите?"
+
+msgid "BID"
+msgstr "ПРЕДЛОЖЕНИЙ"
+
+msgid "BUDGET"
+msgstr "БЮДЖЕТ"
+
+msgid "BY"
+msgstr "ОПУБЛИКОВАНО"
+
+msgid "Back To Project Page"
+msgstr "Назад на страницу проекта"
+
+msgid "Become our member!"
+msgstr "Станьте нашим пользователем!"
+
+msgid "Bid"
+msgstr "Предложение"
+
+msgid "Bid "
+msgstr "Предложение"
+
+msgid "Bid Accepted Mail"
+msgstr "Письмо об одобрении предложения"
+
+msgid "Bid Accepted Mail Template"
+msgstr "Шаблон письма об одобренном предложении"
+
+msgid "Bid Budget"
+msgstr "Бюджет предложений"
+
+msgid "Bid Budget :"
+msgstr "Высокий бюджет"
+
+msgid "Bid Mail"
+msgstr "Письмо о заявке"
+
+msgid "Bid acceptance"
+msgstr "Принятие заявки"
+
+msgid "Bid has been deleted successful"
+msgstr "Предложение было успешно удалено"
+
+msgid "Bid on project %s was accepted"
+msgstr "Предложение к проекту %s было принято"
+
+msgid "Bid plan"
+msgstr "Тип предложений"
+
+msgid "Bid plans"
+msgstr "Типы предложений"
+
+msgid "Bidding"
+msgstr "Предложения"
+
+msgid "Bidding:"
+msgstr "Ставок:"
+
+msgid "Bids"
+msgstr "Предложений"
+
+msgid "Blog"
+msgstr "Блон"
+
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+msgid "Body Background Color"
+msgstr "Цвет фона поцентру"
+
+msgid "Branding"
+msgstr "Вид сайта"
+
+msgid "Branding image has been uploaded successfully"
+msgstr "Изображение было успешно загружено"
+
+msgid "British Pound"
+msgstr "Британский фунт"
+
+msgid "Browse"
+msgstr "Открыть"
+
+msgid "Budget"
+msgstr "Бюджет"
+
+msgid "Budget (%s)"
+msgstr "Бюджет (%s)"
+
+msgid "Budget :"
+msgstr "Бюджет"
+
+msgid "Budget Projects first"
+msgstr "Бюджетные проекты первыми"
+
+msgid "Budget limitation"
+msgstr "Бюджет"
+
+msgid ""
+"By creating an account, you agree to our <a href=\"%s\">Term of Use and "
+"Privacy policy</a>"
+msgstr ""
+"Создавая аккаунт, Вы соглашаетесь с <a href=\"%s\">Правилами использования "
+"ресурса</a>"
+
+msgid "By percentage"
+msgstr "процент"
+
+msgid ""
+"By posting your project, you agree to our <a href=\"%s\">Term of Use and "
+"Privacy policy</a>"
+msgstr ""
+"Опубликовывая проект вы соглашаетесь с  <a href=\"%s\">Правилами "
+"использования ресурса</a>"
+
+msgid "By specific amount"
+msgstr "Специальным количеством"
+
+msgid "CANCEL"
+msgstr "ОТМЕНИТЬ"
+
+msgid "COMPLETED"
+msgstr "ВЫПОЛНЕНО"
+
+msgid "Can not authenticate user"
+msgstr "Не возможно определить пользователя"
+
+msgid "Can not get the access token from Linkedin server!"
+msgstr "Не получается получить ссесию с Linkedin сервара!"
+
+msgid "Can not get user information from Linkedin server!"
+msgstr "Не получается взять вашу информацию с Linkedin сервера!"
+
+msgid "Can't delete category"
+msgstr "Не возможно удалить категорию"
+
+msgid "Can't find Social ID"
+msgstr "Не возможно найти ID"
+
+msgid "Canadian Dollar"
+msgstr "Канадский доллар"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Cancel reply"
+msgstr "Отменить ответ"
+
+msgid "Cancel this bidding"
+msgstr "Отменить эту заявку"
+
+msgid "Cannot create a place with an empty package."
+msgstr "Не возможно создать поле с пустым содержанием."
+
+msgid "Cannot find category"
+msgstr "Не возможно найти категорию"
+
+msgid "Cash"
+msgstr "Наличные"
+
+msgid "Cash Notification Mail"
+msgstr "Уведомление об оплате наличными"
+
+msgid "Cash Notification Mail Template"
+msgstr "Уведомление об оплате наличными"
+
+msgid "Categories' level is limited to 3"
+msgstr "Уровень категорий ограничен до 3"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Category name is required"
+msgstr "Необходимо имя категории"
+
+msgid "Category:"
+msgstr "Категории:"
+
+msgid "Change"
+msgstr "Изменить"
+
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+msgid "Change password"
+msgstr "Изменить пароль"
+
+msgid "Change your password."
+msgstr "Изменить свой пароль"
+
+msgid "Choose a Language"
+msgstr "Выбрать язык"
+
+msgid "Choose a seller to make him become the author of this item."
+msgstr "Выбрать автора этого объявления."
+
+msgid "Choose categories"
+msgstr "Выберите категории"
+
+msgid "Choose from most used enginetheme"
+msgstr "Выбрать самый популярный"
+
+msgid "Choose type account"
+msgstr "Выберите тип аккаунта"
+
+msgid "Client ID"
+msgstr "ID"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Comment"
+msgstr "Комментарии"
+
+msgid "Comment navigation"
+msgstr "Страницы комментариев"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+msgid "Comments are off for this post."
+msgstr "Комментарии выключенны для этого статьи"
+
+msgid "Commission"
+msgstr "Коммисия"
+
+msgid "Commission type"
+msgstr "Тип коммисии"
+
+msgid "Complete"
+msgstr "Завершено"
+
+msgid "Complete Mail"
+msgstr "Письмо о выполненом проекте"
+
+msgid "Complete Project Mail Template"
+msgstr "Шаблон письма о выполненом проекте"
+
+msgid "Complete project and post your review here"
+msgstr "Закончить проект и разместить свой отзыв здесь"
+
+msgid "Completed"
+msgstr "Завершено"
+
+msgid "Conection with twitter Failed"
+msgstr "Соединение с twitter оборвано"
+
+msgid "Confirm Mail Template"
+msgstr "Сообщение о подтверждении почты"
+
+msgid "Confirm link"
+msgstr "Ссылка на подтверждение"
+
+msgid "Confirme Mail"
+msgstr "Подтверждение Почты"
+
+msgid "Confirmed"
+msgstr "Подтвержденый"
+
+msgid "Confirmed Mail"
+msgstr "Подтвержденная почта"
+
+msgid "Confirmed Mail Template"
+msgstr "Шаблон подтвержденой почты"
+
+msgid "Congratulation!"
+msgstr "Поздравляем!"
+
+msgid "Congratulations! You have successfully registered to %s."
+msgstr "Поздравляем! Вы успешно зарегистрированы в %s."
+
+msgid "Congratulations! Your account has been verified successfully."
+msgstr "Поздравляем! Ваш аккаунт был успешно проверен."
+
+msgid "Consumer Key / API Key "
+msgstr "Api ключ"
+
+msgid "Consumer Secret / Secret Key "
+msgstr "Секретный пароль"
+
+msgid "Content"
+msgstr "Контент"
+
+msgid "Copyright"
+msgstr "Копирайт"
+
+msgid "Copyright Background Color"
+msgstr "Цвет фона Копирайта"
+
+msgid "Count"
+msgstr "Кол-во"
+
+msgid "Countries"
+msgstr "Города"
+
+msgid "Country"
+msgstr "Город"
+
+msgid "Country tag page Slug"
+msgstr "Country tag page Slug"
+
+msgid "Country:"
+msgstr "Страна"
+
+msgid "Create Your Team"
+msgstr "Создать свою команду"
+
+msgid "Create a Profile"
+msgstr "Создать профиль"
+
+msgid "Create a Project like this"
+msgstr "Создать похожий проект"
+
+msgid "Create a project now"
+msgstr "Создать проект сейчас"
+
+msgid "Create account"
+msgstr "Создать аккаунт"
+
+msgid "Create bid successful."
+msgstr "Предложение успешно создано."
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Currently, you do not have any project available to invite this user."
+msgstr "У вас нет ни одного проекта, вы не можете пригласить пользователя."
+
+msgid "DE Options"
+msgstr "Опции системы"
+
+msgid "DISPUTE"
+msgstr "СПОР"
+
+msgid "DRAFT"
+msgstr "ПРОЕКТ"
+
+msgid "Deadline"
+msgstr "Срок"
+
+msgid "Dec"
+msgstr "Дек"
+
+msgid "December"
+msgstr "Декабрь"
+
+msgid "Decide the amount of commission to be paid for using the service."
+msgstr "Решите, какцю сумму вы оплатите за использование сервиса"
+
+msgid "Decimal point"
+msgstr "точка"
+
+msgid "Decline"
+msgstr "Снижение"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete Data Successfully."
+msgstr "Данные успешно удалены."
+
+msgid "Delete sample data"
+msgstr "Удалить тестовые данные"
+
+msgid "Delete sample data false"
+msgstr "Не удается удалить тестовые данные"
+
+msgid "Delete this bidding"
+msgstr "Удалить это предложение"
+
+msgid "Describe your project in a few paragraphs"
+msgstr "Опишите о вашем проекте в несколько предложений"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Подробности приведены выше. Импортер попробует еще раз с другим парсером..."
+
+msgid "Disable"
+msgstr "Выключить"
+
+msgid "Disable Comment"
+msgstr "Запретить комментарии"
+
+msgid "Disable comment on project page."
+msgstr "Запретить комментарии на странице проекта."
+
+msgid "Discount"
+msgstr "Скидка"
+
+msgid "Dismiss this notice"
+msgstr "Игнорировать это уведомление"
+
+msgid "Disputed"
+msgstr "Оспорено"
+
+msgid "Disputing"
+msgstr "В процессе спора"
+
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Загрузка и установка пакет с <span class=\"code\">%s</span>&#8230;"
+
+msgid "Draft"
+msgstr "Проект"
+
+msgid "ERROR: Enter username or email address."
+msgstr "ОШИБКА: Введите логин или email."
+
+msgid "ERROR: Invalid username or email address."
+msgstr "ОШИБКА: Не правильный логин или email адрес."
+
+msgid "ERROR: There is no user registered with that email address."
+msgstr "ОШИБКА: Нет зарегистрированных пользователей с таким email адресом."
+
+msgid "ESCROW CONFIGURATION"
+msgstr "ESCROW КОНФИГУРАЦИЯ"
+
+msgid "Each receiver pays their own fee"
+msgstr "Каждый оплачивает свои издержки"
+
+msgid "Earned :"
+msgstr "Заработано :"
+
+msgid "Earning:"
+msgstr "Заработано:"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Edit Bid"
+msgstr "Редактировать предложение"
+
+msgid "Edit Bid plan"
+msgstr "Изменить тип предложений"
+
+msgid "Edit Pack"
+msgstr "Редактировать тарифный план"
+
+msgid "Edit Project"
+msgstr "Редактировать проект"
+
+msgid "Edit Project Category"
+msgstr "Редактировать категорию проекта"
+
+msgid "Edit Project Type"
+msgstr "Редактировать тип проекта"
+
+msgid "Edit Skill"
+msgstr "Редактировать профессию"
+
+msgid "Edit Testimonial"
+msgstr "Редактировать рекомендацию"
+
+msgid "Edit all available menus in your site here."
+msgstr "Редактировать все возможные меню вашего сайта тут."
+
+msgid "Edit country"
+msgstr "Редактировать город"
+
+msgid "Edit notification"
+msgstr "Редактировать уведомление"
+
+msgid "Edit portfolio"
+msgstr "Редактировать Портфолио"
+
+msgid "Edit profile"
+msgstr "Редактировать профиль"
+
+msgid "Edit project"
+msgstr "Редактировать проект"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email Address"
+msgstr "Email адрес"
+
+msgid "Email Confirmation"
+msgstr "Email подтверждение"
+
+msgid "Email Confirmation "
+msgstr "Email подтверждение"
+
+msgid "Email address"
+msgstr "Email адрес"
+
+msgid "Email field is invalid."
+msgstr "Поле Email пропущено."
+
+msgid ""
+"Email templates for authentication process. You can use placeholders to "
+"include some specific content."
+msgstr ""
+"Шаблон почты, для идентификационного процесса. Вы можете использовать это "
+"место для написания определенных правил."
+
+msgid ""
+"Email templates used for project-related event. You can use placeholders to "
+"include some specific content"
+msgstr ""
+"Шаблоны писем, используемые для событий, связанных с проектом. Вы можете "
+"ввестикакое-то конкретное содержание"
+
+msgid ""
+"Email templates used for project-report event. You can use placeholders to "
+"include some specific content"
+msgstr ""
+"Шаблон письма используемый для отчета о проекте. Вы можете использовать "
+"формудля использования своего текста"
+
+msgid "Employer"
+msgstr "Заказчик"
+
+msgid "Employer Report  Mail"
+msgstr "Письмо с отчетом от Заказчика"
+
+msgid "Employer Review"
+msgstr "Обзор заказчика"
+
+msgid "Employer closed the project"
+msgstr "Заказчик закрыл проект"
+
+msgid "Employers"
+msgstr "Заказчики"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Enable this option will prevent directly login to admin page."
+msgstr "Включая эту функцию, вы разрешите входить напрямую в админ панель."
+
+msgid "Enabling this will activate the Escrow system."
+msgstr "Включая эту функцию, вы активируете Escrow систему"
+
+msgid "Enabling this will allow users to login via Facebook."
+msgstr ""
+"Включая эту функцию, вы позволите пользователям входить через Facebook."
+
+msgid "Enabling this will allow users to login via Google."
+msgstr "Включая эту функцию, вы позволите пользователям входить через Google."
+
+msgid "Enabling this will allow users to login via LinkedIn."
+msgstr ""
+"Включая эту функцию, вы позволите пользователям входить через LinkedIn."
+
+msgid "Enabling this will allow users to login via Twitter."
+msgstr "Включая эту функцию, вы позволите пользователям входить через Twitter."
+
+msgid "Enabling this will allow users to submit listing free."
+msgstr "Включая эту функцию, пользователи смогут бесплатно размещать заказы."
+
+msgid ""
+"Enabling this will allow you to manually transfer the money when the "
+"project's completed."
+msgstr ""
+"Включая эту функцию, вы включаете ручную оплату денегза законченный проект."
+
+msgid ""
+"Enabling this will allow you to test payment without charging your account."
+msgstr ""
+"Включая эту функцию, вы сможете протестировать оплату без списаний с вашего "
+"аккаунта."
+
+msgid "Enabling this will allow your user to send cash to your bank account."
+msgstr ""
+"Включая этот тип оплаты, вы позволите пользователям отправлять деньги на ваш "
+"счет в банке."
+
+msgid "Enabling this will allow your users to pay through 2Checkout"
+msgstr ""
+"Включая этот вид оплаты, вы позволите пользователям платить через 2Checkout"
+
+msgid "Enabling this will allow your users to pay through PayPal"
+msgstr ""
+"Включая этот вид оплаты, вы позволите пользователям платить через PayPal"
+
+msgid "Enabling this will force user select skill from the predefined list."
+msgstr ""
+"Применяя это, пользователь должен будет выбрать опыт работы из составленного "
+"листа."
+
+msgid ""
+"Enabling this will make employer and freelancer have the same capabilities."
+msgstr ""
+"Применяя это, заказчик и исполнитель смогут иметь одинаковые возможности"
+
+msgid ""
+"Enabling this will make every new project posted pending until you review "
+"and approve it manually."
+msgstr "Включая это, все проекты будут проходить вашу модерацию."
+
+msgid ""
+"Enabling this will require users to confirm their email addresses after "
+"registration."
+msgstr ""
+"Применяя это пользователи подтверждают свой email адрес после регистрации."
+
+msgid "Engine Settings"
+msgstr "Настройка движка"
+
+msgid "Enhance your site by customizing these other features"
+msgstr "Улучшите ваш сайта, подключив все функции"
+
+msgid "Enter Full Name"
+msgstr "Введите полное имя"
+
+msgid "Enter Password"
+msgstr "Введите пароль"
+
+msgid "Enter Username"
+msgstr "Введите логин"
+
+msgid "Enter a email"
+msgstr "Введите email"
+
+msgid "Enter a name for your badge"
+msgstr "Введите имя для вашего значка"
+
+msgid "Enter a name for your plan"
+msgstr "Введите имя вашего тарифного плана"
+
+msgid "Enter a short title for your project"
+msgstr "Введите короткий заголовок к вашему проекту"
+
+msgid "Enter currency code and sign ...."
+msgstr "Введите коди и значок валюты"
+
+msgid "Enter email"
+msgstr "Введите email"
+
+msgid "Enter language name"
+msgstr "Введите название языка"
+
+msgid "Enter location"
+msgstr "Введите город"
+
+msgid "Enter map address"
+msgstr "Введите адрес"
+
+msgid "Enter new password"
+msgstr "Введите новый пароль"
+
+msgid "Enter password"
+msgstr "Введите пароль"
+
+msgid "Enter slug for your Country tag page"
+msgstr "Enter slug for your Country tag page"
+
+msgid "Enter slug for your Profiles listing page"
+msgstr "Enter slug for your Profiles listing page"
+
+msgid "Enter slug for your Project Category page"
+msgstr "Enter slug for your Project Category page"
+
+msgid "Enter slug for your Project Type page"
+msgstr "Enter slug for your Project Type page"
+
+msgid "Enter slug for your Projects listing page"
+msgstr "Enter slug for your Projects listing page"
+
+msgid "Enter slug for your Single Project page"
+msgstr "Enter slug for your Single Project page"
+
+msgid "Enter slug for your Skill tag page"
+msgstr "Enter slug for your Skill tag page"
+
+msgid "Enter slug for your User Profile page"
+msgstr "Enter slug for your User Profile page"
+
+msgid "Enter the language's name"
+msgstr "Введите название языка"
+
+msgid "Enter the maximum number allowed for employers to use your Free plan"
+msgstr ""
+"Введите максимальное число проектов, которое заказчик может создать в "
+"бесплатном тарифном плане"
+
+msgid "Enter username"
+msgstr "Введите логин"
+
+msgid "Enter username or email"
+msgstr "Введите логин или email"
+
+msgid "Enter your PayPal email address"
+msgstr "Введите ваш email от PayPal"
+
+msgid "Enter your email here"
+msgstr "Введите ваш email здесь"
+
+msgid "Enter your header video fallback image url"
+msgstr "Введите ссылку на резервное фото"
+
+msgid "Enter your header video url"
+msgstr "Введите url Видео файла для шапки"
+
+msgid "Enter your old password"
+msgstr "Введите ваш старый пароль"
+
+msgid "Enter your paypal email"
+msgstr "Введите ваш paypal email"
+
+msgid "Enter your project details"
+msgstr "Введите детали проекта"
+
+msgid "Enter your video background url in page-home.php template (.mp4)"
+msgstr ""
+"Введите url видео для фона в файле шаблона page-home.php в формате(.mp4)"
+
+msgid "Enter your website description"
+msgstr "Введите описание сайта"
+
+msgid "Enter your website title."
+msgstr "Введите заголовок сайта."
+
+msgid "Enter youtube ID for background video instead of video url"
+msgstr "Введите ID видео с Youtube для фона"
+
+msgid "Enter youtube video ID"
+msgstr "Введите ID youtube видео"
+
+msgid "Error Receiving Request Token"
+msgstr "Ошибка в получении Токена"
+
+msgid "Error to connect to Google"
+msgstr "Ошибка в соединении с Google"
+
+msgid "Error to connect to Google Server"
+msgstr "Ошибка соединения с Google сервером"
+
+msgid "Error to connect to Google Server!"
+msgstr "Ошибка соединения с Google сервером!"
+
+msgid "Error to connect to Linkedin server"
+msgstr "Ошибка в соединении с Linkedin сервером"
+
+msgid "Error to connect to Linkedin server!"
+msgstr "Ошибка в соединении с Linkedin сервером!"
+
+msgid "Error to connect to Linkedin server2!"
+msgstr "Ошибка в соединении с Linkedin сервером2!"
+
+msgid "Error when updating settings."
+msgstr "Ошибка при обновлении настроек"
+
+msgid "Error! Can not specify which project you are working on."
+msgstr "Ошибка! Не возможно определить над каким проектом вы работали."
+
+msgid "Error. You have been accepted for this project"
+msgstr "Ошибка. Вы были приняты для этого проекта"
+
+msgid "Escrow"
+msgstr "Escrow"
+
+msgid "Euro"
+msgstr "Евро"
+
+msgid "Experience"
+msgstr "Опыт"
+
+msgid "Experience:"
+msgstr "Опыт"
+
+msgid "Expired Date:"
+msgstr "Дата окончания:"
+
+msgid "Extra class name"
+msgstr "Дополнительный css класс"
+
+msgid "FRE Social Widget"
+msgstr "FRE Соц Виджет."
+
+msgid "FREE"
+msgstr "БЕСПЛАТНО"
+
+msgid "FREELANCER BIDDING (%s)"
+msgstr "ПРЕДЛОЖЕНИЯ ИСПОЛНИТЕЛЯ(%s)"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Facebook API"
+msgstr "Facebook API"
+
+msgid "Facebook API "
+msgstr "Facebook API"
+
+msgid "Facebook Application ID"
+msgstr "Facebook ID"
+
+msgid "Facebook Secret Key"
+msgstr "Facebook пароль"
+
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+msgid "Facebook key "
+msgstr "Facebook пароль"
+
+msgid "Facebook secret key "
+msgstr "Facebook пароль"
+
+msgid "Failed"
+msgstr "Ошибка"
+
+msgid "Fallback image for video background when browser not support"
+msgstr ""
+"Резервное изображение для видео фона, если браузер не поддерживает видео"
+
+msgid "Featured Project"
+msgstr "Рекомендуемые проект"
+
+msgid "Featured Projects first"
+msgstr "Рекомендуемые проекты первыми"
+
+msgid "Featured post:"
+msgstr "Рекомендуемые проекты:"
+
+msgid "Feb"
+msgstr "Фев"
+
+msgid "February"
+msgstr "Февраль"
+
+msgid "File extension: Png, Jpg, Pdf, Zip"
+msgstr "Поддерживаемые форматы: Png, Jpg, Pdf, Zip"
+
+msgid "File has been uploaded successfully"
+msgstr "Файл был успешно загружен"
+
+msgid "Find a Freelancer"
+msgstr "Найти исполнителя"
+
+msgid "Find a Project"
+msgstr "Найти проект"
+
+msgid "Find out more"
+msgstr "Подробнее"
+
+msgid "Finish"
+msgstr "Завершено"
+
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+msgid "Footer Background Color"
+msgstr "Цвет фона подвала"
+
+msgid "Footer menu"
+msgstr "Нижнее меню"
+
+msgid "Forgot Password?"
+msgstr "Забыли пароль?"
+
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+msgid "Forgotpass Mail Template"
+msgstr "Письмо напоминающее пароль"
+
+msgid "Format a number with grouped thousands"
+msgstr "Разделитель тысячи"
+
+msgid "Fr"
+msgstr "Пт"
+
+msgid "FrE Pricing"
+msgstr "FrE цены"
+
+msgid "FrE Testimonial"
+msgstr "FrE Отзыв"
+
+msgid "Fraudulent"
+msgstr "Мошейничество"
+
+msgid "Fraudulent or error!"
+msgstr "Мошейничество или ошибка!"
+
+msgid "Fre Order"
+msgstr "Свободный заказ"
+
+msgid "Free"
+msgstr "Бесплатно"
+
+msgid "Free to submit listing"
+msgstr "Бесплатно подать объявление"
+
+msgid "FreelanceEngine"
+msgstr "ФрилансДвижок"
+
+msgid "Freelancer"
+msgstr "Исполнитель"
+
+msgid "Freelancer Quit  Mail"
+msgstr "Письмо об отказе исполнителем"
+
+msgid "Freelancer Quit The Project"
+msgstr "Исполнитель отказался от проекта"
+
+msgid "Freelancer Report  Mail"
+msgstr "Отзыв от исполнителя"
+
+msgid "Freelancer Review"
+msgstr "Обзор исполнителя"
+
+msgid "Fri"
+msgstr "Пят"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "Front Page"
+msgstr "Начальная страница"
+
+msgid "Full name"
+msgstr "Полное имя"
+
+msgid "Fullscreen Header menu"
+msgstr "Меню на весь экран"
+
+msgid "Gateways"
+msgstr "Шлюз"
+
+msgid "General"
+msgstr "Основные"
+
+msgid "General Settings"
+msgstr "Основные настройки"
+
+msgid "General setting"
+msgstr "Основные настройки"
+
+msgid "Get user data successfully!"
+msgstr "Получение данных пользователя выполнено!"
+
+msgid "Get users successfull"
+msgstr "Успешно найдены пользователи"
+
+msgid "Google API"
+msgstr "Google API "
+
+msgid "Google API "
+msgstr "Google API "
+
+msgid "Google Analytics Script"
+msgstr "Код Google Analytics "
+
+msgid "Google Plus URL"
+msgstr "Google Plus URL"
+
+msgid "Google Secret key "
+msgstr "Google секретный пароль"
+
+msgid ""
+"Google analytics is a service offered by Google that generates detailed "
+"statistics about the visits to a website."
+msgstr ""
+"Google analytics - сервис предоставляемый Google который собирает статистику "
+"посещений с вашего сайта."
+
+msgid "Google key "
+msgstr "Google пароль"
+
+msgid "Google secret key"
+msgstr "Google секретный пароль"
+
+msgid "Google+"
+msgstr "Google+"
+
+msgid "Got error, please contact site administrator"
+msgstr "Ошибка, пожалуйста свяжитесь с администрацией сайта"
+
+msgid "HIDE ADVANCED SEARCH"
+msgstr "СКРЫТЬ ДОПОЛНИТЕЛЬНЫЙ ПОИСК"
+
+msgid "HIRED"
+msgstr "НАНЯТ"
+
+msgid "Have a new post on your site."
+msgstr "Было создано новое объявление на твоем сайте."
+
+msgid "Have a new report on project %s."
+msgstr "У вас есть новое сообщение с проекта %s."
+
+msgid "Header Background Color"
+msgstr "Цвет фона шапки"
+
+msgid "Header Video"
+msgstr "Видео в верхней части сайта"
+
+msgid "Hide Details"
+msgstr "Спрятать детали"
+
+msgid "Hire"
+msgstr "Заказчик"
+
+msgid "Hires:"
+msgstr "Нанято:"
+
+msgid "History (%s)"
+msgstr "История (%s)"
+
+msgid "Home"
+msgstr "Главная"
+
+msgid "Home page"
+msgstr "Домашняя страница"
+
+msgid "Hong Kong Dollar"
+msgstr "ГонКонгский доллар"
+
+msgid "Hourly Rate"
+msgstr "Почасовая ставка"
+
+msgid "Hourly Rate:"
+msgstr "Почасовая ставка"
+
+msgid "Hourly rate"
+msgstr "Почасовая ставка"
+
+msgid "I agree with the <a href=\"%s\">Term of Use and Privacy policy</a>"
+msgstr "Я согласен с <a href=\"%s\">Правилами использования ресурса</a>"
+
+msgid "I'm looking to:"
+msgstr "Я ищу:"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "INFO"
+msgstr "ИНФО"
+
+msgid ""
+"If you enable this option, freelancers have to be invited first before "
+"bidding a project."
+msgstr ""
+"Если вы примените эту функцию, испольнители должны быть допущены вами до "
+"того как они смогут подать заявку на исполнение."
+
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Если хотите придать свой стиль элементам, тогда используйте это поле, для "
+"добавления css класса,  но не забудьте добавить его в ваш css файл."
+
+msgid "Image Files"
+msgstr "Изображение"
+
+msgid "Import Data Successfully."
+msgstr "Данные успешно импортированы."
+
+msgid ""
+"In  Demo mode the 2Checkout order number is changed to '1' which will cause "
+"the hash to fail this. This is intentional so that merchants selling "
+"downloadable products and services can compare the hash to determine whether "
+"to provide a product to a customer"
+msgstr ""
+"В тестовой версии 2Checkout номер заказа изменен на '1', что означает ошибку."
+"это сделано умышленно."
+
+msgid "In Process"
+msgstr "В процессе"
+
+msgid "In Progress"
+msgstr "В процессе"
+
+msgid "Inbox Mail"
+msgstr "Входящие письма"
+
+msgid "Inbox Mail Template"
+msgstr "Шаблон письма о входящем писем"
+
+msgid "Input invalid"
+msgstr "Не верный ввод"
+
+msgid "Insert sample data"
+msgstr "Вставить тестовые данные"
+
+msgid "Insert sample data false"
+msgstr "Не удалось вставить тестовые данные"
+
+msgid "Install"
+msgstr "Установить"
+
+msgid "Install Plugins"
+msgstr "Установка плагинов"
+
+msgid "Install Required Plugins"
+msgstr "Установите необходимые плагины"
+
+msgid "Install package not available."
+msgstr "Устанавливаемый пакет не доступен."
+
+msgid "Install sample data"
+msgstr "Установить тестовые данные"
+
+msgid "Installed But Not Activated"
+msgstr "Установлен но не активирован"
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Уставнока плагина %1$s (%2$d/%3$d)"
+
+msgid "Installing Plugin: %s"
+msgstr "Устанавливаем плагин: %s"
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+msgid "Invalid Activation Key"
+msgstr "Не правильный код активации"
+
+msgid "Invalid Activation Key."
+msgstr "Не правильный код активации."
+
+msgid "Invalid Ad ID"
+msgstr "Недопустимое ID объявления"
+
+msgid "Invalid Order or Package"
+msgstr "Недопустимый заказ или тарифный план"
+
+msgid "Invalid Payment package"
+msgstr "Недопустимый тарифный план"
+
+msgid "Invalid Post ID"
+msgstr "Недопустимый ID объявления"
+
+msgid "Invalid User Name"
+msgstr "Не правильный логин"
+
+msgid "Invalid bid"
+msgstr "Неверное предложение"
+
+msgid "Invalid file name!"
+msgstr "Не правильное название файла!"
+
+msgid "Invalid method"
+msgstr "Не правильный метод"
+
+msgid "Invalid order ID"
+msgstr "Не правильный ID"
+
+msgid "Invalid paykey."
+msgstr "Неверный ключ"
+
+msgid "Invalid payment gateway"
+msgstr "Не верный платежный ключ"
+
+msgid "Invalid project id."
+msgstr "Неверное ID проекта."
+
+msgid "Invalid project."
+msgstr "Неудачный проект."
+
+msgid "Invite"
+msgstr "Пригласить"
+
+msgid "Invite %s to bid project"
+msgstr "Предложить %s быть исполнителем проекта"
+
+msgid "Invite Mail"
+msgstr "Письмо приглашения"
+
+msgid "Invite Mail Template"
+msgstr "Шаблон письма о приглашении"
+
+msgid "Invite me to join"
+msgstr "Пригласить"
+
+msgid "Invited To Bid"
+msgstr "Допустить к исполнению"
+
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Ничего не найдень в этом месте. Попробовать поиск?"
+
+msgid ""
+"It would take up to a few minutes for your images to be uploaded to the "
+"server. Please don't close or reload this page."
+msgstr ""
+"Загрузка изображения мрожет занять некоторое время. Пожалуйста не закрывайте "
+"и не перезагружайте страницу."
+
+msgid "Jan"
+msgstr "Янв"
+
+msgid "January"
+msgstr "Январь"
+
+msgid "Japanese Yen"
+msgstr "Японская ена"
+
+msgid "Job in process"
+msgstr "Работа в проекте"
+
+msgid "Job is closed"
+msgstr "Работа закрыта"
+
+msgid "Job is completed"
+msgstr "Работа выполнена"
+
+msgid "Job is open"
+msgstr "Вакансия открыта"
+
+msgid "Join on %s"
+msgstr "Присоединиться к %s"
+
+msgid "Jul"
+msgstr "Июл"
+
+msgid "July"
+msgstr "Июль"
+
+msgid "Jun"
+msgstr "Июн"
+
+msgid "June"
+msgstr "Июнь"
+
+msgid "Keep in touch"
+msgstr "Поддерживать связь"
+
+msgid "Keyword"
+msgstr "Ключевые слова"
+
+msgid "LOGIN"
+msgstr "ВОЙТИ"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Language name"
+msgstr "Название языка"
+
+msgid "Leave a Reply to %s"
+msgstr "Ответить %s"
+
+msgid "Left"
+msgstr "По левому краю"
+
+msgid "License Key"
+msgstr "Код лицензии"
+
+msgid "Limit Free Plan Use"
+msgstr "Бесплатный ограниченный план"
+
+msgid "LinkedIn API"
+msgstr "LinkedIn API"
+
+msgid "LinkedIn API "
+msgstr "LinkedIn API"
+
+msgid "LinkedIn API Key"
+msgstr "LinkedIn API ключ"
+
+msgid "LinkedIn secret key"
+msgstr "Linkedin секретный пароль"
+
+msgid "Linkedin"
+msgstr "Linkedin"
+
+msgid "List profiles"
+msgstr "Список профилей"
+
+msgid "List projects"
+msgstr "Список проектов"
+
+msgid "Load more"
+msgstr "Загрузить еще"
+
+msgid "Load older message"
+msgstr "Загрузить старые сообщения"
+
+msgid "Loading"
+msgstr "Загрузка"
+
+msgid "Loading successfully!"
+msgstr "Успешно загружено!"
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "Location"
+msgstr "Город"
+
+msgid "Location:"
+msgstr "Месторасположение:"
+
+msgid "Log Out"
+msgstr "Выйти"
+
+msgid "Log out"
+msgstr "Выйти"
+
+msgid "Logged in as <span class=\"name\">%s<span>"
+msgstr "Вы вошли как <span class=\"name\">%s<span>"
+
+msgid "Login"
+msgstr "Войти"
+
+msgid "Login Your Account"
+msgstr "Войти в ваш аккаунт"
+
+msgid "Login in admin panel"
+msgstr "Войти в админ панель"
+
+msgid "Login information is missing"
+msgstr "Информация для входа пропущена"
+
+msgid "Login or Register"
+msgstr "Войти или зарегистрироваться"
+
+msgid "Login page"
+msgstr "Страница входа"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Loop Header Video"
+msgstr "Повторение видеоролика"
+
+msgid "MD5 False"
+msgstr "MD5 неверно"
+
+msgid "MEMBERS"
+msgstr "ЧЛЕНЫ"
+
+msgid "MENU"
+msgstr "МЕНЮ"
+
+msgid "MESSAGE"
+msgstr "СООБЩЕНИЕ"
+
+msgid "MORE SETTINGS"
+msgstr "ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ"
+
+msgid "Mail description here"
+msgstr "Описание тут"
+
+msgid "Mailing"
+msgstr "Почта"
+
+msgid "Main Color"
+msgstr "Основной цвет"
+
+msgid "Make this post featured in listing."
+msgstr "Сделайте этот проект рекомендуемым в списке."
+
+msgid "Manage how your FreelanceEngine looks and feels"
+msgstr "Пункт управления видом движка и полями"
+
+msgid "Manual Transfer"
+msgstr "Ручной перевод"
+
+msgid "Mar"
+msgstr "Март"
+
+msgid "March"
+msgstr "Март"
+
+msgid "Max Number Of Project Categories"
+msgstr "Максимальное число категорий для проекта"
+
+msgid "Maximum Number of Categories"
+msgstr "Максимальное число категорий"
+
+msgid "May"
+msgstr "май"
+
+msgid "Md5 check sum not match!"
+msgstr "Md5 сумма не верна"
+
+msgid "Member Since %s"
+msgstr "Является пользователем с %s"
+
+msgid "Members"
+msgstr "Члены "
+
+msgid "Menus"
+msgstr "Меню"
+
+msgid "Message review profile "
+msgstr "Обзор сообщений профиля"
+
+msgid "Missing image ID"
+msgstr "Пропущено ID изображения"
+
+msgid "Mo"
+msgstr "Пн"
+
+msgid "Mobile Icon"
+msgstr "Мобильные иконки"
+
+msgid "Mobile Logo"
+msgstr "Мобильный логотип"
+
+msgid "Mobile logo"
+msgstr "Мобильный логотип"
+
+msgid "Mobile menu"
+msgstr "Мобильное меню"
+
+msgid ""
+"Modify the sample \"About us, Contact us, ...\" pages or add your extra "
+"pages when needed."
+msgstr ""
+"Изменить тестовые данные \"О нас, Контакты, ...\" страницы или добавить "
+"дополнительный текст."
+
+msgid ""
+"Modify your site information, social links, analytics script, or add a "
+"language, etc."
+msgstr ""
+"Изменить информацию на сайте, ссылки соц сетей, коды сбора данных и добавить "
+"язык и тд."
+
+msgid "Mon"
+msgstr "Пн"
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Money Transfered"
+msgstr "Деньги переданы"
+
+msgid "More Payments"
+msgstr "Остальные платежи"
+
+msgid "More Users"
+msgstr "Остальные пользователи"
+
+msgid "Move jobs to"
+msgstr "Переместить работу в"
+
+msgid "NOTIFICATIONS"
+msgstr "УВЕДОМЛЕНИЯ"
+
+msgid "Name"
+msgstr "Имени"
+
+msgid "New Bid Mail Template"
+msgstr "Шаблон письма о новом предложении"
+
+msgid "New Bid plan"
+msgstr "Новый тип предложений"
+
+msgid "New Message Mail Template"
+msgstr "Шаблон письма о новом сообщение"
+
+msgid "New Pack"
+msgstr "Новый тарифный план"
+
+msgid "New Password"
+msgstr "Новый пароль"
+
+msgid "New Project Category Name"
+msgstr "Название новой категории проектов"
+
+msgid "New Project Type Name"
+msgstr "Название нового типа проектов"
+
+msgid "New Report was sent to Admin"
+msgstr "Новый отчет был отослан Администратору"
+
+msgid "New Skill Name"
+msgstr "Имя для новой профессии"
+
+msgid "New Testimonial"
+msgstr "Новая рекомендация"
+
+msgid "New Zealand Dollar"
+msgstr "Ново Зеландский доллар"
+
+msgid "New bid"
+msgstr "Новое предложение"
+
+msgid "New bid on %s"
+msgstr "Новое предложение к %s"
+
+msgid "New confirm email already send to your email account."
+msgstr "Новое подтверждение вашего email уже отправлено на вашу почту."
+
+msgid "New country Name"
+msgstr "Новое название города"
+
+msgid "New message on project %s"
+msgstr "Новое сообщение к проекту %s"
+
+msgid "New notification"
+msgstr "Новое уведомление"
+
+msgid "New password"
+msgstr "Новый пароль"
+
+msgid "New portfolio"
+msgstr "Новое Портфолио"
+
+msgid "New profile"
+msgstr "Новый профиль"
+
+msgid "New project"
+msgstr "Новый проект"
+
+msgid "New? Click here to become a member"
+msgstr "Новичок? Станьте нашим участником"
+
+msgid "Newer Comments &rarr;"
+msgstr "Недавние комментарии &rarr;"
+
+msgid "Newest Projects first"
+msgstr "Новые проекты первыми"
+
+msgid "Next tab"
+msgstr "Следующая таблица"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No Bid plan found"
+msgstr "Не было найдено"
+
+msgid "No Bid plans found in Trash"
+msgstr "Не было найдено в корзине"
+
+msgid "No Bids found"
+msgstr "Не было найдено"
+
+msgid "No Bids found in Trash"
+msgstr "Ни одного предложения не было найдено в корзине"
+
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+msgid "No Pack found"
+msgstr "Тарифных планов не найдено"
+
+msgid "No Profiles found"
+msgstr "Профиль не найден"
+
+msgid "No Profiles found in Trash"
+msgstr "Ни одного профиля в корзине"
+
+msgid "No Projects found"
+msgstr "Проектов не найдено"
+
+msgid "No Projects found in Trash"
+msgstr "Проектов нет в корзине"
+
+msgid "No Testimonials found in Trash"
+msgstr "Не было найдено в корзине"
+
+msgid "No notifications found"
+msgstr "Уведомлений не найдено"
+
+msgid "No notifications found in Trash"
+msgstr "Ни одного уведомления не было найдено в корзине"
+
+msgid "No order found by your query."
+msgstr "Не было найдено ни одного заказа."
+
+msgid "No place found"
+msgstr "Не найдено"
+
+msgid "No plugins are available to be activated at this time."
+msgstr "Но может быть активирован."
+
+msgid "No plugins are available to be installed at this time."
+msgstr "Не может быть установлен."
+
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Нет плагинов для установки или активации. <a href=\"%1$s\" title=\"Перейдите "
+"в панель\">Перейти в панель</a>"
+
+msgid "No portfolio found"
+msgstr "Портфолио не было найдено"
+
+msgid "No portfolios found in Trash"
+msgstr "Портфолио не было найдено в корзине"
+
+msgid "No posts yet!"
+msgstr "Нет сообщений еще!"
+
+msgid "No testimon found"
+msgstr "Не было найдено"
+
+msgid "No user found by your query"
+msgstr "Не найдено пользователей по вашему запросу"
+
+msgid "NoPacks found in Trash"
+msgstr "Тарифных планов не найдено в корзине"
+
+msgid "Not Found"
+msgstr "Не найдено"
+
+msgid "Not Installed"
+msgstr "Не установлены"
+
+msgid "Not enough space to upload. %1$s KB needed."
+msgstr "Нет свободного места для загрузки. Необходимо %1$s KB."
+
+msgid "Not owned this image!"
+msgstr "Не подходящее изображение!"
+
+msgid "Notes"
+msgstr "Заметки"
+
+msgid "Notification"
+msgstr "Уведомление"
+
+msgid "Notifications"
+msgstr "Уведомления"
+
+msgid "Nov"
+msgstr "Нояб"
+
+msgid "November"
+msgstr "Ноябрь"
+
+msgid "Number Format"
+msgstr "Формат номера"
+
+msgid "Number of Plan"
+msgstr "Номер Плана"
+
+msgid "Number of posts"
+msgstr "Список постов"
+
+msgid "Number of project can post"
+msgstr "Кол-во доступных проектов"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "OVERVIEW"
+msgstr "ОБЗОР"
+
+msgid "Oct"
+msgstr "Окт"
+
+msgid "October"
+msgstr "Октябрь"
+
+msgid "Old Password"
+msgstr "Старый пароль"
+
+msgid "Old password"
+msgstr "Старый пароль"
+
+msgid "Old password does not match!"
+msgstr "Старый пароль не подходит!"
+
+msgid "On background have 2 color, it is the gray"
+msgstr "У фона два цвета, этот серый"
+
+msgid "Oops, You must be invited to bid this project"
+msgstr "Уупс, Вы должны быть допущены, чтобы делать ставки в этом проекте"
+
+msgid "Open"
+msgstr "Открыто"
+
+msgid "Open Workspace"
+msgstr "Открытое рабочее место"
+
+msgid "Open workspace"
+msgstr "Открыть рабочее место"
+
+msgid "Opening"
+msgstr "Открытый"
+
+msgid "Order"
+msgstr "Заказ"
+
+msgid "Order list project categories by."
+msgstr "Сортировка списка проектов по."
+
+msgid "Order list project types by."
+msgstr "Сортировка проектов по типу"
+
+msgid "Orderby"
+msgstr "Заказано"
+
+msgid "Overview"
+msgstr "Просмотров"
+
+msgid "Overview of all payments"
+msgstr "Обзор всех платежей"
+
+msgid "Overview of registered members"
+msgstr "Обзор зарегистрированных пользователей"
+
+msgid "Overview:"
+msgstr "Просмотров:"
+
+msgid "PAYMENTS"
+msgstr "ПЛАТЕЖИ"
+
+msgid "PENDING"
+msgstr "ЗАМАРОЖЕННЫЕ"
+
+msgid "POSTED DATE"
+msgstr "ДАТА"
+
+msgid "PROJECT TITLE"
+msgstr "ЗАГОЛОВОК ПРОЕКТА"
+
+msgid "Pack"
+msgstr "Тарифные планы"
+
+msgid "Package name"
+msgstr "Имя тарифа"
+
+msgid "Packages:"
+msgstr "Планы:"
+
+msgid "Packs"
+msgstr "Тарифные планы"
+
+msgid "Page %s"
+msgstr "Страница %s"
+
+msgid "Page Sidebar"
+msgstr "Боковая панель страницы"
+
+msgid "Pages"
+msgstr "Страницы"
+
+msgid "Pages:"
+msgstr "Страницы:"
+
+msgid "Paginate"
+msgstr "Номера стараниц"
+
+msgid "Parent Project Category"
+msgstr "Основная категория проекта"
+
+msgid "Parent Project Type"
+msgstr "Основной тип проекта"
+
+msgid "Parent Skill"
+msgstr "Профессии"
+
+msgid "Parent bid:"
+msgstr "Ключевое предложение:"
+
+msgid "Parent country"
+msgstr "Основной город"
+
+msgid "Parent notification:"
+msgstr "Уведомления:"
+
+msgid "Parent portfolio:"
+msgstr "Портфолио:"
+
+msgid "Parent profile:"
+msgstr "Профили:"
+
+msgid "Parent project:"
+msgstr "Проекты:"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password field is required."
+msgstr "Поле пароль необходимо заполнить."
+
+msgid "Password reset is not allowed for this user"
+msgstr "Сброс пароля не разрешен для этого пользователя"
+
+msgid "Payer of commission"
+msgstr "Плательщик коммисии"
+
+msgid "Payer of fees"
+msgstr "Плательщик взносов"
+
+msgid "Payment Currency"
+msgstr "Платежная валюта"
+
+msgid "Payment Gateways"
+msgstr "Тарифные планы"
+
+msgid "Payment Plans"
+msgstr "Тарифные планы"
+
+msgid "Payment Test Mode"
+msgstr "Тестовый режим оплаты"
+
+msgid "Payment fail, friend"
+msgstr "Оплата не прошла"
+
+msgid "Payment plans have been sorted"
+msgstr "Тарифные планы отсортированы"
+
+msgid "Payment refund successful."
+msgstr "Платеж успешно возвращен."
+
+msgid "Payments"
+msgstr "Платежи"
+
+msgid "Paypal API"
+msgstr "Paypal API"
+
+msgid "Paypal Settings"
+msgstr "Настройка Paypal"
+
+msgid "Paypal fees"
+msgstr "Paypal издержки"
+
+msgid "Paypal option is disabled because of invalid setting."
+msgstr "Paypal опции выключены из-за неверных настроек."
+
+msgid "Pending"
+msgstr "В ожидании"
+
+msgid "Pending Post"
+msgstr "Сообщение в ожидании"
+
+msgid "Permission Denied!"
+msgstr "Права отозваны!"
+
+msgid "Place Categories"
+msgstr "Заполнить категории"
+
+msgid "Place Locations"
+msgstr "Заполнить месторасположение"
+
+msgid "Places"
+msgstr "Мест"
+
+msgid "Please assign project before complete."
+msgstr "Назначьте проект до его завершения"
+
+msgid "Please enter a valid URL."
+msgstr "Пожалуйста введите рабочую ссылку."
+
+msgid "Please enter a valid email address."
+msgstr "Пожалуйста введите рабочий email адрес."
+
+msgid "Please enter a valid number in budget or bid time"
+msgstr "Пожалуйста, введите число в бюджет или время"
+
+msgid "Please enter a valid number."
+msgstr "Пожалуйста введите число."
+
+msgid "Please enter only digits."
+msgstr "Пожалуйста введите только цифры."
+
+msgid "Please enter the same value again."
+msgstr "Пожалуйста введите тоже самое значение."
+
+msgid "Please enter your Google client id and secret key in setting page!"
+msgstr "Пожалуйста введите ваш Google id и секретный ключ в настроках!"
+
+msgid "Please enter your Linkedin App id and secret key!"
+msgstr "Пожалуйста введите ваш Linkedin App id и секретный ключ"
+
+msgid "Please enter your bid message."
+msgstr "Пожалуйста введите сообщение к предложению."
+
+msgid "Please enter your new password"
+msgstr "Пожалуйста введите ваш новый пароль"
+
+msgid "Please fill all require fields."
+msgstr "Пожалуйста заполните все возможные поля."
+
+msgid "Please fill in a valid email!"
+msgstr "Пожалуйста введите правильный email!"
+
+msgid "Please fill out the form below "
+msgstr "Пожалуйста заполните форму нижу"
+
+msgid "Please give us a clear report"
+msgstr "Пожалуйста, оставьте ваш отзыв"
+
+msgid "Please login by using your Facebook account again!"
+msgstr "Пожалуйста войдите использую Facebook акааунт еще раз!"
+
+msgid "Please login to bid a project"
+msgstr "Пожалуйста войдите для подачи предложения на проект"
+
+msgid "Please post a review for this freelancer."
+msgstr "Пожалуйста оставьте отзыв об этом исполнителе."
+
+msgid "Please provide a username to continue"
+msgstr "Пожалуйста введите логин, чтобы продолжить"
+
+msgid "Please provide a valid email"
+msgstr "Пожалуйста введите рабочий email адрес"
+
+msgid "Please select an image!"
+msgstr "Пожалуйста выберите изображение!"
+
+msgid ""
+"Please send your payment to account number: XXXX. Once payment has been "
+"verified, admin will approve your post or request."
+msgstr ""
+"Пожалуйста отправьте деньги в аккаунт номер: XXXX. После проверкиплатежа, "
+"Администратор опубликует ваш пост или заявку."
+
+msgid "Please wait 2 minutes after each action submission."
+msgstr "Пожалуйста подождите 2 минуты, после добавления."
+
+msgid "Please wait 5 minutes to resend an activation code!"
+msgstr "Код активации будет отправлен в течении 5 минут!"
+
+msgid "Plugin"
+msgstr "Плагин"
+
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+msgid "Plugin activation failed."
+msgstr "Активация плагина прервана."
+
+msgid "Plugin install failed."
+msgstr "Установка плагина прервана."
+
+msgid "Plugin installed successfully."
+msgstr "Плагин установлен успешно."
+
+msgid "Plus"
+msgstr "Плюс"
+
+msgid "Point"
+msgstr "Баллы"
+
+msgid "Popular Project Categories"
+msgstr "Популярные категории проектов"
+
+msgid "Popular Project Types"
+msgstr "Популярные типы проекта"
+
+msgid "Popular Skills"
+msgstr "Популярные профессии"
+
+msgid "Popular countries"
+msgstr "Популярные города"
+
+msgid "Portfolio"
+msgstr "Портфолио (уже выполненые работы)"
+
+msgid "Portfolio Title"
+msgstr "Заголовок портфолио"
+
+msgid "Portfolio has been created successfully."
+msgstr "Портфолио было успешно создано"
+
+msgid "Portfolio has been deleted successfully."
+msgstr "Портфолио было успешно удалено"
+
+msgid "Portfolio has been updated successfully."
+msgstr "Портфолио было успешно обновлено."
+
+msgid "Portfolios"
+msgstr "Портфолио"
+
+msgid "Post Project"
+msgstr "Разместить проект"
+
+msgid "Post a Project"
+msgstr "Опубликовать проект"
+
+msgid "Post ad"
+msgstr "Добавить объявление"
+
+msgid "Post author information is incorrect!"
+msgstr "Опубликованая информация об авторе не верна!"
+
+msgid "Post not found!"
+msgstr "Объявлений не найдено!"
+
+msgid "Posted Projects (%s)"
+msgstr "Опубликовано проектов (%s)"
+
+msgid "Posted by %s"
+msgstr "Опубликовано %s"
+
+msgid "Posted projects (%d)"
+msgstr "Опубликованных проектов (%d)"
+
+msgid "Posts"
+msgstr "Посты"
+
+msgid "Pre-Packaged"
+msgstr "Пакеты"
+
+msgid "Press Enter"
+msgstr "Нажмите ENTER"
+
+msgid "Press Enter to keep adding skills"
+msgstr "Нажмите Enter для добавления навыков работы"
+
+msgid "Prevent directly login to admin page."
+msgstr "Войти напрямую в админку"
+
+msgid "Previous tab"
+msgstr "Предыдущая таблица"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Primary receiver pays all fees"
+msgstr "Первый платит все издержки"
+
+msgid "Private Message!"
+msgstr "Личное сообщение!"
+
+msgid "Private Repository"
+msgstr "Личное хранилище"
+
+msgid "Proceed"
+msgstr "В процессе"
+
+msgid "Professional Title"
+msgstr "Профессия"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Profile Color"
+msgstr "Цвет профиля"
+
+msgid "Profile Demonstration"
+msgstr "Демонстрация профиля"
+
+msgid "Profile Details"
+msgstr "Детали профиля"
+
+msgid ""
+"Profile demonstration on header video background which can be view by "
+"freelancer"
+msgstr ""
+"Демонстрация профиля в качестве видео фона в верхней части сайта, которое "
+"может быть просмотрено исполнителем"
+
+msgid "Profile main color, such as link, title, create project button"
+msgstr "Основной цвет профиля, ссылок, заголовка, кнопка создать"
+
+msgid "Profile main color, such as professional title"
+msgstr "Основной цвет профиля, заголовка профессии"
+
+msgid "Profile of %s"
+msgstr "Профиль %s"
+
+msgid "Profiles"
+msgstr "Профили"
+
+msgid "Profiles Listing"
+msgstr "Список профилей"
+
+msgid ""
+"Profiles demonstration on list profiles page which can be view by employer"
+msgstr ""
+"Демонстрация профилей на странице профилей, которые могут быть просмотрены "
+"заказчиком"
+
+msgid "Profiles listing page Slug"
+msgstr "Profiles listing page Slug"
+
+msgid "Project"
+msgstr "Проект"
+
+msgid "Project %s has been completed and money has transfered."
+msgstr "Проект %s был завершен и деньги отправлены."
+
+msgid ""
+"Project %s has been completed and money has transfered. You can check "
+"workspace and project details"
+msgstr ""
+"Проект %s был завершен и деньги отправлены. Вы можете просмотретьдетали "
+"проекта."
+
+msgid "Project %s has been completed and waiting your confirm."
+msgstr "Проект %s был закончен и ожидает вашего подтверждения."
+
+msgid ""
+"Project %s has been completed. Please check it and transfer money to "
+"freelancer."
+msgstr ""
+"Проект %s был закончен. Пожалуйста проверьте и оплатите деньгиисполнителю."
+
+msgid "Project %s was closed."
+msgstr "Проект %s был закрыт."
+
+msgid "Project %s was completed"
+msgstr "Проект %s был завершен"
+
+msgid "Project %s you worked on has refunded."
+msgstr "Проект %s над котором вы работаете был отозван."
+
+msgid "Project Category"
+msgstr "Project Category"
+
+msgid "Project Category Order"
+msgstr "Сортировка категории проекта"
+
+msgid "Project Category page Slug"
+msgstr "Project Category page Slug"
+
+msgid "Project Color"
+msgstr "Цвет проекта"
+
+msgid "Project Demonstration"
+msgstr "Демонстрация проекта"
+
+msgid "Project Details"
+msgstr "Детали проекта"
+
+msgid "Project Information"
+msgstr "Информация проекта"
+
+msgid "Project Listing"
+msgstr "Project Listing"
+
+msgid "Project Related Mail Template"
+msgstr "Шаблон связанных проектов"
+
+msgid "Project Report Mail Template"
+msgstr "Шаблон письма с отчетом о проекте"
+
+msgid "Project Reported by Freelancer"
+msgstr "Исполнитель оставил отзыв о проекте"
+
+msgid "Project Title"
+msgstr "Заголовок проекта"
+
+msgid "Project Type"
+msgstr "Тип проекта"
+
+msgid "Project Type Order"
+msgstr "Тип заказанного проекта"
+
+msgid "Project Type page Slug"
+msgstr "Project Type page Slug"
+
+msgid "Project complete:"
+msgstr "Выполненых проектов:"
+
+msgid ""
+"Project demonstration on header video background which can be view by "
+"employer"
+msgstr ""
+"Демонстрация проекта в верху сайта, в качестве видео фона, которое может  "
+"быть просмотрено заказчиком"
+
+msgid ""
+"Project demonstration on header video background which can be view by "
+"freelancer"
+msgstr ""
+"Демонстрация проекта в верху сайта, в качестве видео фона, которое может "
+"быть просмотрено исполнителем"
+
+msgid "Project description:"
+msgstr "Описание проекта:"
+
+msgid "Project has been assign successful."
+msgstr "Проект был успешно помечен."
+
+msgid "Project owner"
+msgstr "Владелец проекта"
+
+msgid "Project posted"
+msgstr "Проектов опубликовано"
+
+msgid "Project posted:"
+msgstr "Опубликованных проектов:"
+
+msgid "Project type"
+msgstr "Тип проекта"
+
+msgid "Project was Reported by Employer"
+msgstr "Проекту был оставлен отчет от Заказчика"
+
+msgid "Project you joined has a review."
+msgstr "Проект над которым вы работаете получил комментарий."
+
+msgid "Projects"
+msgstr "Проекты"
+
+msgid "Projects Worked"
+msgstr "Проектов выполнено"
+
+msgid "Projects listing page Slug"
+msgstr "Projects listing page Slug"
+
+msgid "Projects worked:"
+msgstr "Проектов выполнено:"
+
+msgid "Publish Mail Template"
+msgstr "Шаблон письма о публикации"
+
+msgid "Query"
+msgstr "Запрос"
+
+msgid "Quit"
+msgstr "Выход"
+
+msgid "READ MORE"
+msgstr "ПОДРОБНЕЕ"
+
+msgid "REJECTED"
+msgstr "ОТКЛОНЕННЫЕ"
+
+msgid "REPUTATION"
+msgstr "РЕПУТАЦИЯ"
+
+msgid "Rate for \"%s\""
+msgstr "Оценить за \"%s\""
+
+msgid "Rate for this profile"
+msgstr "Оценить этот профиль"
+
+msgid "Rate project and post your review here"
+msgstr "Оцените проект и разместите отзыв здесь"
+
+msgid "Rating"
+msgstr "Оценка"
+
+msgid "Rating:"
+msgstr "Репутация"
+
+msgid ""
+"Rearrange content elements or add more information in your front page to "
+"suit your needs."
+msgstr ""
+"Перестроить расположение элементов на главной странице или добавить больше "
+"информациина главную страницу."
+
+msgid "Receipt Mail Template"
+msgstr "Платеж завершен"
+
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+msgid "Register"
+msgstr "Регистрация"
+
+msgid "Register Mail"
+msgstr "Зарегистрированная почта"
+
+msgid "Register Mail Template"
+msgstr "Шаблон регистрации пользователя"
+
+msgid "Reject"
+msgstr "Отклонить"
+
+msgid "Reject <span>%s</span>"
+msgstr "Отклонить <span>%s</span>"
+
+msgid "Reject Mail Template"
+msgstr "Шаблон письма об отклонении"
+
+msgid "Remote file is incorrect size"
+msgstr "Файл не правильного размера"
+
+msgid "Remote file is too large, limit is %s"
+msgstr "У файла очень большой размер, предел %s"
+
+msgid "Remote server did not respond"
+msgstr "Сервер не отвечает"
+
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Сервер вернул ошибку %1$d %2$s"
+
+msgid "Remove featured"
+msgstr "Удалить свойство"
+
+msgid "Renew"
+msgstr "Возобновить"
+
+msgid "Repeat Passwords mismatch."
+msgstr "Повторите ввод пароля."
+
+msgid "Reply "
+msgstr "Ответить"
+
+msgid "Report"
+msgstr "Отчет"
+
+msgid "Request confirm email."
+msgstr "Подтверждение электронной почты."
+
+msgid "Required"
+msgstr "Необходимые"
+
+msgid "Reset"
+msgstr "Сбросить"
+
+msgid "Resetpass Mail Template"
+msgstr "Шаблон сброса пароля"
+
+msgid "Resetpassword Mail"
+msgstr "Письмо о сбросе пароля"
+
+msgid "Resolve"
+msgstr "Разрешение"
+
+msgid "Resolve Dispute"
+msgstr "Разрешение спора"
+
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установщику плагинов"
+
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели"
+
+msgid "Return to the dashboard"
+msgstr "Вернуться на главную страницу."
+
+msgid "Retype New password"
+msgstr "Повторите новый пароль"
+
+msgid "Retype Password"
+msgstr "Введите повторно пароль"
+
+msgid "Retype again"
+msgstr "Повторите"
+
+msgid "Retype password"
+msgstr "Введите повторно пароль"
+
+msgid "Retype password is not equal."
+msgstr "Введите пароль еще раз."
+
+msgid "Retype your new password"
+msgstr "Повторите ваш новый пароль"
+
+msgid "Revenue"
+msgstr "Доход"
+
+msgid "Revenue(%s)"
+msgstr "Доход (%s)"
+
+msgid "Review & Complete"
+msgstr "Обзор и описание"
+
+msgid "Review job"
+msgstr "Просмотр работы"
+
+msgid "Review your Profile"
+msgstr "Просмотреть ваш профиль"
+
+msgid "Right"
+msgstr "По правому краю"
+
+msgid "SAMPLE DATA"
+msgstr "ТЕСТОВЫЕ ДАННЫЕ"
+
+msgid "SEARCH"
+msgstr "ПОИСК"
+
+msgid "SETTINGS"
+msgstr "НАСТРОЙКИ"
+
+msgid "SIGN IN"
+msgstr "РЕГИСТРАЦИЯ"
+
+msgid "SIGN IN WITH FACEBOOK"
+msgstr "ВОЙТИ ЧЕРЕЗ FACEBOOK"
+
+msgid "SIGN IN WITH GOOGLE+"
+msgstr "ВОЙТИ ЧЕРЕЗ GOOGLE+"
+
+msgid "SIGN IN WITH LINKEDIN"
+msgstr "Войти через LINKEDIN"
+
+msgid "SIGN IN WITH TWITTER"
+msgstr "ВОЙТИ ЧЕРЕЗ TWITTER"
+
+msgid "SIGN UP"
+msgstr "РЕГИСТРАЦИЯ"
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "SOCIAL LOGIN"
+msgstr "ВХОД ЧЕРЕЗ СОЦ СЕТИ"
+
+msgid "SUBMIT"
+msgstr "ДОБАВИТЬ"
+
+msgid "Sa"
+msgstr "Сб"
+
+msgid "Sat"
+msgstr "Суб"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save Details"
+msgstr "Сохранить детали"
+
+msgid "Save Package"
+msgstr "Сохранить тариф"
+
+msgid "Save Plan"
+msgstr "Сохранить"
+
+msgid "Search Advanced"
+msgstr "Расширенный поиск"
+
+msgid "Search Bid plans"
+msgstr "Поиск типов предложения"
+
+msgid "Search Bids"
+msgstr "Поиск предложений"
+
+msgid "Search Packs"
+msgstr "Поиск тарифных планов"
+
+msgid "Search Profiles"
+msgstr "Поиск профилей"
+
+msgid "Search Project Categories"
+msgstr "Поиск категорий проекта"
+
+msgid "Search Project Types"
+msgstr "Поиск типов проекта"
+
+msgid "Search Projects"
+msgstr "Поиск проектов"
+
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+msgid "Search Skills"
+msgstr "Поиск профессий"
+
+msgid "Search Testimonials"
+msgstr "Поиск рекомендаций"
+
+msgid "Search at blog"
+msgstr "Поиск в блоге"
+
+msgid "Search countries"
+msgstr "Поиск по городам"
+
+msgid "Search notifications"
+msgstr "Поиск уведомлений"
+
+msgid "Search portfolio"
+msgstr "Поиск Портфолио"
+
+msgid "Search post..."
+msgstr "Поиск объявлений..."
+
+msgid "Search users..."
+msgstr "Поиск пользователей..."
+
+msgid "Searching"
+msgstr "Поиск"
+
+msgid "Searching Freelancers"
+msgstr "Поиск Исполнителей"
+
+msgid "Searching Projects"
+msgstr "Поиск проектов"
+
+msgid "Secondary Color"
+msgstr "Вторастепенный цвет"
+
+msgid "Secondary receivers pay all fees"
+msgstr "Второй оплачивает все издержки"
+
+msgid "Secret Key"
+msgstr "Пароль"
+
+msgid "Security error!"
+msgstr "Ошибка безопасности!"
+
+msgid "Select"
+msgstr "Выбор"
+
+msgid ""
+"Select \"Yes\" to display a \"Hire me\" button on your profile allowing "
+"potential clients and employers to contact you."
+msgstr ""
+"Выберите  \"Да \", чтобы отобразить \"Наймите меня \" кнопку в вашем профиле "
+"позволяющую клиенту связаться с Вами."
+
+msgid "Select Skill"
+msgstr "Выберите опыт работы"
+
+msgid "Select Skill From Predefined List"
+msgstr "Выберите опыт работы со списка"
+
+msgid "Select User roles"
+msgstr "Выберите тип пользователя"
+
+msgid "Select a status"
+msgstr "Выберите статус"
+
+msgid "Select payment method"
+msgstr "Выбрать способ оплаты"
+
+msgid "Select project type"
+msgstr "Выберите тип проека"
+
+msgid "Select the language you want to use for your website."
+msgstr "Выберите язык, используемый на сайте."
+
+msgid "Select the type of commission you want to use."
+msgstr "Выберите тип коммисии, которую вы хотите использовать"
+
+msgid "Select the user role to pay for the commission."
+msgstr "Выберите, кто будет платить за коммисию"
+
+msgid "Select the user roles."
+msgstr "Выберите ваш тип пользователя"
+
+msgid "Select user roles"
+msgstr "Выберите тип пользователя"
+
+msgid "Select video loop"
+msgstr "Выберите видео повтор"
+
+msgid "Select your pricing plan"
+msgstr "Выберите ваш тарифный план"
+
+msgid "Send"
+msgstr "Отправить"
+
+msgid "Send payment successful."
+msgstr "Платеж успешно отправлен."
+
+msgid "Send to admin when user sends a report."
+msgstr "Отправляется Администратору, когда пользователь написал отчет"
+
+msgid "Send to employer when freelancer send report on project."
+msgstr "Отправляется заказчику, когда исполнитель оставил отзыв о проекте"
+
+msgid "Send to freelancer when employer close project."
+msgstr "Отправляется исполнителю, когда заказчик закрыл проект"
+
+msgid "Send to freelancer when employer sends a report on the project."
+msgstr "Отпраялется исполнителю, когда заказчик оставил отчет о проекте"
+
+msgid "Send to freelancer when his bid was accepted."
+msgstr "Отправляется исполнителю, когда его предложение принято заказчиком."
+
+msgid "Send to the employer when the freelancer quits the project"
+msgstr "Отправляется исполнителю, когда исполнитель отказался от проекта "
+
+msgid "Send to user cash message when they pay by cash"
+msgstr "Отправляется пользователям, когда они оплатили через наличные"
+
+msgid "Send to user to notify him has resetpass successfully."
+msgstr "Отправлять пользователю уведомление, об успешном сбросе пароля."
+
+msgid ""
+"Send to user when admin executes the escrow payment and send to the "
+"freelancer."
+msgstr ""
+"Отправляется пользователю, когда администратор выплатил платеж escrow "
+"исполнителю."
+
+msgid "Send to user when project he worked on was marked complete."
+msgstr ""
+"Отправляется пользователю, когда проект над которым он работал получил "
+"статус выполненого"
+
+msgid ""
+"Send to users after he registered successfull when option confirm email is "
+"on."
+msgstr ""
+"Отправляется пользователю после успешной регистрации, когда опция  "
+"подтверждения emailвключена."
+
+msgid "Send to users after they finish a payment"
+msgstr "Отправляется пользователям, после того, как они сделали оплату"
+
+msgid "Send to users to notify that he was confirm email successfull."
+msgstr "Отправляется пользователям, когда их почта подтверждена."
+
+msgid ""
+"Send to users when admin refunds the escrow payment to the project's owner."
+msgstr ""
+"Отправляется пользователям, когда администратор возвратил escrow оплату "
+"владельцу проекта."
+
+msgid "Send to users when he have a new message on workspace."
+msgstr "Отправляется пользователю, когда он получил сообщение с сайта."
+
+msgid "Send to users when he register successfull."
+msgstr "Отправляется пользователю, при успешной регистрации."
+
+msgid "Send to users when he request resetpass."
+msgstr ""
+"Отправляется пользователю, когда он инициировал процедуру сброса пароля."
+
+msgid "Send to users when someone contact him."
+msgstr "Отправлять пользователям, когда кто-то написал ему."
+
+msgid "Send to users when someone invite him join a project"
+msgstr "Отправляется пользователю, когда кто-то прогласил его на работу"
+
+msgid "Send your cash payment to our bank account"
+msgstr "Отправить наличные в банковский счет"
+
+msgid "Send your payment via 2Checkout."
+msgstr "Оплатить через 2Checkout"
+
+msgid "Send your payment via Authorize.Net"
+msgstr "Оплатить через Authorize.Net"
+
+msgid "Send your payment via Paypal."
+msgstr "Оплатить через Paypal"
+
+msgid ""
+"Sent to users to notify that one of their listing has been archived due to "
+"expiration or manual administrative action."
+msgstr ""
+"Отправляется уведомление о том, что одно из их объявлений было "
+"пархивированоиз-за срока или действия администратора."
+
+msgid "Sent to users to notify that one of their listing has been published."
+msgstr "Отправляется пользователю, когда его объявление опубликовано."
+
+msgid "Sent to users to notify that one of their listing has been rejected."
+msgstr ""
+"Отправляется уведомление пользователю, когда одно из его объявлений "
+"отклонено. "
+
+msgid "Sent to users when a candidate bid their projects."
+msgstr ""
+"Отправляется пользователю, когда исполнитель подал заявку на исполнение."
+
+msgid "Sep"
+msgstr "Сен"
+
+msgid "September"
+msgstr "Сентябрь"
+
+msgid "Set a maximum number of categories a project can assign to"
+msgstr "Задайте максимальное число категорий для показа проекта"
+
+msgid "Set as featured"
+msgstr "Назначить как свойство"
+
+msgid "Set payment plans your users can choose when posting new project."
+msgstr ""
+"Создайте тарифные планы, которые смогут выбирать пользователи при подаче "
+"проекта."
+
+msgid "Set up the limitation for the 'Budget' filter in 'Projects' page."
+msgstr "Поставьте ограничение по бюджету для фильтра на странице Проекта."
+
+msgid "Set your bid:"
+msgstr "Добавить ваше предложение"
+
+msgid "Sets the number of decimal points."
+msgstr "Устанавливает количество десятичных знаков."
+
+msgid "Setting up a trustworthy environment for freelancers and employers."
+msgstr "Добавьте достоверную информацию для исполнителей и заказчиков."
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Shared Roles"
+msgstr "Изменить роли"
+
+msgid "Sharing Role Capabilities"
+msgstr "Поделиться возможностями"
+
+msgid "Short description about this package"
+msgstr "Короткое описание тарифа"
+
+msgid "Show Details"
+msgstr "Показать детали"
+
+msgid "Sid"
+msgstr "Sid"
+
+msgid "Sidebars & Widgets"
+msgstr "Виджеты и боковые панели"
+
+msgid "Sign"
+msgstr "Знак"
+
+msgid "Sign Up"
+msgstr "Зарегистрироваться"
+
+msgid "Sign in"
+msgstr "Регистрация"
+
+msgid "Sign up"
+msgstr "Регистрация"
+
+msgid "Signup"
+msgstr "Зарегистрироваться"
+
+msgid "Simply Drag & Drop"
+msgstr "Просто перетащите и опустите"
+
+msgid "Singapore Dollar"
+msgstr "Сингапурский доллар"
+
+msgid "Single Project page Slug"
+msgstr "Single Project page Slug"
+
+msgid "Site Dashboard"
+msgstr "Панель управления"
+
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+msgid "Site Logo while"
+msgstr "Маленький логотип сайта"
+
+msgid "Site Status"
+msgstr "Статус сайта"
+
+msgid "Site logo "
+msgstr "Логотип сайта"
+
+msgid "Site logo in front page"
+msgstr "Логотип сайта на стартовой станице"
+
+msgid "Site main color, such view profile, apply project button"
+msgstr "Основной цвет сайта, вид профиля, кнопка применить"
+
+msgid "Skill"
+msgstr "Skill"
+
+msgid "Skill tag page Slug"
+msgstr "Skill tag page Slug"
+
+msgid "Skills"
+msgstr "Профессии"
+
+msgid "Skills (max is 5)"
+msgstr "Перечислите (максимум 5)"
+
+msgid "Skills Require"
+msgstr "Необходимые навыки"
+
+msgid "Skills required:"
+msgstr "Необходимый опыт"
+
+msgid "Skip"
+msgstr "Пропустить"
+
+msgid "Slide max budget"
+msgstr "Поставить максимальный бюджет"
+
+msgid "Slug"
+msgstr "Slug"
+
+msgid "Social Links"
+msgstr "ссылки соц сетей"
+
+msgid "Social connect page"
+msgstr "Страница соединения с соц сетями"
+
+msgid "Social connect page url "
+msgstr "URL для входа через соц сеть"
+
+msgid "Social links are displayed in the footer and in your blog sidebar.."
+msgstr ""
+"Кнопки социальных сетей показываются в подвале сайте и сбоку в вашем блоке.."
+
+msgid "Social login"
+msgstr "Вход через соц сети"
+
+msgid "Social login is invalid. Please contact administrator for help."
+msgstr ""
+"Вход через соц сети не возможен. Пожалуйста свяжитесь с администрацией сайта."
+
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с установкой плагина."
+
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+msgid "Sorry no results found."
+msgstr "Извините, ничего не найдено."
+
+msgid "Source"
+msgstr "Источник"
+
+msgid "Specify a date when ad will be archived."
+msgstr "Назначить дату, когда объявление будет перемещено в архив."
+
+msgid "Standard Header menu"
+msgstr "Стандартное меню"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Status : Finished<br /> list review here"
+msgstr "Статус : Завершено<br /> список отзывов тут"
+
+msgid "Status:Hire opening"
+msgstr "Статус: Открыт наём"
+
+msgid "Status:Working"
+msgstr "Статус: Работаем"
+
+msgid "Su"
+msgstr "Вс"
+
+msgid "Submit"
+msgstr "Добавить"
+
+msgid "Submit Comment"
+msgstr "Добавить комментарий"
+
+msgid "Submit Project"
+msgstr "Добавить проект"
+
+msgid "Submit place successfull."
+msgstr "Поле добавлено успешно"
+
+msgid "Submit project"
+msgstr "Добавить проект"
+
+msgid "Success, friend"
+msgstr "Успешно."
+
+msgid "Successs"
+msgstr "Успешно"
+
+msgid "Sun"
+msgstr "Вс"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Swiss Franc"
+msgstr "Швейцарский доллар"
+
+msgid "Switch Skill"
+msgstr "Изменить опыт"
+
+msgid "Sync success."
+msgstr "Успешно обновлено"
+
+msgid "TRASHED"
+msgstr "В КОРЗИНЕ"
+
+msgid "TYPE KEYWORD HERE"
+msgstr "ВВЕДИТЕ КЛЮЧЕВОЕ СЛОВО"
+
+msgid "Testimonial"
+msgstr "Рекомендация"
+
+msgid "Testimonials"
+msgstr "Рекомендации"
+
+msgid "Testimonials Infomation"
+msgstr "Информатия"
+
+msgid "Th"
+msgstr "Чт"
+
+msgid "Thank you for your payment!"
+msgstr "Благодарим за ваш платеж!"
+
+msgid "The ID already existed!"
+msgstr "Id уже существует!"
+
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процесс установки и активации запущен. Этот процесс может занять некоторое "
+"времяпожалуйста подождите."
+
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не выполнена."
+
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс установки запущен. Этот процес может занять некоторое время, "
+"дождитесь окончания."
+
+msgid "The login information you entered were incorrect. Please try again!"
+msgstr "Введеный вами логин не подходит. Пожалуйста попробуйте еще раз!"
+
+msgid ""
+"The payment is pending because it was made by an eCheck that has not yet "
+"cleared."
+msgstr ""
+"Платеж задержан, потому что был сделан через eCheck, до сих пор не проверян."
+
+msgid ""
+"The payment is pending because it was made via credit card and the receiver "
+"must upgrade the account to a Business account or Premier status to receive "
+"the funds. It can also mean that receiver has reached the monthly limit for "
+"transactions on the account"
+msgstr ""
+"Оплата задержана, потому что произведена через кредитную карту и для того,"
+"чтобы ее получить, получатель должен повысить статус своего аккаунта до "
+"Бизнес или Премиум.Также это может означать, что получатель достиг месячного "
+"лимита по переводам."
+
+msgid "The payment is pending because the receiver is not yet verified."
+msgstr "Оплата задержана, потому что получатель не верифицирован."
+
+msgid "The payment is pending while it is being reviewed by PayPal for risk."
+msgstr "Оплата рассматривается отделом Paypal"
+
+msgid ""
+"The receiver does not have a balance in the currency sent, and does not have "
+"the Payment Receiving Preferences set to automatically convert and accept "
+"this payment. Receiver must manually accept or deny this payment from the "
+"Account Overview."
+msgstr ""
+"Получатель не имеет кошелька в валюте, который вы оплачиваете, также не "
+"имеетразрешения для автоматической конвертации валюты и принятия этого "
+"платежа. Получательдолжен в ручную принять или отклонить платеж со своего "
+"аккаунта."
+
+msgid ""
+"The sample data include some items from the list below: places, comments, "
+"etc."
+msgstr ""
+"Тестовые данные включают некоторые данные из спика: места, комментарии и тд."
+
+msgid ""
+"Theme functions required to create a folder wp-content/et-content. Please "
+"set chmod folder wp-content to 755."
+msgstr ""
+"Функции темы, нуждаются в создании папки wp-content/et-content. Пожалуйста, "
+"добавьте права 755 на папку wp-content"
+
+msgid "There are no bids yet."
+msgstr "Нет предложений."
+
+msgid "There are no bids yet. Be the first one now!"
+msgstr "Нет предложений. Будьте первым!"
+
+msgid "There are no payments yet."
+msgstr "Нет платежей еще."
+
+msgid "There is an error occurred"
+msgstr "Ошибка"
+
+msgid "There is no payment plan."
+msgstr "Тарифный план не создан."
+
+msgid "There is no posts yet"
+msgstr "Здесь нет еще объявлений"
+
+msgid "There was a problem with your upload."
+msgstr "Ошибка в загрузке."
+
+msgid "There was an error when reading this WXR file"
+msgstr "Ошибка чтения файла"
+
+msgid "There was no changes in your translation."
+msgstr "Язык не был изменен."
+
+msgid "This copyright information will appear in the footer."
+msgstr "Этот копирайт распологается в подвале сайта."
+
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Это не WXR файл, пропустили/неверный WXR номер"
+
+msgid ""
+"This email is already existed. If you are the owner, please enter the right "
+"password"
+msgstr ""
+"Этот email уже зарегистрирован. Если вы его владелец, введите верный пароль"
+
+msgid "This email is already used. Please enter a new email."
+msgstr "Этот email уже используется. Пожалуйста введите другой email."
+
+msgid "This field is required."
+msgstr "Эти поля обязательны."
+
+msgid "This file is too big. Files must be less than %1$s KB in size."
+msgstr "Этот файл слишком велик. Файл должен весить не больше %1$s KB"
+
+msgid ""
+"This icon will be used as a launcher icon for iPhone and Android smartphones "
+"and also as the website favicon. The image dimensions should be 57x57px."
+msgstr ""
+"Эти иконки будут использованы в iPhone и Android устройст а также в favicon "
+"сайта. Картинка должна быть размером 57x57px."
+
+msgid "This plan will be featured."
+msgstr "Этот тариф будет рекомендуемым"
+
+msgid "This post has been deleted by %s"
+msgstr "Это пост был удален %s"
+
+msgid "This project has been archived"
+msgstr "Этот проект перемещен в архив"
+
+msgid "This project has been closed by %s."
+msgstr "Этот проект был закрыт %s."
+
+msgid "This project has been quit by %s."
+msgstr "Этот проект был заброшен %s."
+
+msgid "This project has been rejected"
+msgstr "Этот проект отклонен"
+
+msgid "This project have not accepted any bid."
+msgstr "Этот проекта не получил ни одного предложения."
+
+msgid "This project is not publish."
+msgstr "Этот проект не опубликован."
+
+msgid "This project is pending"
+msgstr "Этот проект находится на рассмотрении"
+
+msgid ""
+"This seems to be your first time signing in using your Facebook account. "
+"<br />If you already have an account with %s, please log in using the form "
+"below to link it to your Facebook account. Otherwise, please enter an email "
+"address and a password on the form, and a username on the next page to "
+"create an account.<br />You will only do this step ONCE. Next time, you'll "
+"get logged in right away."
+msgstr ""
+"Выглядит так, как будто вы первый раз используете ваш Facebook аккаунт.<br /"
+"> Еслиу вас уже есть аккаунт с %s, пожалуйста войдите в него используя форму "
+"ниже для интеграциивашего Facebook аккаунта. Или введите ваш email адрес и "
+"пароль в форму на следующей страницедля создания аккаунта. <br> Это "
+"единоразовое действие. </p>"
+
+msgid ""
+"This seems to be your first time signing in using your Facebook account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Facebook account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"Выглядит так, как будто вы первый раз используете ваш Facebook аккаунт. "
+"Еслиу вас уже есть аккаунт пожалуйста войдите в него используя форму ниже "
+"для интеграциивашего Facebook аккаунта. Или введите ваш email адрес и пароль "
+"в форму на следующей страницедля создания аккаунта. Это единоразовое "
+"действие."
+
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Facebook account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"Выглядит так, как будто вы первый раз используете ваш Google+ аккаунт. Еслиу "
+"вас уже есть аккаунт пожалуйста войдите в него используя форму ниже для "
+"интеграциивашего Google+ аккаунта. Или введите ваш email адрес и пароль в "
+"форму на следующей страницедля создания аккаунта. Это единоразовое действие."
+
+msgid ""
+"This seems to be your first time signing in using your Google+ account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Google+  account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+"</p>"
+msgstr ""
+"Выглядит так, как будто вы первый раз используете ваш Google+ аккаунт. Еслиу "
+"вас уже есть аккаунт пожалуйста войдите в него используя форму ниже для "
+"интеграциивашего Google+ аккаунта. Или введите ваш email адрес и пароль в "
+"форму на следующей страницедля создания аккаунта. Это единоразовое действие. "
+"</p>"
+
+msgid ""
+"This seems to be your first time signing in using your LinkedIn account.If "
+"you already have an account, please log in using the form below to link it "
+"to your LinkedIn account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"Выглядит так, как будто вы первый раз используете ваш Linkedin аккаунт. "
+"Еслиу вас уже есть аккаунт пожалуйста войдите в него используя форму ниже "
+"для интеграциивашего Linkedin аккаунта. Или введите ваш email адрес и пароль "
+"в форму на следующей страницедля создания аккаунта. Это единоразовое "
+"действие. </p>"
+
+msgid ""
+"This seems to be your first time signing in using your Linkedin account.If "
+"you already have an account, please log in using the form below to link it "
+"to your Linkedin  account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+"</p>"
+msgstr ""
+"Выглядит так, как будто вы первый раз используете ваш Linkedin аккаунт. "
+"Еслиу вас уже есть аккаунт пожалуйста войдите в него используя форму ниже "
+"для интеграциивашего Linkedin аккаунта. Или введите ваш email адрес и пароль "
+"в форму на следующей страницедля создания аккаунта. Это единоразовое "
+"действие. </p>"
+
+msgid ""
+"This seems to be your first time signing in using your Twitter account.<br /"
+">If you already have an account with %s, please log in using the form below "
+"to link it to your Twitter account. Otherwise, please enter an email address "
+"and a password on the form, and a username on the next page to create an "
+"account.<br > You will only do this step ONCE. Next time, you'll get logged "
+"in right away.</p>"
+msgstr ""
+"Выглядит так, как будто вы первый раз используете ваш Twitter аккаунт.<br /> "
+"Еслиу вас уже есть аккаунт с %s, пожалуйста войдите в него используя форму "
+"ниже для интеграциивашего Twitter аккаунта. Или введите ваш email адрес и "
+"пароль в форму на следующей страницедля создания аккаунта. <br> Это "
+"единоразовое действие. </p>"
+
+msgid ""
+"This seems to be your first time signing in using your Twitter account.If "
+"you already have an account  , please log in using the form below to link it "
+"to your Twitter account. Otherwise, please enter an email address and a "
+"password on the form, and a username on the next page to create an account."
+"You will only do this step ONCE. Next time, you'll get logged in right away."
+msgstr ""
+"Выглядит так, как будто вы первый раз используете ваш Twitter аккаунт. Еслиу "
+"вас уже есть аккаунт пожалуйста войдите в него используя форму ниже для "
+"интеграциивашего Twitter аккаунта. Или введите ваш email адрес и пароль в "
+"форму на следующей страницедля создания аккаунта. Это единоразовое действие."
+
+msgid "Thousand separator"
+msgstr "Разделитель тысяч"
+
+msgid "Thu"
+msgstr "Четв"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Time left: %s"
+msgstr "Времени осталось: %s"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Title:"
+msgstr "Заголовок:"
+
+msgid "Total"
+msgstr "Итого"
+
+msgid "Total earned"
+msgstr "Всего заработано"
+
+msgid "Total earned:"
+msgstr "Всего заработано:"
+
+msgid "Total spent "
+msgstr "Всего потрачено"
+
+msgid "Total spent:"
+msgstr "Всего потрачено:"
+
+msgid "Transfer Money"
+msgstr "Передать деньги"
+
+msgid "Transfer Money To Freelancer"
+msgstr "передать деньги исполнителю"
+
+msgid "Translate a language"
+msgstr "Перевести язык"
+
+msgid "Translation saved! "
+msgstr "Язык сохранен."
+
+msgid "Translator"
+msgstr "Переводчик"
+
+msgid "Trash"
+msgstr "Корзина"
+
+msgid "Tu"
+msgstr "Вт"
+
+msgid "Tue"
+msgstr "Вт"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid ""
+"Turn on to display an \"Invite me\" button on your profile, allowing "
+"potential employers to suggest projects for you."
+msgstr ""
+"Включите для отображения \"Предложить мне \" кнопку в Вашем профиле, что "
+"позволяет потенциальному работодателю, предложить вам работу."
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Twitter API"
+msgstr "Twitter API"
+
+msgid "Twitter API "
+msgstr "Twitter API"
+
+msgid "Twitter Consumer Key"
+msgstr "Twitter пароль"
+
+msgid "Twitter Consumer Secret"
+msgstr "Twitter пароль"
+
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+msgid "Twitter key "
+msgstr "Twitter пароль"
+
+msgid "Twitter secret "
+msgstr "Twitter пароль"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Type and enter"
+msgstr "Введите и войдите"
+
+msgid "Type keyword"
+msgstr "Типы слов"
+
+msgid "Type the translation in your language"
+msgstr "Введите перевод на вашем языке"
+
+msgid "USD"
+msgstr "USD"
+
+msgid "Unknow"
+msgstr "Неизвестно"
+
+msgid "Unnamed"
+msgstr "Без имени"
+
+msgid "Unpacking the package&#8230;"
+msgstr "Разархивация пакета&#8230;"
+
+msgid "Unsupported Browsers"
+msgstr "Неподдерживаемые браузеры"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Update Project Category"
+msgstr "Обновить категорию проекта"
+
+msgid "Update Project Type"
+msgstr "Обновить тип проекта"
+
+msgid "Update Skill "
+msgstr "Обновить профессию"
+
+msgid "Update bid successful."
+msgstr "Предложение обновлено успешно."
+
+msgid "Update country "
+msgstr "Обновить город"
+
+msgid "Update option successfully!"
+msgstr "Опции обновлены успешно!"
+
+msgid "Update order successfull."
+msgstr "Заказ успешно обновлен."
+
+msgid "Update project successful!"
+msgstr "Проект успешно обновлен!"
+
+msgid "Uploaded file not found"
+msgstr "Загруженый файл не найден"
+
+msgid "Url slug"
+msgstr "Url slug"
+
+msgid "Use Paypal Adaptive API to setup escrow system."
+msgstr "Используйте Paypal API для настройки escrow системы."
+
+msgid "Use commas instead of %s to separate excluded terms."
+msgstr "Использовать запятые вместо %s для разделения терминов."
+
+msgid "User Profile page Slug"
+msgstr "User Profile page Slug"
+
+msgid "User default logo & avtar"
+msgstr "Логотип пользователя и автора по умолчанию"
+
+msgid "User quit your project %s."
+msgstr "Пользователь покинул ваш проект %s."
+
+msgid "User's data update successfully!"
+msgstr "Данные пользлвателя успешно обновлены!"
+
+msgid "Username"
+msgstr "Логин"
+
+msgid "Username and password does not matched"
+msgstr "Логин или пароль не подходят"
+
+msgid "Username is empty."
+msgstr "Поле логина пустое."
+
+msgid "Username is existed, please choose another one"
+msgstr "Этот логин занят, введите другой"
+
+msgid "Username only lowercase letters (a-z) and numbers are allowed."
+msgstr "Логин может состоять только из букв от  а до я и цифр."
+
+msgid "Users"
+msgstr "Пользователи"
+
+msgid "Using Escrow"
+msgstr "Использовать Escrow"
+
+msgid "Video Background Fallback"
+msgstr "Резервное видео для фона"
+
+msgid "Video Background Url"
+msgstr "Ссылка на видео в качестве фона"
+
+msgid "Video Background Via Youtube ID"
+msgstr "Видео в качестве фона с Youtube"
+
+msgid "View All Testimonials"
+msgstr "Посмотреит все отзывы"
+
+msgid "View Bid plan"
+msgstr "Просмотреть тип предложения"
+
+msgid "View Pack"
+msgstr "Просмотр тарифного плана"
+
+msgid "View Profile"
+msgstr "Посмотреть профиль"
+
+msgid "View Testimonial"
+msgstr "Просмотр рекомендации"
+
+msgid "View all posts in %s"
+msgstr "Просмотр всех сообщений в %s"
+
+msgid "View bid"
+msgstr "Просмотр предложения"
+
+msgid "View notification"
+msgstr "Просмотреть уведомление"
+
+msgid "View portfolio"
+msgstr "Просмотр Портфолио"
+
+msgid "View profile"
+msgstr "Просмотр профиля"
+
+msgid "View project"
+msgstr "Просмотр проекта"
+
+msgid "We"
+msgstr "Ср"
+
+msgid ""
+"We have sent an reset password mail to your mailbox. Please check your mail."
+msgstr ""
+"Мы отправили письмо с новым паролем на вашу почту. Пожалуйста проверьте ее."
+
+msgid "We will be back with the final result as soon as possible.  "
+msgstr "Мы сообщим результат как можно скорее"
+
+msgid ""
+"We will review both sides' reports to have the right decision. Please take "
+"your time to submit the report. All proofs such as emails, contracts, "
+"files,...will be accepted."
+msgstr ""
+"Мы рассмотрим обе заявки, для принятия правильного решения. Пожалуйста,"
+"оставьте ваше сообщение. Все доказательства, такие как email, контактные "
+"данные,файлы,... будут приняты к рассмотрению."
+
+msgid ""
+"We will review the reports from both freelancer and employer to give the "
+"best decision. It will take 3-5 business days for reviewing after receiving "
+"two reports."
+msgstr ""
+"Мы рассмотрим ответы от исполнителя и работодателя и примем лучшее решение. "
+"Это займет 3-5 рабочих днея для получения ответов от двух сторон."
+
+msgid "Website Description"
+msgstr "Описание сайта"
+
+msgid "Website Language"
+msgstr "Язык сайта"
+
+msgid "Website Title"
+msgstr "Заголовок сайта"
+
+msgid "Wed"
+msgstr "Ср"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Welcome back!"
+msgstr "Добро пожаловать!"
+
+msgid "What are you looking for?"
+msgstr "Что вас привело сюда?"
+
+msgid "Where is the file?"
+msgstr "Где файл?"
+
+msgid "WordPress Repository"
+msgstr "Wordpress хранилище"
+
+msgid "Work"
+msgstr "Исполнитель"
+
+msgid "Work history and Reviews (%d)"
+msgstr "Выполненые работы и отзывы (%d)"
+
+msgid "Working"
+msgstr "Работаем"
+
+msgid "Works History (%s)"
+msgstr "История выполненых работ (%s)"
+
+msgid "Workspace"
+msgstr "Место работы"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "You are about to accept this bid for"
+msgstr "Вы собираетесь принять эту заявку"
+
+msgid "You are an admin. Here you administrate."
+msgstr "Вы являетесь одним из администраторов здесь."
+
+msgid "You are bid successful"
+msgstr "Вы успешно подали предложение"
+
+msgid "You are currently using the 'Free' plan"
+msgstr "В настроящее время вы используете 'Бесплатный' тарифный план"
+
+msgid "You are going to finish this project."
+msgstr "Вы в процессе завершения этого проекта"
+
+msgid "You are not bidding any project."
+msgstr "Вы не подали заявку ни на один проект."
+
+msgid "You are not working on this project."
+msgstr "Вы не работаете над этим проектом."
+
+msgid "You are now redirected to home page ... "
+msgstr "Вы сейчас перенаплавлены на домащнюю страницу"
+
+msgid "You are now redirected to submit listing page ... "
+msgstr "Вы сейчас перенаправлены на страницу с предложениями ... "
+
+msgid "You are now redirected to your listing page ... "
+msgstr "Вы будете перенаправлены на вашу страницу заявок"
+
+msgid "You can also sign in by:"
+msgstr "Вы также можете зайти через:"
+
+msgid "You can bid %d projects using this plan."
+msgstr "Вы можете подавать заявки на %d проектов, используя этот тарифный план"
+
+msgid ""
+"You can create a new page and paste shortcode [social_connect_page] here"
+msgstr ""
+"Вы можете создать новую страницу и вставить код [social_connect_page] здесь"
+
+msgid "You can not edit other posts!"
+msgstr "Вы не можете редактировать другие объявления"
+
+msgid "You can submit %d post using this plan."
+msgstr "Вы можете разместить %d постов, используя этот тарифный план"
+
+msgid "You can submit %d posts using this plan."
+msgstr "Вы можете разместить %d постов, используя этот тарифный план"
+
+msgid "You can't bid on your project"
+msgstr "Вы не можете ставить предложения на ваш проект"
+
+msgid "You can't create an administrator account."
+msgstr "Вы не можете создать аккаунт администратора."
+
+msgid "You can't not access this action."
+msgstr "Вы не можете выполнить это действие."
+
+msgid "You can't not reivew on this project."
+msgstr "Вы не можете оставить отзыв."
+
+msgid "You cannot change other user password"
+msgstr "Вы не можете изменить пароль другого пользователя"
+
+msgid ""
+"You cannot delete a parent category. You need to delete its sub-categories "
+"first."
+msgstr ""
+"Вы не можете удалить главную категорию. Вы должны сначала удалить ее "
+"подкатегории."
+
+msgid "You cannot send an empty message."
+msgstr "Вы не можете отправлять пустое сообщение."
+
+msgid "You do not have an account?"
+msgstr "У вас нет аккаунта?"
+
+msgid "You do not have permission to change option."
+msgstr "У вас нет прав, изменить эту опцию."
+
+msgid "You do not have permission to delete post."
+msgstr "Вы не можете удалить объявление."
+
+msgid "You do not have permission to do this action."
+msgstr "У вас нет разрешения сделать это."
+
+msgid "You do not have permission to report dispute this project."
+msgstr "У вас нет возможности открыть спор об этом проекте."
+
+msgid "You don't have perminsion to accept this project."
+msgstr "У вас нет возможности принять этот проект."
+
+msgid "You don't have permission to review."
+msgstr "Вы не можете оставить отзыв."
+
+msgid "You have a new invitation to join project from %s."
+msgstr "Вы получили предложение стать исполнителем над проектом от %s."
+
+msgid "You have a new message on %s workspace."
+msgstr "Вы получили новое сообщение с %s места работы."
+
+msgid "You have account ? Click here !"
+msgstr "У вас есть аккаунт ? Нажмите сюда !"
+
+msgid "You have already comment on this."
+msgstr "Вы уже комментировали это."
+
+msgid "You have an invite from %s"
+msgstr "У вас приглашение от %s"
+
+msgid "You have been sent payment base on project %s."
+msgstr "Вы оплатили часть денег за проект %s."
+
+msgid "You have bid on this project"
+msgstr "Вы подали предложение на этот проект"
+
+msgid "You have completed project %s and reviewed %s."
+msgstr "Вы закончили проект %s и оставили отзыв %s."
+
+msgid "You have got a refund on project %s."
+msgstr "Вы получили возврат с проекта %s."
+
+msgid ""
+"You have just installed DirectoryEngine theme, we recommend you follow "
+"through our <a href='%s'>setup wizard</a> to set up the basic configuration "
+"for your website! <a href='%s'>Close this message</a>"
+msgstr ""
+"Вы только установили DirectoryEngine тему, мы рекомендуем пройтичерез <a "
+"href='%s'>Настройку</a> для обновления конфигурации вашего сайта <a "
+"href='%s'>Закрыть</a>"
+
+msgid "You have logged in successfully"
+msgstr "Вы успешно вощли"
+
+msgid "You have not confirmed your email yet, please check out your mailbox."
+msgstr ""
+"Вы не подтвердили вашу электронную почту пока, пожалуйста, проверьте ваш "
+"почтовой ящик."
+
+msgid "You have not worked on any project yet."
+msgstr "Вы еще не работали ни над одим проектом"
+
+msgid ""
+"You have reached the maximum number of Free posts. Please select another "
+"plan."
+msgstr ""
+"Вы исчервали максимальное число бесплатных объявлений. Пожалуйста выберите "
+"другой тарифный план."
+
+msgid "You have registered successfully!"
+msgstr "Вы успешно зарегистрировались!"
+
+msgid ""
+"You have registered successfully. Please check your mailbox to activate your "
+"account."
+msgstr ""
+"Вы успешно зарегистрировались. Пожалуйста, проверьте свою почту, для "
+"активацииаккаунта."
+
+msgid "You have request a confirm email from %s."
+msgstr "У вас запрос на подтверждение email от %s."
+
+msgid "You have reviewed on this project."
+msgstr "Вы оставили отзыв об этом проекте."
+
+msgid "You have selected an invalid plan."
+msgstr "Вы должны выбрать тарифный план"
+
+msgid "You have selected: %s"
+msgstr "Вы выбрали: %s"
+
+msgid "You have signed in successfully!"
+msgstr "Вы успешно вошли!"
+
+msgid ""
+"You have successfully sent the money. Now you can start working on project "
+"%s ."
+msgstr ""
+"Вы успешно отправили деньги. Теперь вы можете начать работать над проектом"
+"%s ."
+
+msgid "You have to be a freelancer to bid a project."
+msgstr "Вы должны быть исполнителем, для подачи предложений к проекту."
+
+msgid "You have to login."
+msgstr "Вы должны войти."
+
+msgid "You have to pay"
+msgstr "Вы должны заплатить"
+
+msgid "You have to rate for this profile."
+msgstr "Оцените этот профиль."
+
+msgid "You have to rate this project."
+msgstr "Вы должны оценить этот проект."
+
+msgid "You have to set the bid budget."
+msgstr "Вы должны установить бюджет предложений."
+
+msgid "You have to set the time to finish project."
+msgstr "Вы должны установить время окончания проекта."
+
+msgid "You have use a coupon code to get discount"
+msgstr "Вы используете скидочный код"
+
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr ""
+"Вы исчерпали дисковое пространство. Пожалуйста удалите файлы перед загрузкой."
+
+msgid "You must <a href=\"%s\">login</a> to bid on this project"
+msgstr ""
+"Вы должны <a href=\"%s\">войти</a> чтобы разместить заявку на этот проек"
+
+msgid "You must complete your profile to bid on a project."
+msgstr "Вы должны заполнить свой профиль для подачи предложений к проектам."
+
+msgid "You must login to submit listing."
+msgstr "Вы должны войти, чтобы добавить объявление."
+
+msgid "You must login to upload image."
+msgstr "Вы должны войти для добавления изображения"
+
+msgid "You must setup your paypal account in profile to receive money."
+msgstr "Вы должны настроить ваш Paypal аккаунт для получения денег."
+
+msgid "You need an employer account to post a project."
+msgstr "У вас должен быть аккаунт заказчика, для создания проекта."
+
+msgid "You only can have on profile."
+msgstr "Вы можете только в профиле."
+
+msgid "You purchase successfully package '%s' by cash on '%s'"
+msgstr "Вы успешно оплатили тарифный план '%s' за наличные '%s'"
+
+msgid "You purchased package <strong>%s</strong> and have %d post/s left."
+msgstr ""
+"Вы заказали тарифный план <strong>%s</strong>. У вас осталось %d публикаций."
+
+msgid ""
+"You purchased package <strong>%s</strong> and have %d post/s left. Your "
+"posted post is pending until payment."
+msgstr ""
+"Вы заказали тарифный план <strong>%s</strong>. У вас осталось %d публикаций. "
+"Ваше объявление будет заморожено, пока тарифный план не будет оплачен."
+
+msgid "You should enter short description for your place."
+msgstr "Вы должны добавить короткое описание для вашего поля."
+
+msgid ""
+"You should save your translation after every 20 strings to make sure they "
+"won't lost "
+msgstr ""
+"Вы должны сохранить перевод, после каждых 20-ти строк, для того, чтобы "
+"бытьуверенным, что они не исчезли."
+
+msgid "You submit a post by cash on '%s'"
+msgstr "Вы добавили объявление за наличные в '%s'"
+
+msgid ""
+"You're going to quit this project, you won't be able to access the workspace "
+"anymore."
+msgstr ""
+"Вы собираетесь покинуть этот проект, вы не сможете продолжить работу больше."
+
+msgid "Your 2Checkout Secret Key"
+msgstr "Ваш 2Checkout пароль"
+
+msgid "Your 2Checkout Seller ID"
+msgstr "Ваш ID 2Checkout"
+
+msgid "Your 2Checkout was disabled because of invalid settings!"
+msgstr "Ваш 2Checkout был выключен в настройках!"
+
+msgid "Your Authorize.Net was disabled because of invalid settings!"
+msgstr "Ваш Authorize.Net был выключен в настройках!"
+
+msgid "Your Bidding"
+msgstr "Ваши предложение"
+
+msgid "Your Comment"
+msgstr "Ваш комментарий"
+
+msgid "Your Country"
+msgstr "Ваш Город"
+
+msgid "Your Currency"
+msgstr "Ваша валюта"
+
+msgid "Your Email"
+msgstr "Ваш Email"
+
+msgid "Your Experience"
+msgstr "Ваш опыт"
+
+msgid "Your Full Name"
+msgstr "Ваше полное имя"
+
+msgid "Your Fullname"
+msgstr "Ваше полное имя"
+
+msgid "Your Google Checkout was disabled because of invalid settings!"
+msgstr "Ваша Google проверка была отключена из-за неверных настроек"
+
+msgid "Your Hourly Rate"
+msgstr "Ваша почасовая ставка"
+
+msgid "Your New Password"
+msgstr "Ваш новый пароль"
+
+msgid "Your Old Password"
+msgstr "Ваш старый пароль"
+
+msgid "Your Password"
+msgstr "Ваш пароль"
+
+msgid "Your Paypal Account"
+msgstr "Ваш Paypal аккаунт"
+
+msgid "Your Paypal Adaptive AppID"
+msgstr "Ваш Paypal AppID"
+
+msgid "Your Porfolio"
+msgstr "Ваше портфолио"
+
+msgid "Your Portfolio"
+msgstr "Ваше портфолио"
+
+msgid "Your Professional Title"
+msgstr "Ваша профессия"
+
+msgid "Your Profile"
+msgstr "Ваш профиль"
+
+msgid "Your Skill"
+msgstr "Ваш навыки работы"
+
+msgid "Your Skills"
+msgstr "Ваш опыт работы"
+
+msgid "Your User Name or Email"
+msgstr "Ваш Логин или Email"
+
+msgid "Your Worked History and Reviews"
+msgstr "Ваша история работ и обзоров"
+
+msgid "Your account has been confirmed successfully!"
+msgstr "Ваш аккаунт был успешно подтвержден!"
+
+msgid ""
+"Your account is pending. You have to activate your account to continue this "
+"step."
+msgstr ""
+"Ваш аккаунт заморожен. Вы должны активировать ваш аккаунт чтобы продолжить."
+
+msgid ""
+"Your account is pending. You have to activate your account to create profile."
+msgstr ""
+"Ваш аккаунт замарожен. Вы должны активировать ваш акааунт для создания "
+"портфолио."
+
+msgid "Your bid at %s was accepted by %s"
+msgstr "Ваше предложение к %s было принято %s"
+
+msgid "Your bid on project %s has been accepted."
+msgstr "Ваше предложение на проект %s было принято."
+
+msgid "Your budget have to greater than zero!"
+msgstr "Ваш проект должен быть больше, чем 0!"
+
+msgid "Your email address"
+msgstr "Ваш email адрес"
+
+msgid "Your have to enter a budget for your requirement!"
+msgstr "Вы должны задать бюджет для вашего проекта!"
+
+msgid "Your invite has been sent!"
+msgstr "Ваше приглащение отправлено!"
+
+msgid ""
+"Your logo should be in PNG, GIF or JPG format, within 150x50px and less than "
+"1500Kb."
+msgstr ""
+"Ваше лого должно быть в формате PNG, GIF или JPG, размером 150x50px и меньше "
+"чем 1500Kb."
+
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+msgid "Your message has been sent successfully!"
+msgstr "Ваше сообщение успешно отправлено!"
+
+msgid "Your password has been changed successfully!"
+msgstr "Ваш пароль был успешно изменен!"
+
+msgid ""
+"Your password have updated successfull. You can login with your new password "
+"now."
+msgstr "Ваш пароль успешно обновлен. Вы можете войти с новым паролем"
+
+msgid ""
+"Your payment has been sent successfully but is currently set as 'pending' by "
+"%s. <br/>You will be notified when your listing is approved."
+msgstr ""
+"Ваш платеж был совершен успешно, но в данный момент помечен как в процессе "
+"оплаты %s. <br/>Вы будете уведомлены, когда статус будет изменен на "
+"выполнено."
+
+msgid ""
+"Your payment will be sent when the freelancer confirms it has been done."
+msgstr "Ваши деньги будут списаны, когда исполнитель здаст заказ."
+
+msgid "Your paypal API password"
+msgstr "Ваш пароль от paypal API"
+
+msgid "Your paypal API signature"
+msgstr "Ваш paypal API"
+
+msgid "Your paypal API username"
+msgstr "Ваш paypal API логин"
+
+msgid "Your paypal business email"
+msgstr "Ваш paypal бизнес email"
+
+msgid "Your place should have a title."
+msgstr "Ваше поле должно иметь заголовок."
+
+msgid "Your post \"%s\" has been archived"
+msgstr "Ваше объявление \"%s\" было добавлено в архив"
+
+msgid "Your post '%s' has been approved."
+msgstr "Ваше объявление '%s' было одобрено."
+
+msgid "Your post '%s' has been rejected."
+msgstr "Ваше объявление '%s' было отклонено"
+
+msgid "Your posted project has a review."
+msgstr "Ваш опубликованный проект получил комментарий"
+
+msgid "Your presend payment on project %s has been transfer."
+msgstr "Ваш платеж за проект %s был передан."
+
+msgid "Your profile has been created successfull."
+msgstr "Ваш профиль был успешно создан."
+
+msgid "Your profile has been saved successfully!"
+msgstr "Ващ профиль был успешно сохранен!"
+
+msgid "Your profile has been updated successfull."
+msgstr "Ваш профиль был успешно обновлен."
+
+msgid "Your project posted on %s has a new bid."
+msgstr "На ваш опубликованный проект %s было подано предложение."
+
+msgid "Your project should has a category!"
+msgstr "Вы должены задать категорию для проекта!"
+
+msgid "Your project was not pubished. You can not accept a bid!"
+msgstr "Ваш проект не был опубликовн. Вы не можете принимать предложения!"
+
+msgid "Your report"
+msgstr "Ваш отзыв"
+
+msgid "Your review about %s"
+msgstr "Ваш отзыв о %s"
+
+msgid "Your review has been submitted."
+msgstr "Ваш отзыв был добавлен."
+
+msgid "Zero size file downloaded"
+msgstr "Загружен пустой файл"
+
+msgid "[%s] Password Reset"
+msgstr "[%s] пароль сброшен"
+
+msgid "[%s]New Private Message From %s"
+msgstr "[%s] Новое личное сообщение от %s"
+
+msgid "[%s]New claim request from %s."
+msgstr "[%s] Новая притензия от %s."
+
+msgid "[%s]New report message from %s."
+msgstr "[%s] новый отзыв от %s."
+
+msgid "[%s]Your claim request has been approved."
+msgstr "[%s] Ваш притензия была одобрена."
+
+msgid "[%s]Your claim request has been rejected."
+msgstr "[%s] Ваша притензия была отклонена. "
+
+msgid "activate link is require for user to renew their pass"
+msgstr "ссылка для изменения пароля пользователя"
+
+msgid "ago"
+msgstr "назад"
+
+msgid "archive Mail"
+msgstr "Письмо об Архиве"
+
+msgid "at %s"
+msgstr "от %s"
+
+msgid "bad"
+msgstr "плохо"
+
+msgid "commission"
+msgstr "коммисия"
+
+msgid "content here"
+msgstr "содержание здесь"
+
+msgid "days"
+msgstr "дней"
+
+msgid "e.g: Wordpress Developer"
+msgstr "e.g: Wordpress Разработчик"
+
+msgid "e.g:30"
+msgstr "e.g:30"
+
+msgid "eg:http://enginethemes.com/directoryengine/social-connect"
+msgstr "eg:http://enginethemes.com/directoryengine/social-connect"
+
+msgid "good"
+msgstr "хорошо"
+
+msgid "gorgeous"
+msgstr "отлично"
+
+msgid "header left text"
+msgstr "Текст в верхней левой части сайта"
+
+msgid "header right text"
+msgstr "Текст в верхней правой части сайта"
+
+msgid "header video url"
+msgstr "Ссылка на видео в шапке"
+
+msgid "in %d day"
+msgstr "через %d дня"
+
+msgid "in %d days"
+msgstr "через %d дней"
+
+msgid "in %d week"
+msgstr "через %d неделю"
+
+msgid "in %d weeks"
+msgstr "через %d недели"
+
+msgid "list projects employer send to freelancer when invite him to join"
+msgstr "список проектов, в которых заказчик пригласил исполнителя для работы"
+
+msgid "member dashboard url "
+msgstr "Url админки пользователя"
+
+msgid "nice"
+msgstr "неплохо"
+
+msgid "on %s"
+msgstr "на %s"
+
+msgid "poor"
+msgstr "так себе"
+
+msgid "posts"
+msgstr "сообщений"
+
+msgid "project title, link, details, author"
+msgstr "Заголовок проекта, ссылка, детали, автор"
+
+msgid "publish Mail"
+msgstr "Письмо о публикации"
+
+msgid "reject Mail"
+msgstr "Письмо от отклонении"
+
+msgid "setup a way for users to login via their socile network accounts"
+msgstr ""
+"настройте возможно для пользователей входить в аккаунт через социальные сети"
+
+msgid "success"
+msgstr "успешно"
+
+msgid "to join your project (choose one or more projects below):"
+msgstr "присоединиться к проекту (выберите один или более проектов ниже):"
+
+msgid "use escrow"
+msgstr "используйте escrow"
+
+msgid "user's details you want to send mail"
+msgstr "Детали пользователя, для отправки на email адрес"
+
+msgid "views"
+msgstr "просмотров"
+
+msgid "week"
+msgstr "неделя"
+
+msgid "year(s)"
+msgstr "лет"

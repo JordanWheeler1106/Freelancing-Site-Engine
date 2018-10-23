@@ -1,0 +1,9 @@
+.chosen-container.chosen-container-multi {
+  width: 100%;
+}
+
+.chosen-container-multi .chosen-choices {
+  background: none;
+  background-color: none;
+  background-image: none;
+}

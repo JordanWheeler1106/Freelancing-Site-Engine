@@ -1,0 +1,93 @@
+.advanced-search-wrapper{
+  display:none;
+}
+.search-normal-wrapper{
+  background: $white-base;
+  width:100%;
+  padding:5px 0;
+  margin-bottom: 20px;
+  input{
+    color: #737c85;
+    font-weight: 400;
+  }
+  input::-webkit-input-placeholder {
+    color: #737c85;
+    font-weight: 400;
+  }
+
+  input:-moz-placeholder { /* Firefox 18- */
+    color: #737c85;
+    font-weight: 400;
+  }
+
+  input::-moz-placeholder {  /* Firefox 19+ */
+    color: #737c85;
+    font-weight: 400;
+  }
+
+  input:-ms-input-placeholder {
+    color: #737c85;
+    font-weight: 400;
+  }
+}
+input.search-normal-input, input.search-normal-input:active, input.search-normal-input:focus{
+  border:none;
+  outline:none;
+  padding:10px 0;
+}
+
+.search-wrap {
+    position: relative;
+    .icon-form-search{
+        position: absolute;
+        top: 7px;
+        left: 4px;
+        background:url(../img/icon-zoom.png) no-repeat center center;
+        background-size:cover;
+        width: 20px;
+        height: 25px;
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 5px;
+    }
+    input {
+        width: 100%;
+        padding-left: 34px !important;
+    }
+}
+.show-search-advance, .hide-search-advance{
+  margin-top:10px;
+  display:block;
+  color: $blue-light-base;
+  font-size:$font-size-small;
+  text-align: right;
+}
+.title-advance-search{
+  padding: 7px 0;
+  display: block;
+  color: #727b84;
+  font-size: 16px;
+}
+.notification-section{
+  .scroll-top{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 999;
+  }
+  .back{
+    padding: 14px;
+    a{
+      color: #fff;
+    }
+    i{
+      padding-right: 5px;
+    }
+  }
+  .notification-list li{
+    color: #fff;
+    border-bottom: 1px solid #5c8a7f;
+    padding:15px;
+    position: relative;
+  }
+}

@@ -1,0 +1,16 @@
+.info-project-item ul.info-item,
+.list-share-social,
+.single-profile-content .single-profile,
+.single-profile-content .list-skill-profile ul,
+.profile-history .list-history-profile,
+.list-history-profile .info-history,
+.list-detail-info,
+.list-item-portfolio,
+.btn-menu-call,
+.menu-footer .main-menu-footer,
+.social-footer,
+.list-link-footer {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

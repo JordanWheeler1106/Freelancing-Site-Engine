@@ -1,0 +1,10 @@
+.single-profile-content .profile-overview, .single-profile-content .content-require-project {
+  line-height: 22px;
+  text-align: justify;
+}
+
+.single-profile-content .profile-overview h4.title-single-profile, .single-profile-content .profile-history h4.title-single-profile {
+  color: #2c3d4f;
+  font-size: 18px;
+  font-weight: 700;
+}

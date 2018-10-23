@@ -1,0 +1,20 @@
+.notice-first-login {
+  background: #E55D52;
+  margin-top: 14px;
+  margin-bottom: 20px;
+  border-radius: 3px;
+  p {
+    margin: 0;
+    padding: 14px;
+    color: #FFF;
+    i {
+      margin-right: 4px;
+    }
+  }
+}
+.form-group-mobile-captcha {
+  text-align: center;
+  .gg-captcha {
+    display: inline-block;
+  }
+}

@@ -1,0 +1,4687 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DirectoryEngine v2.1.4\n"
+"Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
+"POT-Creation-Date: 2016-05-12 16:55+0700\n"
+"PO-Revision-Date: 2016-07-03 14:48+0200\n"
+"Last-Translator: dakachi <david87dang@gmail.com>\n"
+"Language-Team: Engine Themes <contact@enginethemes.com>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: _e;__;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: E:/ONWORKING/YW.THEME/DirectoryEngine/"
+"directoryengine\n"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/404.php:10
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/archive.php:7
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:53
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/category.php:8
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-areas.php:10
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-blog.php:10
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-list-user.php:28
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:24
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-post-place.php:11
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-process-payment.php:30
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:34
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-reset-pass.php:16
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-static.php:16
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-tos.php:15
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page.php:12
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/single.php:12
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/tag.php:8
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/taxonomy.php:8
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:16
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:17
+msgid "Home"
+msgstr "home"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/404.php:11
+msgid "Page not found"
+msgstr "Nem található"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/404.php:25
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/404.php:13
+msgid "Sorry, but the page you were looking for is not here."
+msgstr "Sajnáljuk,de a keresett oldal nem található."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/404.php:26
+msgid "Back to home page "
+msgstr "Vissza a főoldalra."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:8
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:5
+msgid "SKU"
+msgstr "SKU"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:13
+msgid "Package name"
+msgstr "Csomag neve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:18
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:15
+msgid "Price"
+msgstr "Ár"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:25
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:22
+msgid "Availability"
+msgstr "Elérhetőség"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:25
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:22
+msgid "Disable"
+msgstr "Kikapcsolás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:27
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:24
+msgid "days"
+msgstr "napok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:31
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:27
+msgid "Number of places can post"
+msgstr "Postolható helyek száma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:37
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:33
+msgid "Number of events can post in each listing"
+msgstr "Egyes hirdetésekben postolható események száma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:42
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:37
+msgid "Short description about this package"
+msgstr "Rövid leírás erről a csomagról"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:47
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:41
+msgid "Featured Place"
+msgstr "Kiemelt Hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:49
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:42
+msgid "Places posted under this plan will be featured."
+msgstr "Ebben a csomagban postolt helyek ki lesznek emelve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:54
+msgid "Save Package"
+msgstr "Mentés csomagként"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form-js.php:56
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:269
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:41
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:10
+msgid "Enter a name for your plan"
+msgstr "Nevezd el a csomagot"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:29
+msgid "posts"
+msgstr "Posztok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/admin-template/package-form.php:46
+msgid "Save Plan"
+msgstr "Csomag mentése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/archive.php:11
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Napi archívum %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/archive.php:13
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/archive.php:16
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Havi archívum %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/archive.php:15
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/archive.php:19
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Évi archívum %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/archive.php:17
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/archive.php:22
+msgid "Archives"
+msgstr "Arhívum"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:54
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:35
+#, php-format
+msgid "Profile of %s"
+msgstr "profil %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:81
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:92
+msgid "New look"
+msgstr "Új kinézet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:94
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:76
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:94
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/js-user-item.php:12
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/user-item.php:4
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:78
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/user-item.php:12
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/user-item.php:4
+msgid "Earth"
+msgstr "Föld"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:100
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:79
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:100
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:80
+msgid "No phone"
+msgstr "Nincs telefon"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:106
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:103
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:82
+msgid "No facebook"
+msgstr "Nincs facebook"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:119
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:86
+#, php-format
+msgid "Owned %d places"
+msgstr " hely tulajdon %d"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:121
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:88
+#, php-format
+msgid "Owned %d place"
+msgstr "hely tulajdon %d"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:144
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:92
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:151
+#, php-format
+msgid "%d reviews"
+msgstr "%d értékelve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:146
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:92
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:151
+#, php-format
+msgid "%d review"
+msgstr "%d értékelve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:183
+#, php-format
+msgid "%d pictures"
+msgstr "%d képek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:185
+#, php-format
+msgid "%d picture"
+msgstr "%d kép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:194
+msgid "Contact This User"
+msgstr "Felhasználó Megkeresése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:226
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:36
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:654
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/archive-place.php:10
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:136
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:101
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-front.php:13
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:200
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/taxonomy-location.php:10
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/taxonomy-place_category.php:10
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/taxonomy-place_tag.php:10
+msgid "Places"
+msgstr "Hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:231
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:14
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:25
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:141
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:205
+msgid "Events"
+msgstr "Események"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:236
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:146
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:114
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:210
+msgid "Reviews"
+msgstr "Értékelések"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/author.php:242
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:151
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:215
+msgid "Togos"
+msgstr "Togos"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:29
+msgid "DE Options"
+msgstr "DE opciók"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:32
+msgid "Allows you to customize some example settings for DirectoryEngine."
+msgstr "Lehetővé teszi hogy átalakitsd a DirectoryEngine mintabeállitásait"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:75
+msgid "Heaher Background Color"
+msgstr "Fejléc háttérszín"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:82
+msgid "Body Background Color"
+msgstr "Oldal háttérszín"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:89
+msgid "Footer Background Color"
+msgstr "Footer háttérszín"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:96
+msgid "Copyright Background Color"
+msgstr "Copyright háttérszín"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:103
+msgid "Main Color"
+msgstr "Fő szín"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:558
+msgid "Header Background"
+msgstr "Fejléc háttér"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:559
+msgid "Body Background"
+msgstr "Oldal háttér"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:560
+msgid "Footer Background"
+msgstr "Footer háttér"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:561
+msgid "Copyright Background"
+msgstr "Copyright háttér"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:562
+msgid "Main color"
+msgstr "Fő szín"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:704
+msgid "Color Schemes"
+msgstr "Színskála"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:729
+msgid "Page Options"
+msgstr "oldal opciók"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:732
+msgid "Colors"
+msgstr "Színek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:745
+msgid "Content Options"
+msgstr "Tartalom opciók"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:750
+msgid "Heading"
+msgstr "felső"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:765
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:939
+msgid "Content"
+msgstr "Tartalom "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:781
+msgid "Save"
+msgstr "mentés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:782
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-resetpass.php:21
+msgid "Reset"
+msgstr "Nullázás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:828
+msgid "Activate customization mode"
+msgstr "Egyedi beállítások aktiválása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:919
+msgid "Changes are saved successfully."
+msgstr "A változtatások sikeresen elmentve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/customizer/customizer.php:928
+#, php-format
+msgid "Something went wrong! System cause following error <br /> %s"
+msgstr "valami elromlott!A rendszer hibaüzenete <br /> %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:244
+msgid "Header menu"
+msgstr "Standard fejléc menü"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:245
+msgid "Mobile Header menu"
+msgstr "Mobil fejléc menü"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:247
+msgid "Header top menu"
+msgstr "Felső fejléc menü"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:248
+msgid "Footer menu"
+msgstr "láb menü"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:375
+msgid "bad"
+msgstr "rossz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:376
+msgid "poor"
+msgstr "gyenge"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:377
+msgid "nice"
+msgstr "szép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:378
+msgid "good"
+msgstr "jó"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:379
+msgid "gorgeous"
+msgstr "gyönyörű"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:709
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:70
+msgid "Review"
+msgstr "Értékelés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:710
+msgid "Favorite"
+msgstr "kedvenc"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:711
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-option-list.php:88
+msgid "Report"
+msgstr "Jelentés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:958
+msgid "You can't create an administrator account."
+msgstr "Nem csinálhatsz admin fiókot"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:996
+msgid "You are here"
+msgstr "Itt vagy"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:998
+msgid "Show my location"
+msgstr "Mutasd a helyzetem"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:999
+msgid "Geolocation failed"
+msgstr "Geolocation hiba"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1000
+msgid "Your browser does not support geolocation"
+msgstr "A keresőd nem támogatja  a geolokaciót"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1002
+msgid "DRIVING"
+msgstr "Vezetés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1003
+msgid "WALKING"
+msgstr "Séta"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1004
+msgid "BICYCLING"
+msgstr "Kerékpár"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1005
+msgid "TRANSIT"
+msgstr "Tömegközlekedés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1009
+msgid "Please enter a valid time."
+msgstr "Valós időt adj meg"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1013
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:98
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:108
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:198
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:208
+msgid "Select All"
+msgstr "Összes kiválasztása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1014
+msgid "Deselect"
+msgstr "Kiválasztás törlése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1359
+#, php-format
+msgid "%s weeks"
+msgstr "%s hetek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1361
+#, php-format
+msgid "%s week"
+msgstr "%s hét"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1365
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:290
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:217
+#, php-format
+msgid "%s days"
+msgstr "%s napok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1367
+#, php-format
+msgid "%s day"
+msgstr "%s nap"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1371
+#, php-format
+msgid "%s hours"
+msgstr "%s órák"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1373
+#, php-format
+msgid "%s hour"
+msgstr "%s óra"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1388
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:100
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:200
+msgid "Mon"
+msgstr "hétfő"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1388
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:101
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:201
+msgid "Tue"
+msgstr "kedd"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1388
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:102
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:202
+msgid "Wed"
+msgstr "szerda"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1389
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:103
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:203
+msgid "Thu"
+msgstr "csütörtök"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1389
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:104
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:204
+msgid "Fri"
+msgstr "péntek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1389
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:105
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:205
+msgid "Sat"
+msgstr "szombat"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1389
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:106
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:206
+msgid "Sun"
+msgstr "vasárnap"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1472
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1483
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1487
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:177
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:72
+#, php-format
+msgid "%s to %s"
+msgstr "%s hoz %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1475
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1493
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/functions.php:1497
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:280
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:439
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:602
+msgid "None"
+msgstr "semelyik"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:95
+msgid ""
+"Your account has not been confirmed yet! Please check your mailbox to "
+"activate your account."
+msgstr ""
+"A fiókod még nincs visszaigazolva.Ellenőrizd a postafiókodat hogy "
+"aktiválhassd a fiókot."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:101
+msgid "Resend an activation code"
+msgstr "aktiváló kód újraküldése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:156
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:205
+msgid "Profile"
+msgstr "profil"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:165
+#, php-format
+msgid "%s Pending"
+msgstr "%s függőben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:173
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:210
+msgid "Log Out"
+msgstr "Kilépés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:186
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:224
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:56
+msgid "SIGN IN"
+msgstr "Belépés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:239
+msgid "KEYWORD:"
+msgstr "Kulcsszó:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:240
+msgid "Enter your keyword"
+msgstr "Add meg a kulcsszavad"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:243
+msgid "LOCATION:"
+msgstr "Elhelyezkedés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:249
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:39
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:78
+msgid "Select your location"
+msgstr "Elhelyezkedés kiválasztása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:258
+msgid "CATEGORIES:"
+msgstr " Kategóriák:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:261
+msgid "Select your category"
+msgstr "Kategória kiválasztása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:278
+msgid "WITH IN:"
+msgstr "ezen belül:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:288
+msgid "FROM DAY:"
+msgstr "ettől a naptól:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:297
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:235
+msgid "Search"
+msgstr "Keresés "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:307
+msgid "Contact phone number"
+msgstr "Telefonszám"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/header.php:310
+msgid "Contact email"
+msgstr "email"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:258
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr "Telepítse a hiányzó plugineket"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:259
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr "Telepítse a plugineket"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:260
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Pluginek telepítése %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:262
+msgid "Something went wrong with the plugin API."
+msgstr "Hiba történt a plugin API-val"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:281
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr "Térjen vissza a hiányzó plugin telepítőhöz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:282
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:212
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1964
+msgid "Plugin activated successfully."
+msgstr "Plugin sikeresen aktiválva"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:283
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Minden plugin sikeresen telepítve és aktiválva %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:303
+msgid "General"
+msgstr "Általános Beállítások"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:311
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:321
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:340
+msgid "Website Title"
+msgstr "Weboldal cime "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:314
+msgid "Enter your website title."
+msgstr "Weboldal cimének beírása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:330
+msgid "Website Description"
+msgstr "Weboldal leírás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:333
+msgid "Enter your website description"
+msgstr "Weboldal leírás "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:348
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:358
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:449
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:467
+msgid "Copyright"
+msgstr "Copyright"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:351
+msgid "This copyright information will appear in the footer."
+msgstr "Ez a copyright info a footerben fog megjelenni"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:366
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:376
+msgid "Support Phone"
+msgstr "Support telefon"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:369
+msgid "Enter your support phone number."
+msgstr "Írd be a support telefonszámot"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:385
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:395
+msgid "Support Email"
+msgstr "Support email"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:388
+msgid "Enter your support email."
+msgstr "Írd be a support emailt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:403
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:413
+msgid "Google Analytics Script"
+msgstr "Google Analytics Script"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:406
+msgid ""
+"Google analytics is a service offered by Google that generates detailed "
+"statistics about the visits to a website."
+msgstr ""
+"Google analytics a google által biztosított szolgáltatás amely részleteses "
+"adatokat készít az oldal látogatottságáról"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:421
+msgid "Email Confirmation "
+msgstr "email info"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:424
+msgid ""
+"Enabling this will require users to confirm their email addresses after "
+"registration."
+msgstr ""
+"Ennek bekapcsolásával kötelezed a felhasználókat email címük ellenörzésére a "
+"regisztráció után"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:431
+msgid "Email Confirmation"
+msgstr "email ellenőrzés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:439
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:457
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:475
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:485
+msgid "Google Plus URL"
+msgstr "Google Plus URL"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:493
+msgid "Login in admin panel"
+msgstr "Bejelentkezés az admin felületre"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:496
+msgid "Prevent directly login to admin page."
+msgstr "Az admin felületre való közvetlen bejelentkezés megakadályozása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:503
+msgid "Enable this option will prevent directly login to admin page."
+msgstr ""
+"Az admin felületre való közvetlen bejelentkezés megakadályozásához ezt az "
+"opciót élesítse"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:511
+msgid "Disable automatic page creation."
+msgstr "Automatikus oldal készítés kikapcsolása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:514
+msgid "Disable automatic page creation"
+msgstr "Automatikus oldal készítés kikapcsolása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:521
+msgid "Enable this option will disable automatic page creation."
+msgstr "Automatikus oldal készítés kikapcsolásához ezt a funkciót állítsa be"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:529
+msgid "Administrators email"
+msgstr "Admin email"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:532
+msgid "The new post notification will be sent to these emails."
+msgstr "Az új post értesítések ezekre a címekre lesznek kiküldve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:539
+msgid "Ex: abc@gmail.com,bcd@gmail.com"
+msgstr "Pl.:abc@gmail.com,bcd@gmail.com"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:553
+msgid "Branding"
+msgstr "Márkajelölés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:562
+msgid "Site logo"
+msgstr "Oldal logo"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:566
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:590
+msgid ""
+"Your logo should be in PNG, GIF or JPG format, within 150x50px and less than "
+"1500Kb."
+msgstr ""
+"A logo  PNG, GIF or JPG formatumban,  150x50px között kell lennie és nem "
+"több mint 1500Kb."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:573
+msgid "Site Logo"
+msgstr "Oldal logo"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:586
+msgid "Mobile logo"
+msgstr "Mobil logo"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:597
+msgid "Mobile Logo"
+msgstr "Mobil logo"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:610
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:621
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:663
+msgid "Mobile Icon"
+msgstr "Mobil ikon"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:614
+msgid ""
+"This icon will be used as a launcher icon for iPhone and Android smartphones "
+"and also as the website favicon. The image dimensions should be 57x57px."
+msgstr ""
+"Ezt az ikont fogja használni indításhoz az Iphone és az Android,ill. a "
+"weboldal faviconja.A méret  57x57px legyen."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:634
+msgid "Use Pre Loading"
+msgstr "Előtöltesz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:637
+msgid "The page preloading effect seen on the website."
+msgstr "Az oldal előtöltés effektus látszik a weboldalon"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:652
+msgid "Pre Loading Icon"
+msgstr "Ikon előtöltése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:656
+msgid "Preloading Image. The image dimensions should be 57x57px."
+msgstr "Kép előtöltése..A méret  57x57px legyen."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:675
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:686
+msgid "Default avatar"
+msgstr "Alap avatár"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:679
+msgid "Default avatar Image. The image dimensions should be 150x150px."
+msgstr "Alap avatár.A méret  57x57px legyen."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:698
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:709
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:732
+msgid "Default thumbnail"
+msgstr "Alap képméret."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:702
+msgid "Default thumbnail Image. The image dimensions should be 270x280px."
+msgstr "Alap képméret.A méret  270x280px. legyen."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:721
+msgid "Default Location Image"
+msgstr "Alap helyzet kép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:725
+msgid "Default thumbnail Image. The image dimensions should be 200x175px."
+msgstr "Alap helyzet kép.A méret  270x280px. legyen."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:749
+msgid "Map"
+msgstr "térkép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:757
+msgid "Map Settings"
+msgstr "térkép beállítások"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:760
+msgid "Enter the address you want to set center."
+msgstr "Írd be a címet amit középre szeretnél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:767
+msgid "Map Default Center"
+msgstr "térkép alap középpont"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:770
+msgid "Default center address"
+msgstr "térkép alap középpont cím"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:775
+msgid "Map Zoom"
+msgstr "térkép zoom"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:776
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:779
+msgid "Map Default Zoom"
+msgstr "térkép alap zoom"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:784
+msgid "Mobile Map Zoom"
+msgstr "mobil térkép zoom"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:785
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:788
+msgid "Mobile Map Default Zoom"
+msgstr "mobil térkép alap zoom"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:795
+msgid "Displaying Place Labels"
+msgstr "hely cimkék kiírása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:798
+msgid ""
+"Enable this option if you want all place labels on google map to be "
+"displayed."
+msgstr ""
+"Engedélyezd ezt az opciót ha ki akarod iratni a hely cimkéit a térképen"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:804
+msgid "Display Map Type Style"
+msgstr "Térkép típus kiírása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:812
+msgid "Display map marker in single place page"
+msgstr "Térkép jelölő megjelenítése egyetlen hely lapján"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:815
+msgid ""
+"If you enable this option, only map marker of the current place will be "
+"displayed."
+msgstr ""
+"Ha aktiválod ezt az opciót ,csak az adott hely jelölése lesz megjelenítve."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:822
+msgid ""
+"Enable will display multiple map marker icons in category of current place."
+msgstr ""
+"Aktiválás az adott hely  kategória szerinti összes jelölését megjeleníti. "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:830
+msgid "Fitbounds"
+msgstr "Fitbounds"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:833
+msgid "Sets the viewport to contain all markers."
+msgstr "Az összes jel nézet beállítása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:840
+msgid "Sets the viewport to contain all markers"
+msgstr "Az összes jel nézet beállítása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:848
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:858
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:861
+msgid "Geolocation"
+msgstr "Geolocation "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:851
+msgid "Enabling this will require users to provide their current location."
+msgstr ""
+"Ennek beállítása kötelezi a felhasználókat hogy adják meg jelenlegi "
+"helyzetüket"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:862
+msgid "geolocation"
+msgstr "Geolocation "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:892
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:903
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:906
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:907
+msgid "Units of measurement"
+msgstr "Mértékegységek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:895
+msgid "Select the unit of measurement when your user search nearby."
+msgstr "Állítsd be a mértékegységet a közeli keresés funkcióhoz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:902
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:653
+msgid "Miles"
+msgstr "Mérföld"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:902
+msgid "Kilometers"
+msgstr "Kilóméter"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:914
+msgid "Nearby distance"
+msgstr "Közeli távolság"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:917
+msgid "Enter a distance number for your user search nearby."
+msgstr "A közeli kereséshez adj meg alaptávot"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:924
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:927
+msgid "Mobile Nearby Distance"
+msgstr "Mobil Közeli távolság"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:948
+msgid "Maximum number of pictures in gallery"
+msgstr "Max feltölthető képek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:951
+msgid "Set up how many pictures a place can have."
+msgstr "Állítsd be hány fotót rakhat fel egy hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:958
+msgid "Max Number Of Place Gallery"
+msgstr "Max feltölthető képek per hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:966
+msgid "Post Images In A Comment/Review"
+msgstr "Kép postolása hozzászólásban/értékelésben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:969
+msgid "Allow users attach photos in their comments/reviews."
+msgstr ""
+"Engedélyezd hogy felhasználók képet postolhasson hozzászólásban/értékelésben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:975
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1013
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1298
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1323
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1354
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1389
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1396
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1454
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1461
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1501
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2125
+msgid "Align"
+msgstr "Align"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:983
+msgid "Maximum number of pictures in a comment/review"
+msgstr "max kép postolása hozzászólásban/értékelésben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:986
+msgid "Set up the number of images users can attach in a comment/review."
+msgstr "max kép csatolása hozzászólásban/értékelésben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:993
+msgid "Max Number Of Comment/Review Gallery"
+msgstr "Max hozzászólás/értékelés per galéria"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1001
+msgid "Pending Post"
+msgstr "post függőben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1004
+msgid ""
+"Enabling this will make every new place post pending until you review and "
+"approve it manually."
+msgstr ""
+"Ennek engedélyezése minden új hely feliratkozást függővé tesz amig "
+"manuálisan nem hagyod jóvá."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1021
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1031
+msgid "View counter"
+msgstr "számláló megjelenítése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1024
+msgid "Enable view counter."
+msgstr "számláló megjelenítésének engedélyezése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1040
+msgid "Maximum Number of Categories"
+msgstr "Max kategoria szám"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1043
+msgid "Set a maximum number of categories a place can assign to"
+msgstr "Az egy helyhez hozzárendelhető kategóriák számának maximuma beállítása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1050
+msgid "Max Number Of Place Categories"
+msgstr "hely kategóriák maximumának beállítása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1080
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1156
+msgid "Place Category"
+msgstr "hely kategória"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1085
+msgid "Place Category."
+msgstr "hely kategória"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1094
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:155
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:115
+msgid "Location"
+msgstr "Elhelyezkedés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1099
+msgid "Location."
+msgstr "Elhelyezkedés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1112
+msgid "Url slug"
+msgstr "Url slug"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1120
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:24
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:25
+msgid "Place"
+msgstr "hely "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1123
+msgid "Enter slug for your Single Place page"
+msgstr "Enter slug for your Single Place page"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1129
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1131
+msgid "Single Place page Slug"
+msgstr "Single Place page Slug"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1138
+msgid "Place Archives"
+msgstr "Hely arhívumok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1141
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1159
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1177
+msgid "Enter slug for your Archive Places page"
+msgstr "Enter slug for your Archive Places page"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1147
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1149
+msgid "Archive Places page Slug"
+msgstr "Hely arhívum elem"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1165
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1167
+msgid "Places Category page Slug"
+msgstr "Hely kategória elem"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1174
+msgid "Place Location"
+msgstr "Hely földrajzi helye"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1183
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1185
+msgid "Places Location page Slug"
+msgstr "Helyek földrajzi helye elem"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1192
+msgid "Place Tags"
+msgstr "Hely jelölés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1195
+msgid "Enter slug for your Tag Places page"
+msgstr "helyek megjelölése elem behelyezése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1201
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1203
+msgid "Places Tag page Slug"
+msgstr "helyek megjelölése elem "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1216
+msgid "Captcha"
+msgstr "Captcha"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1224
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1233
+msgid "Google reCaptcha"
+msgstr "Google reCaptcha"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1227
+msgid ""
+"Enabling this will prevent spammers to register.<a href='https://www.google."
+"com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</a>"
+msgstr ""
+"Ennek aktiválásával meggátolhatod a spamek regisztrálását.<a href='https://"
+"www.google.com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</"
+"a>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1240
+msgid "Site key"
+msgstr "Oldal kulcs"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1242
+msgid "reCaptcha Site Key"
+msgstr "reCaptcha Oldal kulcs"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1248
+msgid "Secret key"
+msgstr "Titkos kulcs"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1250
+msgid "reCaptcha Secret Key"
+msgstr "reCaptcha Titkos kulcs"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1262
+msgid "Payment"
+msgstr "Fizetés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1272
+msgid "Payment Currency"
+msgstr "Fizetés Pénzneme"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1275
+msgid "Enter currency code and sign ...."
+msgstr "Írd be a pénznem kódot és jelet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1282
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1284
+msgid "Code"
+msgstr "Kód"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1290
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1292
+msgid "Sign"
+msgstr "Jel"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1303
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:175
+msgid "Left"
+msgstr "Bal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1304
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:182
+msgid "Right"
+msgstr "Jobb"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1311
+msgid "Free to submit place"
+msgstr "Feltehet helyet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1314
+msgid "Enabling this will allow users to submit place free."
+msgstr "Ennek aktiválásával a felhasználók feltehetnek helyet az oldalra"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1330
+msgid "Number of event"
+msgstr "Esemény száma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1334
+msgid "Number of event per listing"
+msgstr "Esemény száma listánként"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1342
+msgid "Payment Test Mode"
+msgstr "Fizetés Teszt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1345
+msgid ""
+"Enabling this will allow you to test payment without charging your account."
+msgstr "Ennek aktiválásával fizetés nélkül tesztelheted a fizetés funkciót"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1364
+msgid "Payment Gateways"
+msgstr "Fizetési módok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1367
+msgid "Set payment plans your users can choose when posting new places."
+msgstr "Felhasználók által választható fizetési csomagok beállítása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1377
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step4.php:34
+msgid "Paypal"
+msgstr "Paypal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1380
+msgid "Enabling this will allow your users to pay through PayPal"
+msgstr "Ennek aktiválásával lehetővé teszed a Paypal funkciót"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1399
+msgid "Enter your PayPal email address"
+msgstr "Írd be a Paypal emailt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1406
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step4.php:48
+msgid "2Checkout"
+msgstr "2Checkout"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1409
+msgid "Enabling this will allow your users to pay through 2Checkout"
+msgstr "Ennek aktiválásával lehetővé teszed a 2Checkout funkciót"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1418
+msgid "2Checkout mode"
+msgstr "2Checkout mode"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1425
+msgid "Sid"
+msgstr "Sid"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1428
+msgid "Your 2Checkout Seller ID"
+msgstr "Your 2Checkout Seller ID"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1433
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1436
+msgid "Your 2Checkout Secret Key"
+msgstr "Your 2Checkout Secret Key"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1442
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step4.php:63
+msgid "Cash"
+msgstr "Készpénz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1445
+msgid "Enabling this will allow your user to send cash to your bank account."
+msgstr ""
+"Ennek aktiválásával lehetővé teszed hogy felhasználók pénzt utaljanak a "
+"bankszámládra"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1475
+msgid "Payment Plans"
+msgstr "Fizetési csomagok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1492
+msgid "Limit Free Plan Use"
+msgstr "Ingyenes csomag limitálása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1495
+msgid ""
+"Enter the maximum number allowed for employers to use your Free plan (plan "
+"with price is 0)"
+msgstr "Adminok által maximum adható ingyenes csomag száma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1515
+msgid "Mailing"
+msgstr "Levelezés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1524
+msgid "Authentication Mail Template"
+msgstr "Visszaigazoló formalevél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1533
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1670
+msgid "Mail description here"
+msgstr "Levél leírása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1534
+msgid ""
+"Email templates for authentication process. You can use placeholders to "
+"include some specific content."
+msgstr "Email formalevelek a visszaigazolásra."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1535
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1672
+msgid "user's details you want to send mail"
+msgstr "Felhasználók adatai"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1536
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1673
+msgid "member dashboard url "
+msgstr "member dashboard url "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1537
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1674
+msgid "question title, link and details"
+msgstr "kérdés cím,link,részletek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1538
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1675
+msgid "activate link is require for user to renew their pass"
+msgstr "aktív link kell ahhoz hogy felhasználó megújítsa "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1539
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1676
+msgid "cash message when user pay success"
+msgstr "sikeres felhasználói befizetéskor üzenet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1540
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1677
+msgid " site info, admin email"
+msgstr "oldal info,admin,email"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1550
+msgid "Register Mail Template"
+msgstr "Mail Template regisztrálása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1559
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1616
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1930
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1948
+msgid "Register Mail"
+msgstr "Register Mail"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1569
+msgid "Confirm Mail Template"
+msgstr "Mail Template ellenőrzése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1578
+msgid "Confirme Mail"
+msgstr "levél ellenörzése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1588
+msgid "Confirmed Mail Template"
+msgstr "Ellenörzött levél forma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1597
+msgid "Confirmed Mail"
+msgstr "Ellenörzött levél "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1607
+msgid "Forgotpass Mail Template"
+msgstr "elfelejtettjelszó formalevél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1625
+msgid "Resetpass Mail Template"
+msgstr "újjelszó formalevél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1634
+msgid "Resetpassword Mail"
+msgstr "újjelszó levél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1643
+msgid "Inbox Mail Template"
+msgstr "Levél a postafiókban formalevél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1652
+msgid "Inbox Mail"
+msgstr "Levél a postafiókban "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1661
+msgid "Place Mail Template"
+msgstr "Hely Mail Template "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1671
+msgid ""
+"Email templates for place process. You can use placeholders to include some "
+"specific content."
+msgstr "Email formalevelek a helyeknek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1687
+msgid "Publish Mail Template"
+msgstr "Mail Template kiadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1696
+msgid "publish Mail"
+msgstr "levél kiadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1705
+msgid "Archive Mail Template"
+msgstr "Mail Template arhíválása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1714
+msgid "archive Mail"
+msgstr "Mail  arhíválása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1723
+msgid "Reject Mail Template"
+msgstr "Mail Template visszautasítása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1732
+msgid "reject Mail"
+msgstr "Mail visszautasítása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1741
+msgid "Cash Notification Mail Template"
+msgstr "készpénz Visszaigazoló formalevél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1750
+msgid "Cash Notification Mail"
+msgstr "készpénz Visszaigazoló levél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1759
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1768
+msgid "Receipt Mail Template"
+msgstr "Mail Template számla"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1777
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1786
+msgid "Report Mail Template"
+msgstr "Mail Template jelentése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1795
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1804
+msgid "Claim Mail Template"
+msgstr "Kérelem Mail Template "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1813
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1822
+msgid "Approve Claim Mail Template"
+msgstr "Kérelem Mail Template jóváhagyása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1831
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1840
+msgid "Reject Claim Mail Template"
+msgstr "Kérelem Mail Template visszautasítása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1849
+msgid "New Review Mail Template"
+msgstr "Új értékelés formalevél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1858
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1876
+msgid "Comment Place Mail Template"
+msgstr "Hely hozzászólás Mail Template "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1867
+msgid "New Event Mail Template"
+msgstr "Új esemény formalevél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1885
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1894
+msgid "Cash Payment Review Email Template"
+msgstr "Készpénzfizetés áttekintés formalevél"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1911
+msgid "Language"
+msgstr "Nyelv"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1920
+msgid "Website Language"
+msgstr "Oldal nyelve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1924
+msgid "Select the language you want to use for your website."
+msgstr "Válaszd ki az oldalon használni kívánt nyelvet."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1938
+msgid "Translator"
+msgstr "Fordító"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1942
+msgid "Translate a language"
+msgstr "Nyelv fordítása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1962
+msgid "License"
+msgstr "License"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1971
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:1980
+msgid "License Key"
+msgstr "License kulcs"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2011
+msgid "Overview"
+msgstr "Áttekintés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2012
+msgid "OVERVIEW"
+msgstr "Áttekintés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2016
+#, php-format
+msgid "%s overview"
+msgstr "Áttekintés %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2035
+msgid "Settings"
+msgstr "Beállítások"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2036
+msgid "SETTINGS"
+msgstr "Beállítások"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2040
+msgid "Manage how your DirectoryEngine looks and feels"
+msgstr "Beállíthatod hogy nézzen ki az oldalad"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2056
+msgid "Members"
+msgstr "Tagok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2057
+msgid "MEMBERS"
+msgstr "Tagok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2061
+msgid "Overview of registered members"
+msgstr "Regisztrált tagok Áttekintése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2073
+msgid "Payments"
+msgstr "Fizetés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2074
+msgid "PAYMENTS"
+msgstr "Fizetés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2078
+msgid "Overview of all payments"
+msgstr "Fizetés áttekintése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2089
+msgid "Setup Wizard"
+msgstr "Telepítés varázsló"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2090
+msgid "SETUP WIZARD"
+msgstr "Telepítés varázsló"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2094
+msgid "Set up and manage every content of your site"
+msgstr "Állítsd be és kezeld az oldal minden részletét"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2104
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2170
+msgid "Upgrade Database"
+msgstr "Adatbázis frissítése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2113
+msgid "Add 'et_featured' key"
+msgstr " 'et_featured' kulcs hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2116
+msgid ""
+"Add the meta data \"et_featured = 0\" to the place that does not have the "
+"meta key."
+msgstr " meta data \"et_featured = 0\" hozzáadása ahol nincs meta adat"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2136
+msgid "Add 'Rating Score' key"
+msgstr "'Rating Score' kulcs hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2139
+msgid ""
+"Add the meta data \"rating_score = 0\" to the place that does not have the "
+"meta key."
+msgstr " meta data \"rating_score = 0\" hozzáadása ahol nincs meta adat"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2171
+msgid "UPGRADE DATABASE"
+msgstr "Adatbázis frissítése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/admin.php:2175
+msgid "You must upgrade the database to make DirectoryEngine work properly."
+msgstr "Frissítened kell az adatbázist hogy a program jól működjön"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "Hiba történt "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "Térjen vissza a felületkezelőhöz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:213
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1651
+msgid "The following plugin was activated successfully:"
+msgstr "Plugin sikeresen aktiválva"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Minden plugin sikeresen telepítve és aktiválva  %1$s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "ezt az üzenetet hagyja figyelmen kívül"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:556
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr "Térjen vissza a felületkezelőhöz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr "Private Repository"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr "Előre csomagolt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr "Szükséges"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr "Ajánlott"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr "Nincs telepítve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr "Telepítve de nincs aktiválva"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1304
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr "Telepítés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1326
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr "Aktiválás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Nincs telepítésre és aktiválásra váró plugin <a href=\"%1$s\" title=\"Térjen "
+"vissza a kezelőfelülethez\">Térjen vissza a kezelőfelülethez</a>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr "Plugin"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr "Forrás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr "Típus"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr "Státusz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr "Nincs telepítésre váró plugin "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1629
+msgid "No plugins are available to be activated at this time."
+msgstr "Nincs aktiválásra váró plugin "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1947
+msgid "Install package not available."
+msgstr "Nincs telepítési csomag"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1948
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Telepítési csomag letöltése innen <span class=\"code\">%s</span>&#8230;"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1949
+msgid "Unpacking the package&#8230;"
+msgstr "&#8230 csomag kicsomagolása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1950
+msgid "Installing the plugin&#8230;"
+msgstr "&#8230 plugin telepítése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1951
+msgid "Plugin install failed."
+msgstr "plagin telepítése sikertelen!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1952
+msgid "Plugin installed successfully."
+msgstr "Plugin sikeresen telepítve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:1963
+msgid "Plugin activation failed."
+msgstr "plagin aktiválás sikertelen!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2077
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Telepítés és aktiválás elkezdődött.Ez eltarthat egy darabig bizonyos "
+"szervereken,légy türelemmel."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s telepítése és aktiválása sikeres"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2078
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2087
+msgid "Show Details"
+msgstr "Részletek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2078
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2087
+msgid "Hide Details"
+msgstr "Részletek eltüntetése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2079
+msgid "All installations and activations have been completed."
+msgstr "minden telepítés és aktiválás befejeződött"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2080
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s (%2$d/%3$d) plugin telepítése és aktiválása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2084
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Telepítés elkezdődött.Ez eltarthat egy darabig bizonyos szervereken,légy "
+"türelemmel."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2085
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s: <strong>%2$s</strong> installálása alatt hiba történt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s telepítése sikertelen"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s sikeresen telepítve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2088
+msgid "All installations have been completed."
+msgstr "minden telepítés befejeződött"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/class-tgm-plugin-activation.php:2089
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s (%2$d/%3$d) plugin telepítése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/customization.php:153
+msgid "File is not exist"
+msgstr "Fájl nem található"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:15
+msgid "event"
+msgstr "Esemény "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:17
+msgid "Add New event"
+msgstr "Új esemény hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:18
+msgid "Edit event"
+msgstr "Esemény szerkesztése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:19
+msgid "New event"
+msgstr "Új esemény "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:20
+msgid "View event"
+msgstr "Esemény megtekintése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:21
+msgid "Search Events"
+msgstr "Események keresése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:22
+msgid "No Events found"
+msgstr "Nem található esemény"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:23
+msgid "No Events found in Trash"
+msgstr "Nem található esemény a szemetesben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:24
+msgid "Parent event:"
+msgstr "Fő Esemény "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:155
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/pictures.php:81
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1154
+msgid "Successs"
+msgstr "Siker"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:224
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:836
+msgid ""
+"Your account is pending. You have to activate your account to continue this "
+"step."
+msgstr "A fiókod függőben van.Hogy folytathasd,Aktiválnod kell a fiókodat. "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:231
+msgid "You have to add event for a listing."
+msgstr "Adnod kell eseményt a listázáshoz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:280
+msgid "Update event successful!"
+msgstr "Esemény frissítése sikeres!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:280
+msgid "Create event successfull!"
+msgstr "Esemény készítése sikeres!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:314
+msgid "You have to login to create event."
+msgstr "Esemény készítéséhez be kell jelentkezned!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:318
+msgid "Permission denied."
+msgstr "Engedély megtagadva!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:336
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/events.php:350
+msgid "You have reached the maximum number of event posts."
+msgstr "Elérted az esemény postok maximális számát"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/mailing.php:43
+msgid "New Place Submission Announcement"
+msgstr "Új hely felrakás bejelentése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/mailing.php:73
+msgid "New pending Event"
+msgstr "Új függő esemény"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:61
+msgid "This email address was not found."
+msgstr "email cím nem található"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:80
+msgid "Username is invalid"
+msgstr "Érvénytelen felhasználónév"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:129
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:132
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:138
+msgid "Invalid key"
+msgstr "Érvénytelen kulcs"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:161
+msgid "<strong>ERROR</strong>: Invalid username or email address."
+msgstr "<strong>ERROR</strong>Érvénytelen felhasználónév vagy email"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:175
+msgid "Password reset is not allowed for this user"
+msgstr "Jelszóvisszállítás nem megengedett ennél a felhasználónál"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:191
+msgid "There is a request to reset the password for the following account:"
+msgstr "Ez egy jelszóvisszaállítási kérelem a következő fiókhoz:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:193
+#, php-format
+msgid "Username: %s"
+msgstr "felhasználónév  %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:194
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "He ez egy hibából adódott,ne reagálj erre az mailre."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:195
+msgid "To reset your password, visit the following link:"
+msgstr "Jelszóvisszaállításhoz használd a következő linket:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:207
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] jelszóvisszaállítás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:213
+msgid "The email could not be sent."
+msgstr "Emailt nem lehet kiküldeni"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/members.php:213
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "Lehetséges ok: szolgáltató kikapcsolhatta az email() funkciót."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:11
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:12
+msgid "Pack"
+msgstr "csomag"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:13
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:26
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:16
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:14
+msgid "Add New Pack"
+msgstr "Új csomag hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:15
+msgid "Edit Pack"
+msgstr "csomag szerkesztése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:16
+msgid "New Pack"
+msgstr "Új csomag "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:17
+msgid "All Packs"
+msgstr "Összes csomag"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:18
+msgid "View Pack"
+msgstr "Csomag megtekintése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:19
+msgid "Search Packs"
+msgstr "Csomag keresése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:20
+msgid "No Pack found"
+msgstr "Nem található csomag"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:21
+msgid "NoPacks found in Trash"
+msgstr "Nem található csomag a szemetesben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/packages.php:23
+msgid "Packs"
+msgstr "Csomagok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:27
+msgid "Add New Place"
+msgstr "Új hely hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:28
+msgid "Edit Place"
+msgstr "Hely szerkesztése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:29
+msgid "New Place"
+msgstr "Új hely "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:30
+msgid "All Places"
+msgstr "Összes hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:31
+msgid "View Place"
+msgstr "Hely megtekintése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:32
+msgid "Search Places"
+msgstr "Hely keresése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:33
+msgid "No Place found"
+msgstr "Nem található hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:34
+msgid "NoPlaces found in Trash"
+msgstr "Nem található hely a szemetesben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:63
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:69
+msgid "Reject"
+msgstr "Visszautasít"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:73
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:77
+msgid "Archive"
+msgstr "Archívum"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:97
+msgid "Search Category"
+msgstr "Kategória keresése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:98
+msgid "Popular Category"
+msgstr "Népszerű kategória"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:99
+msgid "All Category"
+msgstr "Összes kategória"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:100
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:101
+msgid "Parent place category"
+msgstr "Fő hely kategória"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:102
+msgid "Edit place category"
+msgstr "hely kategória szerkesztése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:103
+msgid "Update place category"
+msgstr "hely kategória frissítése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:104
+msgid "Add New place category"
+msgstr "Új hely kategória hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:105
+msgid "New place category Name"
+msgstr "Új hely kategória név"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:106
+msgid "Add or remove Category"
+msgstr "Kategória hozzáadása vagy tőrlése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:107
+msgid "Choose from most used enginetheme "
+msgstr "Válassz a legtöbbet használt Engintheme-ből"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:108
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:76
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:108
+msgid "Category"
+msgstr "Kategória "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:144
+msgid "Search Locations"
+msgstr "Hely keresése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:145
+msgid "Popular Locations"
+msgstr "Népszerű helyek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:146
+msgid "All Locations"
+msgstr "Összes hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:147
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:148
+msgid "Parent location"
+msgstr "Fő hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:149
+msgid "Edit location"
+msgstr "Hely szerkesztése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:150
+msgid "Update location"
+msgstr "hely frissítése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:151
+msgid "Add New location"
+msgstr "Új hely hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:152
+msgid "New location Name"
+msgstr "Új hely név"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:153
+msgid "Add or remove Locations"
+msgstr "Hely hozzáadása vagy tőrlése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:154
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:200
+msgid "Choose from most used enginetheme"
+msgstr "Válassz a legtöbbet használt Engintheme-ből"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:192
+msgid "Search Place Tags"
+msgstr "Hely jelölés keresése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:193
+msgid "Popular Place Tags"
+msgstr "Népszerű hely jelölések"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:194
+msgid "All Place Tags"
+msgstr "Hely jelölés összes"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:195
+msgid "Edit Place Tag"
+msgstr "Hely jelölés szerkesztése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:196
+msgid "Update Place Tag"
+msgstr "Hely jelölés frissítése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:197
+msgid "Add New Place Tag"
+msgstr "Hely jelölés hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:198
+msgid "New Place Tag Name"
+msgstr "Új hely jelölés név"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:199
+msgid "Add or remove Place Tag"
+msgstr "Hely jelölés hozzáadása vagy tőrlése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:201
+msgid "Place Tag"
+msgstr "Hely jelölés "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:776
+msgid "No Message"
+msgstr "Nincs üzenet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:782
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/loop-notification.php:7
+msgid "Unpaid"
+msgstr "Kifizetetlen"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:784
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/loop-notification.php:9
+msgid "Paid"
+msgstr "Fizetve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:786
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:163
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:148
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/loop-notification.php:11
+msgid "Free"
+msgstr "Ingyenes"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:852
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:141
+msgid "Please enter a valid captcha!"
+msgstr "Valós Captcha-t adj meg"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:961
+msgid "Submit place successfull."
+msgstr "Hely listázása sikeres!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:981
+msgid "Update place successfull!"
+msgstr "Hely frissítése sikeres!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1052
+#, php-format
+msgid "%s places"
+msgstr "%s helyek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1053
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/search.php:54
+#, php-format
+msgid "%s place"
+msgstr "%s hely "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1061
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/section-status.php:23
+#, php-format
+msgid "%d places in \"%s\""
+msgstr "%d helyek %s-ban"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1062
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/section-status.php:25
+#, php-format
+msgid "%d place in \"%s\""
+msgstr "%d hely %s-ban"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1277
+msgid "Cannot create a place with an empty package."
+msgstr "nem lehet helyet készíteni üres csomaggal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1281
+msgid "You should enter short description for your place."
+msgstr "Írj be egy rövid leírást a helyhez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1285
+msgid "Your place should have a title."
+msgstr "Adj címet a helyhez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1289
+msgid "An ad should has a category!"
+msgstr "a reklámnak kell kategóriát adnod!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1293
+msgid "An ad should has a location!"
+msgstr "a reklámnak kell elhelyezkedést adnod!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1297
+msgid "You should enter a valid address for your place!"
+msgstr "Írj be egy érvényes cíimet a helyhez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1300
+msgid "You have to upload at least one photo!"
+msgstr "Fell kell töltened legalább egy fotót!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/places.php:1328
+msgid "You have selected an invalid plan."
+msgstr "Érvénytelen csomag!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:50
+msgid "Places Information"
+msgstr "Hely információ"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:180
+msgid "Packages:"
+msgstr "Csomagok:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:204
+msgid "Featured post:"
+msgstr "Kiemelt post:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:208
+msgid "Make this post featured in listing."
+msgstr "Tedd a postot kiemeltté"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:216
+msgid "Claim Request:"
+msgstr "Követelés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:225
+msgid "Make this place is claimable for users."
+msgstr "Tedd a helyet követelhetővé"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:233
+msgid "Expired Date:"
+msgstr "lejárat dátuma:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:236
+msgid "Specify a date when ad will be archived."
+msgstr "Add meg a reklám arhíválás dátumát"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:241
+msgid "Address details:"
+msgstr "Cím részletek:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:244
+msgid "This address is used for contact purpose."
+msgstr "Ez az elérési cím "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:245
+msgid "latitude:"
+msgstr "szélesség:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:247
+msgid "longitude:"
+msgstr "hosszúság:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:253
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:55
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:51
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:117
+msgid "FACEBOOK"
+msgstr "FACEBOOK"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:256
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:118
+msgid "URL to your shop's Facebook page"
+msgstr "URL a Facebook oldaladhoz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:261
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:50
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:104
+msgid "WEBSITE"
+msgstr "Weboldal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:264
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:105
+msgid "Your place's website url"
+msgstr "URL a weboldaladhoz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:269
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:60
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:130
+msgid "GOOGLE PLUS"
+msgstr "GOOGLE PLUS"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:272
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:131
+msgid "Your place's goole plus url"
+msgstr "URL a google plus oldaladhoz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:277
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-claim.php:44
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:46
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:47
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:90
+msgid "PHONE"
+msgstr "Telefon"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/post-meta-box.php:280
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:91
+msgid "Your place's contact phone"
+msgstr "A hely telefonszáma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:125
+msgid "You have to login to post review."
+msgstr "Be kell jelentkezned hogy értékelést adhass le"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:168
+msgid "You can only rate a place for one time."
+msgstr "Egy helyet csak egyszer értékelhetsz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:190
+msgid "Please wait 2 minutes after each action submission."
+msgstr "Várj 2 percet minden kísérlet után"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:216
+msgid "Your place have a new comment!"
+msgstr "Új hozzászólásod érkezett!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:299
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:590
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:695
+msgid "Please fill in required field."
+msgstr "Töltsd ki a kötelező mezőt!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:309
+msgid "Your review has been submitted."
+msgstr "Az értékelésed leadva"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:597
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:702
+msgid "You have to login."
+msgstr "Be kell jelentkezned "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:606
+msgid "Love it."
+msgstr "Imádod"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:614
+msgid "Added to favorite."
+msgstr "Hozzáadva a kedvencekhez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:615
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-option-list.php:33
+msgid "Remove item from favorite list"
+msgstr "Törlés a kedvencekből"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:642
+msgid "Remove favorite successfull."
+msgstr "Törlés a kedvencekből sikeres"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:644
+msgid "Cannot remove comment."
+msgstr "Hozzászólást nem lehet törölni"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/reviews.php:722
+msgid "You've reported to admins successfully."
+msgstr "Sikeresen jelentetted az adminnak"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/taxonomy-image.php:32
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/taxonomy-image.php:52
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/taxonomy-image.php:168
+msgid "Image"
+msgstr "Kép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/taxonomy-image.php:35
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/taxonomy-image.php:54
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/taxonomy-image.php:205
+msgid "Upload/Add image"
+msgstr "Kép feltöltése/hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/taxonomy-image.php:55
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/taxonomy-image.php:206
+msgid "Remove image"
+msgstr "Kép törlése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/taxonomy-image.php:185
+msgid "Thumbnail"
+msgstr "Kis kép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:65
+msgid "No specify serve day"
+msgstr "No specify serve day"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:76
+msgid "Monday"
+msgstr "Hétfő"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:77
+msgid "Tuesday"
+msgstr "Kedd"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:78
+msgid "Wednesday"
+msgstr "Szerda"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:79
+msgid "Thursday"
+msgstr "Csütörtök"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:80
+msgid "Friday"
+msgstr "Péntek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:81
+msgid "Saturday"
+msgstr "Szombat"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:82
+msgid "Sunday"
+msgstr "Vasárnap"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:86
+msgid "Every day"
+msgstr "Minden nap"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:90
+#, php-format
+msgid "From %s to %s"
+msgstr "%s-tól %s-ig"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:526
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:537
+msgid "Delete"
+msgstr "Törlés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:529
+msgid "click to select a featured image"
+msgstr "Válassz egy képet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:672
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:441
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:604
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/functions.php:41
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/single-place.php:69
+msgid "Load more"
+msgstr "További Betöltés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:737
+msgid "Refresh"
+msgstr "Frissítés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/template.php:779
+#, php-format
+msgid "See all %s photos"
+msgstr "Összes %s fotó megtekintése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:14
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:15
+msgid "Testimonial"
+msgstr "Ajánlások"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:17
+msgid "Add New Testimonial"
+msgstr "Új ajánlás hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:18
+msgid "Edit Testimonial"
+msgstr "Ajánlások szerkesztése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:19
+msgid "New Testimonial"
+msgstr "Új ajánlás "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:20
+msgid "All Testimonials"
+msgstr "Összes ajánlás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:21
+msgid "View Testimonial"
+msgstr "Ajánlások megtekintése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:22
+msgid "Search Testimonials"
+msgstr "Összes ajánlás keresése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:23
+msgid "No testimon found"
+msgstr "Nem található ajánlás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:24
+msgid "No Testimonials found in Trash"
+msgstr "Nem található ajánlás a szemetesben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/testimonials.php:26
+msgid "Testimonials"
+msgstr " ajánlás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:57
+msgid "Your request has been sent successfully, we'll contact you shortly!"
+msgstr "kérésed sikeresen elküldve,hamarosan értesíteni fogunk!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:62
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:86
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:105
+msgid "An error occurs, try again later!"
+msgstr "Hiba,próbáld később!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:81
+msgid "This claim has been approved successfully!"
+msgstr "Követelés jóváhagyva!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:100
+msgid "This claim has been rejected successfully!"
+msgstr "Követelés visszautasítva!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:253
+msgid "Please fill out all fields required."
+msgstr "Töltsd ki az összes kötelező mezőt!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:254
+msgid "Please enter your user name."
+msgstr "Add meg a felhasználóneved"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:255
+msgid "Please enter a valid email address."
+msgstr "Add meg érvényes email címed"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:256
+msgid "Please enter a valid username."
+msgstr "Írj be egy érvényes felhasználónevet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:257
+msgid "Please enter the same password as above."
+msgstr "Ismételd meg a jelszavad"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:258
+msgid "Please enter a valid URL."
+msgstr "Adj meg érvényes URL-t"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:259
+msgid "You must accept the term & privacy."
+msgstr "El kell fogadnod a felhasználási feltételeket"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:262
+msgid "You must be logged in to perform this action."
+msgstr "Ehhez a művelethez be kell jelentkezz!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:263
+msgid "You don't have enought points to perform this action."
+msgstr "Nincs elég pontod ehhez a művelethez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:264
+msgid "Create Topic"
+msgstr "Téma létrehozása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:265
+msgid "Upload Images"
+msgstr "Kép feltöltése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:266
+msgid "No file chosen."
+msgstr "nincs fájl kiválasztva"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:267
+msgid "Please insert at least one tag."
+msgstr "Tegyél be legalább egy jelet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:268
+msgid "Add comment"
+msgstr "Hozzászólás hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:270
+msgid "Sign Up"
+msgstr "Feliratkozás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:271
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:6
+msgid "Sign In"
+msgstr "Belépés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:272
+msgid "Accept"
+msgstr "Elfogadás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:273
+msgid "Best answer"
+msgstr "Legjobb válasz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:274
+msgid "Forgot Password"
+msgstr "Elfelejtett jelszó"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:275
+msgid "You have made some changes which you might want to save."
+msgstr "Változtatások mentése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:276
+msgid ""
+"You denied the request for Geolocation. To use this function, please enable "
+"it."
+msgstr "letiltottad a geolocatio-t.A funkció használatához engedélyezned kell."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:277
+msgid "Location information is unavailable."
+msgstr "helyzet információ nem elérhető."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:278
+msgid "The request to get user location timed out."
+msgstr "Helyzeti információ lekérés időtúllépés!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:279
+msgid "An unknown error occurred."
+msgstr "ismeretlen hiba történt!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:653
+msgid "Km"
+msgstr "Km"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:718
+#, php-format
+msgid "You purchased package <strong>%s</strong> and have %d post/s left."
+msgstr "<strong>%s</strong> csomagot vásároltad meg és  %d postod maradt."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:720
+#, php-format
+msgid ""
+"You purchased package <strong>%s</strong> and have %d post/s left. Your "
+"posted ad is pending until payment."
+msgstr ""
+"<strong>%s</strong> csomagot vásároltad meg és  %d postod maradt. A "
+"közzétett hirdetésed függőben marad a befizetésig."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/theme.php:865
+msgid "Get the nearby place list failed!"
+msgstr "Közeli helyek listázása nem sikerült!"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/upgrade-db.php:65
+msgid "You updated \"et_featured\" meta key successfull."
+msgstr "Frissített \"et_featured\" meta kulcs sikeres"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/upgrade-db.php:69
+msgid "You have updated \"et_featured\" meta key to all places."
+msgstr "Frissített \"et_featured\" meta kulcs az összes helyhez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/upgrade-db.php:71
+msgid "You updated \"et_featured\" meta key failed."
+msgstr "Frissített \"et_featured\" meta kulcs sikertelen"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/upgrade-db.php:129
+msgid "You updated \"rating_score\" meta key successfull."
+msgstr "Frissített \"rating_score\" meta kulcs sikeres"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/upgrade-db.php:133
+msgid "You have updated \"rating_score\" meta key to all places."
+msgstr "Frissített  \"rating_score\" meta kulcs az összes helyhez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/upgrade-db.php:136
+msgid "You updated \"rating_score\" meta key failed."
+msgstr "Frissített  \"rating_score\" meta kulcs sikertelen"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:18
+msgid "DE AREAS"
+msgstr "DE AREAS"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:39
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1372
+msgid "DE Areas"
+msgstr "DE AREAS"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:42
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:56
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:45
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:44
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:81
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:36
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:48
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/testimonial.php:35
+msgid "DirectoryEngine"
+msgstr "DirectoryEngine"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:48
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:62
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:51
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:57
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:87
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:42
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:61
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/testimonial.php:41
+msgid "Title"
+msgstr "Cím"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:50
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:64
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:53
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:59
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:44
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:63
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/testimonial.php:43
+msgid "Default Title"
+msgstr "Eredeti cím"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:55
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:90
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:66
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:122
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:56
+msgid "Style"
+msgstr "stílus"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:63
+msgid "Location ID. Each ID value is separated by a comma (e.g., 1,2,3)"
+msgstr "Helymeghatározási ID .Minden ID-t vessző választ el.(pl. 1,2,3)"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:71
+msgid "Number of areas"
+msgstr "Körzetek száma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:78
+msgid "Show areas count"
+msgstr "mutasd a körzetszámot"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:85
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:80
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:156
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1456
+msgid "Hide empty"
+msgstr "Üres rejtése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:92
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:87
+msgid "Order by"
+msgstr "Sorrend"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:98
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:96
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:93
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:70
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:142
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:69
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:81
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/testimonial.php:54
+msgid "Extra class name"
+msgstr "Extra osztály név"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:100
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:98
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:95
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:72
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:144
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:71
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:83
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/testimonial.php:56
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"Ha szeretnéd egy bizonyos elem stílusán válstosztatni,használd ezt a mezőt "
+"az új osztálynévnek,majd utalj rá a css fájlban."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:104
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:102
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:99
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:76
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:148
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:75
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:87
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/testimonial.php:60
+msgid "Custom CSS"
+msgstr "Egyedi CSS"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/areas.php:106
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:104
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:101
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:78
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:150
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:77
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:89
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/testimonial.php:62
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a custom CSS here."
+msgstr ""
+"Ha szeretnéd egy bizonyos elem stílusán válstosztatni,használd ezt a mezőt "
+"hogy új egyedi css-t adj hozzá"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:18
+msgid "BLOG BLOCK"
+msgstr "Blog blokk"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:46
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:66
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:67
+msgid "All"
+msgstr "Mind"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:53
+msgid "DE BLOG"
+msgstr "DE BLOG"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:69
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:129
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:49
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/testimonial.php:48
+msgid "Number Posts"
+msgstr "Tagsági pontok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/blog.php:83
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:136
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:63
+msgid "Paginate"
+msgstr "Paginate"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:19
+msgid "CATEGORY BLOCK"
+msgstr "Kategória blokk"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:42
+msgid "DE Category"
+msgstr "DE Kategória"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:59
+msgid "Number of category"
+msgstr "Kategória száma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/category.php:73
+msgid "Show posts count"
+msgstr "Mutasd a post számlálót"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:19
+msgid "CONTACT FORM"
+msgstr "Kontakt forma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:41
+msgid "DE Feature"
+msgstr "DE Kiemelés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:49
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:52
+msgid "Icon"
+msgstr "Ikon"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/feature.php:64
+msgid "Feature Content"
+msgstr "Tartalom kiemelése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:18
+msgid "PLACE BLOCK"
+msgstr "Hely blokk"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:78
+msgid "DE Place"
+msgstr "DE hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:94
+msgid "Query"
+msgstr "Kérdőív"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:101
+msgid "Order"
+msgstr "Sorrend"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:155
+msgid "Filter bar"
+msgstr "Szűrő"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/place.php:162
+msgid "Default display"
+msgstr "Alap kijelzés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:18
+msgid "REVIEW BLOCK"
+msgstr "Értékelés blokk"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/review.php:33
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:631
+msgid "DE REVIEW"
+msgstr "DE értékelés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:19
+msgid "SERVICE BLOCK"
+msgstr "Szolgáltatás blokk"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:26
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:119
+msgid "More"
+msgstr "Tovább"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:45
+msgid "DE Service"
+msgstr "DE szolgáltatás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:68
+msgid "Service Content"
+msgstr "Szolgáltatás Tartalom"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/service.php:75
+msgid "More Link"
+msgstr "Tovább link"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/testimonial.php:18
+msgid "TESTIMONIAL BLOCK"
+msgstr "Ajánlás blokk"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/vc_blocks/testimonial.php:32
+msgid "DE TESTIMONIAL"
+msgstr "DE ajánlás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:15
+msgid "DE Map"
+msgstr "DE térkép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:58
+msgid "Directory map"
+msgstr "Lista térkép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:76
+msgid "A list of categories"
+msgstr "Kategóriák"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:77
+msgid "DE Categories"
+msgstr "DE kategóriák"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:128
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:377
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:579
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:767
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:871
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:997
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1336
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1435
+msgid "Title:"
+msgstr "Cím:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:132
+msgid "Number of categories:"
+msgstr "Kategóriák száma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:136
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:417
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:589
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:777
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1340
+msgid "Style:"
+msgstr "Stílus:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:138
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:419
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:591
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:779
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1342
+msgid "Vertical"
+msgstr "Függőleges"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:139
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:420
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:592
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:780
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1343
+msgid "Horizontal"
+msgstr "Vízszintes"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:143
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1443
+msgid "Orderby:"
+msgstr "Sorrend:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:145
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1445
+msgid "Name"
+msgstr "Néve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:146
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1446
+msgid "Id"
+msgstr "ID"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:147
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1447
+msgid "Count"
+msgstr "szám"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:148
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1448
+msgid "Slug"
+msgstr "Elem"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:153
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1453
+msgid "Show post counts"
+msgstr "mutasd a post számlálót"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:177
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:178
+msgid "DE List Places"
+msgstr "DE lista helyek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:329
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:961
+msgid "Empty post with query"
+msgstr "Üres post kérdéssel"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:381
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:583
+msgid "Category:"
+msgstr "Kategória :"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:392
+msgid "Select category"
+msgstr "Kategória kiválasztása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:399
+msgid "Location:"
+msgstr "Elhelyezkedés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:410
+msgid "Select location"
+msgstr "Elhelyezkedés kiválasztása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:424
+msgid "Query:"
+msgstr "Kérdőív"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:426
+msgid "Featured Posts"
+msgstr "Kiemelt Posztok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:427
+msgid "Recent Posts"
+msgstr "Legutóbbi Posztok"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:428
+msgid "Has Event"
+msgstr " Van Esemény "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:432
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:596
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:772
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1001
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1347
+msgid "Number of posts"
+msgstr "Postok száma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:437
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:600
+msgid "Paginate:"
+msgstr "Paginate:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:440
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:603
+msgid "Page paginate"
+msgstr "Page paginate"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:463
+msgid "DE Recent Blog"
+msgstr "DE legutóbbi BLOG"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:630
+msgid "De Review Widget"
+msgstr "De Review Widget"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:642
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:758
+msgid "REVIEWS"
+msgstr "Értékelések"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:786
+msgid "Show pagination"
+msgstr "Show pagination"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:807
+msgid "DE Social Widget"
+msgstr "DE Social Widget"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:827
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:183
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:109
+msgid "Facebook"
+msgstr "Facebook"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:830
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:193
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:119
+msgid "Twitter"
+msgstr "Twitter"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:834
+msgid "Google+"
+msgstr "Google+"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:867
+msgid "Keep in touch"
+msgstr "Kapcsolattartás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:892
+msgid "DE Testimonial Widget"
+msgstr "DE Testimonial Widget"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1036
+msgid "Main Sidebar"
+msgstr "Fő oldaloszlop"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1052
+msgid "Top Sidebar"
+msgstr "Felső oldaloszlop"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1068
+msgid "Bottom Sidebar"
+msgstr "Alsó oldaloszlop"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1085
+msgid "Top Fullwidth Sidebar"
+msgstr "felső teljes szélességű oldaloszlop"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1102
+msgid "Bottom Fullwidth Sidebar"
+msgstr "Alsó teljes szélességű oldaloszlop"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1118
+msgid "Mobile Top Sidebar"
+msgstr "Mobil Felső oldaloszlop"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1134
+msgid "Single"
+msgstr "Egyetlen"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1151
+msgid "Footer 1"
+msgstr "láb 1"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1168
+msgid "Footer 2"
+msgstr "láb 2"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1186
+msgid "Footer 3"
+msgstr "láb 3"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1204
+msgid "Footer 4"
+msgstr "láb 4"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1231
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1232
+msgid "DE Nearby"
+msgstr "DE Nearby"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1283
+msgid "Please share your location to view this widget content"
+msgstr "kérjük oszd meg helyzetedet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1351
+msgid "Radius"
+msgstr "Radius"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1371
+msgid "A list of areas"
+msgstr "Körzetek listája"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/includes/widgets.php:1439
+msgid "Number of areas:"
+msgstr "Körzetek száma"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/index.php:9
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/category.php:10
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:117
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/index.php:10
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single.php:11
+msgid "Blog"
+msgstr "Blog"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/index.php:15
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-front.php:40
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/search.php:80
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/section-status.php:45
+msgid "Submit a place"
+msgstr "Hely listázása "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/404.php:14
+msgid "Back to home page"
+msgstr "Vissza a főoldalra."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/archive-place.php:17
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-front.php:20
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-list-reviews.php:20
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/search.php:75
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/taxonomy-location.php:17
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/taxonomy-place_category.php:17
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/taxonomy-place_tag.php:17
+msgid "Categories"
+msgstr " Kategóriák:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:43
+#, php-format
+msgid "%s's profile"
+msgstr "profil %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:50
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:53
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:60
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:63
+msgid "Logout"
+msgstr "Kilépés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:97
+#, php-format
+msgid "%s review"
+msgstr "%s előnézet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:118
+#, php-format
+msgid "%s picture"
+msgstr "%s kép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:195
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/pending-places.php:44
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-event.php:101
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:69
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/publish-places.php:43
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/author-events.php:72
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-events.php:76
+msgid "Currently, there are not event yet."
+msgstr "Még nincsenek események"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:246
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-review.php:52
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-reviews.php:55
+msgid "Currently, there are not review yet."
+msgstr "Még nincsenek értékelések"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/author.php:300
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-togo.php:46
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-togos.php:43
+msgid "Currently, there are not favorite yet."
+msgstr "Még nincsenek kedvencek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:17
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:18
+#, php-format
+msgid "%d REVIEWS"
+msgstr "%d értékelések"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:19
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:20
+#, php-format
+msgid "%d REVIEW"
+msgstr "%d értékelés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:28
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:29
+#, php-format
+msgid "%d COMMENTS"
+msgstr "%d hozzászólások"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:30
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:31
+#, php-format
+msgid "%d COMMENT"
+msgstr "%d hozzászólás "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:34
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:38
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:40
+msgid "0 COMMENT"
+msgstr "0 hozzászólás "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:46
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:55
+msgid "&larr; Older Reviews"
+msgstr "&larr; régebbi értékelések"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:47
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:56
+msgid "Newer Reviews &rarr;"
+msgstr "Újabb értékelések &rarr;"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:61
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:28
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:70
+msgid "Comment"
+msgstr "hozzászólás "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:72
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:80
+msgid "ADD REPLY"
+msgstr "Válasz hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:73
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:40
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:81
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "hagyj üzenetet  %s-nak"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:74
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:82
+msgid "CANCEL"
+msgstr "Mégsem"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:75
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:101
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:179
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-reset-pass.php:46
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:42
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:83
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:113
+msgid "SUBMIT"
+msgstr "Listázás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:86
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:93
+msgid "ADD REVIEW"
+msgstr "Értékelés hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:88
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:96
+msgid "Rate to review this place or just leave a comment."
+msgstr "értékeld ezt a helyet vagy csak szólj hozzá"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:90
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:101
+msgid "REVIEW"
+msgstr "Értékelés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:112
+#, php-format
+msgid ""
+"YOU MUST <a class=\"authenticate\" href=\"%s\">LOGIN</a> TO SUBMIT A REVIEW"
+msgstr ""
+" <a class=\"authenticate\" href=\"%s\">LOGIN</a> kell hogy leadj egy "
+"értékelést "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:154
+msgid "&nbsp;&nbsp;|&nbsp;&nbsp;Reply"
+msgstr "&nbsp;&nbsp;|&nbsp;&nbsp;Válasz"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/comments.php:174
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:193
+msgid "Moderate"
+msgstr "Moderálás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:104
+msgid "Nearby"
+msgstr "Közeli"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:110
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:60
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:213
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-reject.php:19
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:301
+msgid "Submit"
+msgstr "Listázás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:129
+msgid ""
+"Please confirm your email address to complete your registration process."
+msgstr "Kérjük erősítsd meg az email címed hogy befejezdhesd a regisztrációt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:155
+msgid "login"
+msgstr "belépés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:169
+msgid "Enter Keyword"
+msgstr "Add meg a kulcsszót"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:178
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:32
+msgid "All categories"
+msgstr " Összes Kategóriák:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/header.php:188
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:19
+msgid "All locations"
+msgstr "Összes hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-list-reviews.php:16
+#, php-format
+msgid "%d Reviews"
+msgstr "%d értékelések"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-list-user.php:21
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-list-user.php:19
+#, php-format
+msgid "%s User"
+msgstr "%s Felhasználó"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-list-user.php:24
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-list-user.php:22
+#, php-format
+msgid "%s Users"
+msgstr "%s Felhasználók"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-list-user.php:35
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-list-user.php:50
+msgid "Keyword"
+msgstr "Kulcsszó:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-list-user.php:61
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-list-user.php:66
+msgid "0 user are found"
+msgstr "0 felhasználó"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:28
+msgid "Login"
+msgstr "belépés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:46
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:44
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:12
+msgid "Username or Email"
+msgstr "Felhasználónév vagy email"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:50
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:120
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:48
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:88
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:16
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:56
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:29
+msgid "Password"
+msgstr "Jelszó"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:57
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:55
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:104
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:23
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:74
+msgid "Sign up"
+msgstr "Feliratkozás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:76
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:50
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:18
+msgid "Forgot password"
+msgstr "Elfelejtett jelszó"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:94
+msgid "Register"
+msgstr "Regisztráció"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:112
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:78
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:46
+msgid "Username"
+msgstr "felhasználónév "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:116
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:82
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:50
+msgid "Email"
+msgstr "email"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:124
+msgid "Retype  Password"
+msgstr "Jelszó újra"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:135
+msgid "SIGN UP"
+msgstr "Feliratkozás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:136
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:180
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:54
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:105
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:22
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:75
+msgid "Sign in"
+msgstr "Belépés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:155
+msgid "Request password"
+msgstr "jelszó kérése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-login.php:173
+msgid "Your Email"
+msgstr "emailed"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-post-place.php:63
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-post-place.php:52
+#, php-format
+msgid "By posting your place, you agree to our %s (*)"
+msgstr "A listázással elfogadod a %s (*)"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-post-place.php:64
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:114
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-post-place.php:53
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:84
+msgid "Terms of use"
+msgstr "Felhasználási feltételek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:54
+#, php-format
+msgid "%s profile"
+msgstr "profil %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:79
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:48
+msgid "User Info"
+msgstr "felhasználói Info"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:80
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:90
+msgid "Package Info"
+msgstr "csomag Info"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:97
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:79
+msgid "No Email"
+msgstr " nincs email"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:159
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:182
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:144
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:167
+msgid "No Package"
+msgstr "nincs csomag "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:169
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:154
+msgid "Total Place"
+msgstr "Összes hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-profile.php:220
+msgid "Pictures"
+msgstr "Képek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-reset-pass.php:16
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-resetpass.php:6
+msgid "Reset Password"
+msgstr "Jelszóvisszaállítás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-reset-pass.php:36
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-reset-pass.php:43
+msgid "Your new password"
+msgstr "Új Jelszavad"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/page-reset-pass.php:40
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-reset-pass.php:47
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:122
+msgid "Retype your password"
+msgstr "Jelszó újra"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/search.php:54
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-front.php:19
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/section-status.php:7
+#, php-format
+msgid "%d places"
+msgstr "%d helyek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/search.php:56
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-front.php:21
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/section-status.php:9
+#, php-format
+msgid "%d place"
+msgstr "%d hely "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:54
+msgid "Info"
+msgstr "Info"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:60
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:13
+msgid "Gallery"
+msgstr "Képtár"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:65
+msgid "Event"
+msgstr "Esemény "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:95
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:154
+#, php-format
+msgid "/ %d views"
+msgstr "/ %d megtekintések"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:98
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:156
+#, php-format
+msgid "/ %d view"
+msgstr "/ %d megetkintés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:113
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:32
+msgid "No specify address"
+msgstr "Nincs cím"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:122
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:42
+msgid "Phone"
+msgstr "Telefon"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:123
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:43
+msgid "No specify phone"
+msgstr "Nincs telefon"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:127
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:49
+msgid "Website"
+msgstr "Weboldal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:129
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:52
+msgid "No specify website"
+msgstr "Nincs weboldal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:146
+#, php-format
+msgid "%s to %s."
+msgstr "%s hoz %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:150
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:76
+msgid "No specify serve time"
+msgstr "Nincs szolgáltatási idő"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:154
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:80
+#, php-format
+msgid "Open at: %s"
+msgstr "Nyitva %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:158
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:84
+#, php-format
+msgid "Close at: %s"
+msgstr "Zárva %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:180
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:106
+msgid "Social"
+msgstr "Social"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:188
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:114
+msgid "Google plus"
+msgstr "GOOGLE PLUS"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:203
+msgid "Description:"
+msgstr " leírás "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/single-place.php:210
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:134
+msgid "CONTACT OWNER"
+msgstr "Felhasználó Megkeresése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/js-user-item.php:28
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/user-item.php:32
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/user-item.php:28
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/user-item.php:35
+msgid "There's no place"
+msgstr "Nincs hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/modal-contact.php:13
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-contact.php:19
+msgid "Private Message"
+msgstr "Egyéni üzenet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/modal-contact.php:21
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-contact.php:27
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-report.php:15
+msgid "Message"
+msgstr " üzenet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/modal-contact.php:26
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:125
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:96
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-claim.php:57
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-contact.php:32
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-report.php:20
+msgid "Send"
+msgstr "Küldés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step1.php:7
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step3.php:7
+msgid "Post a Place"
+msgstr "hely postolása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step1.php:10
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step3.php:10
+#, php-format
+msgid "Step %s of %s"
+msgstr "Step %s of %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step1.php:38
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step1.php:47
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step1.php:37
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step1.php:46
+#, php-format
+msgid "You can submit %d posts using this plan."
+msgstr " %d postot tehetsz közzé ezzel a csomaggal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step1.php:41
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step1.php:40
+#, php-format
+msgid "You can submit %d post using this plan."
+msgstr " %d postot tehetsz közzé ezzel a csomaggal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step1.php:55
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step1.php:75
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step4.php:38
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step4.php:52
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step4.php:67
+msgid "Select"
+msgstr "Választás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step3.php:26
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:34
+msgid "PLACE NAME"
+msgstr "hely neve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step3.php:27
+msgid "Keep it short &#38; clear"
+msgstr "Legyen rövid &#38; érthető"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step3.php:38
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:33
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:67
+msgid "LOCATION"
+msgstr "Elhelyezkedés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step3.php:38
+msgid "Your's place address"
+msgstr "Hely címe"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step3.php:48
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:116
+msgid "CATEGORIES"
+msgstr " Kategóriák:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/post-place-step3.php:48
+msgid "Select the best one(s)"
+msgstr "Válaszd ki a legmegfelelőbbet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:13
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:19
+msgid "Publishing"
+msgstr "Közzététel"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:13
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:19
+#, php-format
+msgid "Publishing (%s)"
+msgstr "Közzététel (%s)"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:14
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:20
+msgid "Pending"
+msgstr " függőben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:14
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:20
+#, php-format
+msgid "Pending (%s)"
+msgstr "%s függőben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:15
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:21
+msgid "Overdue"
+msgstr "Túllépés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:15
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:21
+#, php-format
+msgid "Overdue (%s)"
+msgstr "Túllépés (%s)"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:16
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:22
+msgid "Rejected"
+msgstr "Elutasítva"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:16
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:22
+#, php-format
+msgid "Rejected (%s)"
+msgstr "Elutasítva (%s)"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:17
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:23
+msgid "Draft"
+msgstr "Vázlat"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:17
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:23
+#, php-format
+msgid "Draft (%s)"
+msgstr "Vázlat (%s)"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/profile-place.php:22
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-places.php:28
+msgid "Enter keywords..."
+msgstr "Add meg a kulcsszavakat"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/section-map.php:24
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/section-map.php:26
+msgid "View direction"
+msgstr "Irány megtekintése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/single-place-events.php:12
+msgid "EVENTS"
+msgstr "Események"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/single-place-events.php:28
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/event-item.php:25
+msgid "Time remains:"
+msgstr "Hátralévő idő:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/mobile/template/single-place-events.php:52
+msgid "Currently, there are no events."
+msgstr "Jelenleg nincs esemény"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-list-user.php:49
+msgid "Search By Name:"
+msgstr "Keresés név szerint"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:92
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:60
+msgid "Retype Password"
+msgstr "Jelszó újra"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:113
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:83
+#, php-format
+msgid ""
+"By clicking \"Sign up\" you indicate that you have read and agree with our "
+"%s (*)"
+msgstr ""
+"A feliratkozásra kattintva kijelented hogy elolvastad és egyetértesz a %s "
+"(*)-al"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-login.php:122
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-authenticate.php:93
+msgid "Enter your email here"
+msgstr "Írd be az emailedet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-post-place.php:12
+msgid "Submit Place"
+msgstr "Hely listázása "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:49
+msgid "User Info Of "
+msgstr "felhasználói Info"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:187
+#, php-format
+msgid "<span class=\"text\">Places</span><span class=\"number\">(%s)</span>"
+msgstr "<span class=\"text\">Places</span><span class=\"number\">(%s)</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:189
+#, php-format
+msgid "<span class=\"text\">Place</span><span class=\"number\">(%s)</span>"
+msgstr "<span class=\"text\">Place</span><span class=\"number\">(%s)</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:200
+#, php-format
+msgid "<span class=\"text\">Events</span><span class=\"number\">(%s)</span>"
+msgstr "<span class=\"text\">Events</span><span class=\"number\">(%s)</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:202
+#, php-format
+msgid "<span class=\"text\">Event</span><span class=\"number\">(%s)</span>"
+msgstr "<span class=\"text\">Event</span><span class=\"number\">(%s)</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:226
+#, php-format
+msgid "<span class=\"text\">Reviews</span><span class=\"number\">(%s)</span>"
+msgstr "<span class=\"text\">Reviews</span><span class=\"number\">(%s)</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:228
+#, php-format
+msgid "<span class=\"text\">Review</span><span class=\"number\">(%s)</span>"
+msgstr "<span class=\"text\">Review</span><span class=\"number\">(%s)</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:242
+#, php-format
+msgid "<span class=\"text\">Togos</span><span class=\"number\">(%s)</span>"
+msgstr "<span class=\"text\">Togos</span><span class=\"number\">(%s)</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:282
+#, php-format
+msgid "<span class=\"text\">Pictures</span><span class=\"number\">(%s)</span>"
+msgstr "<span class=\"text\">Pictures</span><span class=\"number\">(%s)</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-profile.php:284
+#, php-format
+msgid "<span class=\"text\">Picture</span><span class=\"number\">(%s)</span>"
+msgstr "<span class=\"text\">Picture</span><span class=\"number\">(%s)</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-reset-pass.php:33
+msgid "Reset password"
+msgstr "Jelszó visszaállítása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page-tos.php:42
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/page.php:35
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/single.php:38
+msgid "Pages:"
+msgstr "Oldalak"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/search.php:53
+#, php-format
+msgid "%s places "
+msgstr "%s helyek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/search.php:66
+#, php-format
+msgid "Search Results for \"%s\": "
+msgstr "Keresési eredmények \"%s\": "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/sidebar-single.php:15
+#, php-format
+msgid "Map of %s"
+msgstr " %s térképe"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/single.php:62
+msgid "Latest news:"
+msgstr "Legutóbbi hírek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/tag.php:9
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Jel archívum %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/author-loop-event.php:20
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-events.php:57
+msgid "Edit this event"
+msgstr "Esemény szerkesztése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/author-loop-event.php:21
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-events.php:58
+msgid "Put to archive"
+msgstr "Tedd  arhíívumba"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/author-loop-place.php:24
+msgid "Note:"
+msgstr "Megjegyzés:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/author-loop-place.php:50
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/loop-place.php:32
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/loop-place.php:56
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-loop-place.php:29
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:85
+msgid "Featured"
+msgstr "Kiemelt "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/author-loop-place.php:58
+msgid "0 day"
+msgstr "0 nap"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/loop-post.php:16
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/loop-post.php:21
+msgid "See more"
+msgstr "Továbbiak"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-claim.php:23
+msgid "Claim this Place"
+msgstr "Oldal követelése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-claim.php:34
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:39
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:28
+msgid "FULL NAME"
+msgstr "Telhes név"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-claim.php:39
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:24
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:43
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:47
+msgid "ADDRESS"
+msgstr "Cím "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-claim.php:49
+msgid "Note"
+msgstr "Megjegyzés:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-claim.php:57
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:62
+msgid "Approve"
+msgstr "Jóváhagyás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-claim.php:59
+msgid "Deny"
+msgstr "Visszautasítás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:6
+msgid "Create an event"
+msgstr "Esemény készítése "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:14
+msgid "EVENT TITLE"
+msgstr "Esemény címe"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:19
+msgid "RIBBON TEXT (keep it short and clear)"
+msgstr "Szalag szöveg(legyen rövid és érthető)"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:20
+#, php-format
+msgid "e.g -20% or Free "
+msgstr " -20% vagy ingyenes"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:24
+msgid "STORY"
+msgstr "Történet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:29
+msgid "WHEN"
+msgstr "Mikor"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:32
+msgid "Start Event "
+msgstr "Esemény kezdete"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:35
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:95
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:195
+msgid "to"
+msgstr "nak"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:37
+msgid "End Event "
+msgstr "Esemény vége"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-create-event.php:43
+msgid "BANNER"
+msgstr "BANNER"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:6
+msgid "Place Info"
+msgstr "hely info"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:11
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:28
+msgid "Information"
+msgstr " információ"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:12
+msgid "Header"
+msgstr "Fejléc "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:19
+msgid "NAME"
+msgstr "Név"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:65
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:144
+msgid "TWITTER"
+msgstr "Twitter"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:70
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:158
+msgid "CLAIMABLE"
+msgstr " követelhető"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:80
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:176
+msgid "OPENING TIME"
+msgstr "Nyitvatartás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:109
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:209
+msgid "Reset All"
+msgstr "Nullázás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:118
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:228
+msgid "Choose categories"
+msgstr " Kategóriák: választása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:142
+msgid "POST CONTENT"
+msgstr "Tartalom postolása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:152
+msgid "Cover Image"
+msgstr "háttér Kép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:153
+msgid "Your cover image's minimum size must be 1440x500. "
+msgstr "a háttérkép minimum mérete 1440x500. "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:154
+msgid "Tips: Remember the video space when designing your image."
+msgstr "ötlet:emlékezz a video helyre amikor a képet készíted"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:161
+msgid "Delete image"
+msgstr "Törlés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:162
+msgid "Upload new image"
+msgstr "Új Kép feltöltése/hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:166
+msgid "VIDEO"
+msgstr "VIDEO"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:167
+msgid "e.g. https://www.youtube.com/watch?v=d7MY1l3kcvo"
+msgstr "pl: https://www.youtube.com/watch?v=d7MY1l3kcvo"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:186
+msgid "PREVIEW HEADER"
+msgstr "Fejléc előnézete"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:196
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:253
+msgid "PHOTOS"
+msgstr "Fotók"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-place.php:197
+msgid "Select one picture for your featured image"
+msgstr "Válassz egy képet a kiemeléshez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:24
+msgid "Edit Profile"
+msgstr "profil szerkesztése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:58
+msgid "OLD PASSWORD"
+msgstr "Régi Jelszó"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:62
+msgid "NEW PASSWORD"
+msgstr "Új Jelszavad"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:66
+msgid "REPEAT NEW PASSWORD"
+msgstr "Új Jelszavad mégegyszer"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-edit-profile.php:74
+msgid "Update Profile"
+msgstr "profil friisítése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-reject.php:7
+#, php-format
+msgid "Reject <span>%s</span>"
+msgstr "Reject <span>%s</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-reject.php:14
+msgid "MESSAGE"
+msgstr " üzenet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-report.php:9
+msgid "Report Place"
+msgstr "Hely Jelentése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template-js/modal-resetpass.php:13
+msgid "Enter your new password here"
+msgstr "Adja meg a jelszavát itt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/author-events.php:60
+msgid "Time remains: "
+msgstr "Hátralévő idő:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/author-loop-place.php:9
+msgid "REJECTED"
+msgstr "Elutasítva"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/author-loop-place.php:10
+msgid "ARCHIVED"
+msgstr "Arhívált"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/author-loop-place.php:11
+msgid "PENDING"
+msgstr " függőben"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/author-loop-place.php:12
+msgid "DRAFT"
+msgstr "Vázlat"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/author-loop-place.php:13
+msgid "ACTIVE"
+msgstr "Aktív"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/author-loop-place.php:37
+msgid "Renew"
+msgstr "Megújítás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/author-loop-place.php:45
+msgid "Delete Permanently"
+msgstr "Törlés véglegesen"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:5
+msgid "0 Comment on this Article"
+msgstr "0 hozzászólás ehhez a cikkhez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:5
+msgid "1 Comment on this Article"
+msgstr "Ehez cikkhez  1 hozzászólás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:5
+msgid "% Comments on this Article"
+msgstr "% hozzászólás ehhez a cikkhez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:16
+msgid "&larr; Older Comments"
+msgstr "&larr; régebbi hozzászólások"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:17
+msgid "Newer Comments &rarr;"
+msgstr "Újabb hozzászólások  &rarr;"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:39
+msgid "Add a comment"
+msgstr "Hozzászólás hozzáadása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:48
+msgid "Comment closed!"
+msgstr "hozzászólások lezárva"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-blog.php:78
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:165
+msgid "&nbsp;&nbsp;|&nbsp;&nbsp; Reply"
+msgstr "&nbsp;&nbsp;|&nbsp;&nbsp; Reply"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:104
+msgid "description"
+msgstr " leírás "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/comment-place.php:123
+#, php-format
+msgid "YOU MUST %s TO SUBMIT A REVIEW"
+msgstr "%s kell hogy értékelést adhass le"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/loop-place.php:26
+msgid "UNPAID"
+msgstr "Kifizetetlen"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/loop-place.php:27
+msgid "PAID"
+msgstr "Fizetve"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/loop-place.php:28
+msgid "FREE"
+msgstr "Ingyenes"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/loop-post.php:21
+#, php-format
+msgid "View %s details"
+msgstr "Részletek  %s megtekintése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/notification.php:18
+#, php-format
+msgid ""
+"There are <span><number>%s</number> pending places</span>, waiting for your "
+"permission. <span class='btn-pending-places'>View All</span>"
+msgstr ""
+"<span><number>%s</number> pending places</span>, waiting for your "
+"permission. <span class='btn-pending-places'>View All</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/notification.php:20
+#, php-format
+msgid ""
+"There are <span><number>%s</number> pending place</span>, waiting for your "
+"permission. <span class='btn-pending-places'>View All</span>"
+msgstr ""
+"There are <span><number>%s</number> pending place</span>, waiting for your "
+"permission. <span class='btn-pending-places'>View All</span"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/payment-fail.php:14
+msgid "Payment fail, friend"
+msgstr "Fizetés sikertelen"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/payment-fail.php:16
+msgid "You are now redirected to submit listing page ... "
+msgstr "Átirányítunk hogy feladhasd a kívánt oldalt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/payment-fail.php:17
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/payment-success.php:27
+#, php-format
+msgid "Time left: %s"
+msgstr "hátramaradt idő %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/payment-fail.php:19
+msgid "Post Ad"
+msgstr "reklám feladása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/payment-success.php:17
+#, php-format
+msgid "<p>Your listing has been submitted to our website.</p> %s "
+msgstr "<p>A listázásod rögzítve lett az oldaon.</p> %s "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/payment-success.php:20
+msgid "Success, friend"
+msgstr "Sikeres"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/payment-success.php:23
+msgid ""
+"Your payment has been sent successfully but is currently set as 'pending' by "
+"Paypal. <br/>You will be notified when your listing is approved."
+msgstr ""
+"a fizetésed sikeres volt,de jelenleg a Paypal függővé tette. <br/>Értesítünk "
+"amikor a listázásod jóváhagyásra került."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/payment-success.php:26
+msgid "You are now redirected to your listing page ... "
+msgstr "Átirányítunk a listázási oldalra."
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/pending-places.php:14
+msgid "PENDING PLACES"
+msgstr "Függőben levő helyek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/pending-places.php:38
+msgid "No place found"
+msgstr "Nem található hely"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:14
+msgid "FILTER BY:"
+msgstr "Szűrés:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:42
+msgid "PLACE PER PAGE:"
+msgstr "Hely oldalanként"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:46
+msgid "Places/page"
+msgstr "Helyek/oldal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:49
+msgid "4 Places/Page"
+msgstr "4 Hely/oldal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:52
+msgid "8 Places/Page"
+msgstr "8 Hely/oldal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:55
+msgid "12 Places/Page"
+msgstr "12 Hely/oldal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:62
+msgid "SORT BY:"
+msgstr "Rendezés:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:64
+msgid "Rating"
+msgstr "Értékelés:"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-filter.php:67
+msgid "Latest"
+msgstr "Legutóbbi "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/place-notfound.php:12
+msgid "No results found for your query."
+msgstr "Sajnáljuk,nincs eredmény"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step1.php:15
+msgid "Select your pricing plan"
+msgstr "Válaszd ki a fizetési csomagot"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step1.php:64
+#, php-format
+msgid "You have selected: %s"
+msgstr "Kiválasztott:%s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step1.php:66
+msgid "You are currently using the 'Free' plan"
+msgstr "Jelenleg az ' Ingyenes' csomagot használod"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:10
+msgid "Login or Register"
+msgstr "Bejelentkezés vagy regisztráció"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:19
+msgid "Already have an account?"
+msgstr "Már van fiókod?"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:20
+msgid "Log in"
+msgstr "Belépés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:29
+msgid "First and last name"
+msgstr "Teljes név"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:33
+msgid "Enter your full name"
+msgstr "Telhes név"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:41
+msgid "USER NAME"
+msgstr "Add meg a felhasználóneved"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:42
+msgid "Enter a username"
+msgstr "Írd be a felhasználónevet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:46
+msgid "Enter your username"
+msgstr "Írd be a felhasználónevet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:54
+msgid "EMAIL"
+msgstr "email"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:55
+msgid "Enter a email"
+msgstr "Írd be az emailedet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:59
+msgid "Enter your email"
+msgstr "Írd be az emailedet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:67
+msgid "PHONE NUMBER"
+msgstr "Telefonszám"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:68
+msgid "Incule your area code"
+msgstr "Körzetszámmal együtt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:72
+msgid "Enter your phone number with area code"
+msgstr "Írd be a telefonszámod a körzetszámmal együtt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:80
+msgid "PROFILE PICTURE"
+msgstr "profilkép"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:81
+msgid "Maximum size: 1MB"
+msgstr "Max méret 1 MB"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:104
+msgid "PASSWORD"
+msgstr "Jelszó"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:105
+msgid "Enter password"
+msgstr "Add meg a jelszavad"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:109
+msgid "Your password"
+msgstr "Jelszavad"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:117
+msgid "RETYPE PASSWORD"
+msgstr "Jelszó újra"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:118
+msgid "Retype password"
+msgstr "Jelszó újra"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step2.php:143
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:301
+msgid "Continue"
+msgstr "Folytatás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:24
+msgid "Enter your place details"
+msgstr "Add meg a hely részleteit"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:35
+msgid "Keep it short & clear"
+msgstr "Legyen rövid és érthető"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:39
+msgid "Enter the name of your place"
+msgstr "Add meg a hely nevét"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:48
+msgid "Your place's address"
+msgstr "Hely címe"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:53
+msgid "Enter your place's address"
+msgstr "Add meg a hely címét"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:58
+msgid "Drag the marker to specify correct coords."
+msgstr "Húzd a jelet a megfelelő helyre"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:68
+msgid "Your place's City, Area"
+msgstr "Hely Városa,Környék"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:145
+msgid "Your place's twitter url"
+msgstr "Twitter URL"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:159
+msgid "Set this place is claimable or not"
+msgstr "Tedd a helyet követelhetővé ha akarod"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:177
+msgid "Your place's serve time"
+msgstr "Hely nyitvatartása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:221
+msgid "CATEGORY"
+msgstr "Kategória "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:222
+msgid "Select the most suitable one for your business"
+msgstr "Válaszd ki a számodra legmegfelelőbbet"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:254
+#, php-format
+msgid "Up to %s pictures<br>Select one picture for your featured image"
+msgstr "Max %s kép<br>Válassz egy képet a kiemeléshez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:276
+msgid "DESCRIPTION"
+msgstr " leírás "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step3.php:277
+msgid "Ideally 3 short paragraphs"
+msgstr "Lehetőleg 3 rövid paragrafus"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step4.php:14
+msgid "Select payment method"
+msgstr "Fizetési mód választása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step4.php:35
+msgid "Send your payment via Paypal."
+msgstr "Fizetés Paypallal"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step4.php:49
+msgid "Send your payment via 2Checkout."
+msgstr "Fizetés  2Checkout-al"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/post-place-step4.php:64
+msgid "Send your cash payment to our bank account"
+msgstr "Pénz utalása bankszámlára"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/profile-pictures.php:65
+msgid "Currently, there are not picture yet."
+msgstr "Még nincsenek képek"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/section-status.php:17
+#, php-format
+msgid "Tag: %s"
+msgstr "Jel %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/section-video.php:17
+#, php-format
+msgid "The video intro for %s"
+msgstr "%s video introja"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:39
+msgid "For owner"
+msgstr "tulajdonosnak"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:41
+msgid "Admin Control"
+msgstr "Admin Control"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:49
+msgid "Edit"
+msgstr " szerkesztés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:54
+msgid "Create Event"
+msgstr "Esemény készítése "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:87
+msgid "UnFeatured"
+msgstr "Nem-kiemelt"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:100
+msgid "Approve this claim"
+msgstr "Kérelem jóváhagyása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:117
+msgid "Upgrade"
+msgstr " frissítés"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-breadcrumb.php:134
+msgid "Claim this place"
+msgstr "Hely követelése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:27
+msgid "Address"
+msgstr "Cím "
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:92
+msgid "Open days"
+msgstr "Nyitvatartás"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:191
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-details.php:217
+#, php-format
+msgid "See all %s"
+msgstr "See all %s"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-events.php:20
+msgid "ACTIVE EVENTS"
+msgstr "Aktív események"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-events.php:58
+msgid "<span>Time remains:</span>"
+msgstr "<span>Time remains:</span>"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-more.php:17
+msgid "View this place"
+msgstr "Hely megtekintése"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-option-list.php:27
+msgid "Add to favorite"
+msgstr "Hozzáadás a kedvencekhez"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-option-list.php:51
+msgid "Share on Facebook"
+msgstr "Megosztás Facebookon"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-option-list.php:58
+msgid "Share on Twitter"
+msgstr "Megosztás Twitteren"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-option-list.php:65
+msgid "Share on Google Plus"
+msgstr "megosztás GOOGLE PLUS-on"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-option-list.php:84
+msgid "Write a review"
+msgstr "Értékelés írása"
+
+#: E:\ONWORKING\YW.THEME\DirectoryEngine\directoryengine/template/single-place-option-list.php:94
+msgid "Contact owner"
+msgstr "Felhasználó Megkeresése"

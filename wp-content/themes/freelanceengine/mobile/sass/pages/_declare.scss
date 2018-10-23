@@ -1,0 +1,27 @@
+/*!
+ * Declare Sass structure general EngineThemes (http://enginethemes.com)
+ */
+//== Colors
+$blue-base: #2c3e50 !default;
+$dark-blue-base: #233240 !default;
+
+$orange-base: #e74c3c !default;
+$orange-darker-base: #bf392b !default;
+
+$blue-light-base : #00b0ff !default;
+$blue-dark-base : #0090e9 !default;
+
+$green-base: #2ecc71 !default;
+$green-dark-base: #239b56 !default;
+
+$white-base: #fff !default;
+
+//** Global text color on `<body>`.
+$text-color: #666f78 !default;
+
+//## Font, line-height, and color for body text, headings, and more.
+
+$font-size-base: 14px !default;
+$font-size-page-h1: floor(($font-size-base * 1.7)) !default; // ~24px
+$font-size-page-h2: floor(($font-size-base * 1.55)) !default; // ~22px
+$font-size-page-h3: ceil(($font-size-base * 1.25)) !default; // ~24px

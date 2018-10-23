@@ -1,0 +1,331 @@
+# Translation of Themes - Twenty Sixteen in Czech
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 00:58:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Sixteen"
+msgstr "Twenty Sixteen"
+
+#. Description of the plugin/theme
+msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
+msgstr "Twenty Sixteen je modernizovaná a populární šablona pro WordPress - horizontální záhlaví s možným pravým zarovnáním, které se hodí perfektně pro blogy a stránky. Můžete si nastavit vlastní barvy a vybrat nádherné schéma barev, harmonická responsivní mřížka využívající mobile-first přístup a vyladěnost do nejmenších detailů. Díky Twenty Sixteen bude vaše WordPressová stránka vypadat skvěle kdekoliv."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:184 template-parts/content.php:28
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Pokračovat ve čtení<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post
+#: image.php:84 template-parts/content-page.php:37
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:45 template-parts/content.php:49
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Upravit<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:283
+msgid "Red"
+msgstr "Červený"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Jeden komentář u &ldquo;%s&rdquo;"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hledání"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Hledat &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Hledat:"
+
+#: footer.php:28
+msgid "Footer Social Links Menu"
+msgstr "Menu sociálních odkazů v patičce"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "Hlavní menu patičky"
+
+#: functions.php:158
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Rozmístěné widgety se budou zobrazovat v postranním panelu."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "Zvýrazněno"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Požadovaný obsah se na webu bohužel nenachází. Můžete ale zkusit vyhledávání konkrétního klíčového slova."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Omlouváme se, ale zadaný výraz nebyl na webu nalezen. Zkuste prosím hledat znovu nějaké jiné klíčové slovo."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Chystáte se publikovat první příspěvek? <a href=\"%1$s\">Můžete začít rovnou zde</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nic nenalezeno"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "Zobrazit archiv autora: %s"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "Autor:"
+
+#: single.php:38
+msgid "Previous post:"
+msgstr "Předchozí příspěvek:"
+
+#: single.php:37
+msgid "Previous"
+msgstr "Předchozí"
+
+#: single.php:35
+msgid "Next post:"
+msgstr "Následující příspěvek:"
+
+#: single.php:34
+msgid "Next"
+msgstr "Následující"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání: %s"
+
+#: inc/template-tags.php:106
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Štítky:"
+
+#: inc/template-tags.php:98
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Rubriky:"
+
+#: inc/template-tags.php:95 inc/template-tags.php:103
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:79
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publikováno:"
+
+#: inc/template-tags.php:38
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Formát:"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Napsat komentář<span class=\"screen-reader-text\"> pro text s názvem %s</span>"
+
+#: inc/template-tags.php:25
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autor:"
+
+#: inc/customizer.php:293
+msgid "Yellow"
+msgstr "Žluté"
+
+#: inc/customizer.php:273
+msgid "Gray"
+msgstr "Šedivá"
+
+#: inc/customizer.php:263
+msgid "Dark"
+msgstr "Tmavé"
+
+#: inc/customizer.php:172
+msgid "Main Text Color"
+msgstr "Barva hlavního textu"
+
+#: inc/customizer.php:253
+msgid "Default"
+msgstr "Základní"
+
+#: inc/customizer.php:184
+msgid "Secondary Text Color"
+msgstr "Barva vedlejšího textu"
+
+#: inc/customizer.php:160
+msgid "Link Color"
+msgstr "Barva odkazů"
+
+#: inc/customizer.php:145
+msgid "Page Background Color"
+msgstr "Barva pozadí stránky"
+
+#: image.php:102 single.php:29
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Přiřazeno:</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:41 inc/back-compat.php:53 inc/back-compat.php:68
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Sixteen vyžaduje minimálně WordPress verze 4.4. Aktuálně používáte verzi %s. Nejprve proveďte aktualizaci, a poté to prosím zkuste znovu."
+
+#: inc/customizer.php:130
+msgid "Base Color Scheme"
+msgstr "Barevné schéma šablony"
+
+#: image.php:73
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "Původní velikost:"
+
+#: image.php:56 template-parts/content-page.php:23
+#: template-parts/content-single.php:25 template-parts/content.php:33
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "Další obrázek"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "Předchozí obrázek"
+
+#: header.php:47
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#: functions.php:284
+msgid "expand child menu"
+msgstr "Zobrazit podřazené položky"
+
+#: functions.php:285
+msgid "collapse child menu"
+msgstr "Skrýt podřazené položky"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:213
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:166
+msgid "Content Bottom 1"
+msgstr "Patička 1"
+
+#: functions.php:168 functions.php:178
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "Objeví se ve spodní části příspěvků a stránek."
+
+#: functions.php:176
+msgid "Content Bottom 2"
+msgstr "Patička 2"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:203
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:208
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:156
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: functions.php:89 header.php:62
+msgid "Social Links Menu"
+msgstr "Menu pro sociální sítě"
+
+#: functions.php:88 header.php:51
+msgid "Primary Menu"
+msgstr "Hlavní menu"
+
+#: footer.php:51
+msgid "Proudly powered by %s"
+msgstr "Používáme %s (v češtině)"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Komentáře jsou uzavřeny."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentář na &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s komentáře na &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s komentářů na &bdquo;%2$s&ldquo;"
+
+#: archive.php:51 image.php:60 index.php:48 search.php:39
+#: template-parts/content-page.php:27 template-parts/content-single.php:29
+#: template-parts/content.php:37
+msgid "Page"
+msgstr "Stránka:"
+
+#: archive.php:50 index.php:47 search.php:38
+msgid "Next page"
+msgstr "Další stránka"
+
+#: archive.php:49 index.php:46 search.php:37
+msgid "Previous page"
+msgstr "Předchozí stránka"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Patrně jste chtěli zobrazit stránku, která se na webu bohužel nenachází. Můžete ale zkusit vyhledávání konkrétního klíčového slova."
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Omlouváme se, ale stránka nebyla nalezena."
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr "https://wordpress.org/themes/twentysixteen/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "Vývojáři WordPressu (a překladatelé)"
+
+#. #-#-#-#-#  twentysixteen.pot (Twenty Sixteen 1.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:51
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"

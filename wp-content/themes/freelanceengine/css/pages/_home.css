@@ -1,0 +1,13 @@
+.fre_container .vc_row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.fre_container .vc_row.vc_row-fluid {
+  margin-bottom: 0;
+}
+
+.fre_container .vc_col-sm-12 {
+  padding-left: 0;
+  padding-right: 0;
+}

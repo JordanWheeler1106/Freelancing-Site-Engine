@@ -1,0 +1,22 @@
+/*!
+ * Style Sass All Pages Mobile Freelancer EngineThemes (http://enginethemes.com)
+ /*---------------------------------------
+TREE CSS STRUCTURE
+1.IMPORT BOOTSTRAP 3
+2.CUSTOM CSS FOR ALL PAGES
+  2.1 DECLARE PARAMETERS FOR PAGE
+    2.1.1 STICKY MENU
+    2.1.2 POPUP MENU SEARCH
+------------------------------*/
+/*---------------------------
+  1.IMPORT BOOTSTRAP 3
+--------------------------------*/
+@import "../../sass/_bootstrap";
+/*---------------------------
+  2.CUSTOM CSS FOR ALL PAGES
+--------------------------------*/
+@import "_pages";
+/*---------------------------
+  3.CUSTOMIZED BOOTSTRAP FOR PAGE
+--------------------------------*/
+@import "_customized";
